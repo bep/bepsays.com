@@ -1,0 +1,72 @@
+---
+author: bep
+comments: true
+date: 2010-10-22 20:16:34+00:00
+slug: domene
+title: Å finne eit ledig domene
+wordpress_id: 812
+categories:
+- Teknologi
+---
+
+**Å finne eit ledig og godt domene på internett er ei utfordring. Dei mest opplagte har ofte nokon før deg teke, så då må ein kombinere ord.**
+
+
+<!--more-->
+Her er eit enkelt Bash-script som eg skreiv for å finne eit domene til bepsays.com:
+
+{{< highlight bash >}}
+#!/bin/bash
+
+cat $1 |while read line; do
+    for domaintocheck in "${2}${line}.${3}" "${line}${2}.${3}"
+    do
+        whoisres=`whois $domaintocheck`;
+        if grep -q 'No match' <<<$whoisres; then
+            echo "${domaintocheck}";
+        fi
+    done
+done    #!/bin/bash
+    
+    cat $1 |while read line; do
+    	for domaintocheck in "${2}${line}.${3}" "${line}${2}.${3}"
+    	do
+    		whoisres=`whois $domaintocheck`;
+    		if grep -q 'No match' <<<$whoisres; then
+    			echo "${domaintocheck}";
+    		fi
+    	done
+    done
+
+{{< / highlight >}}
+
+Ein må nok ha ein *nix-variant for å køyre dette skriptet (alternativt [Cygwin](http://www.cygwin.com/) for Windows). Eg er ingen Bash-ekspert, skriptet er skrive på 7 minutt, utan sjekk av innargument – pragmatisk fortalt: Det funkar.
+
+Om du lagrer dette skriptet som "domainchecker.sh" og køyrer chmod +x  domainchecker.sh, så er skriptet køyrbart.
+
+Skriptet tek tre argument: Ei fil med ord, eit ord det skal kombinerast med og domenet ein ynskjer å sjekke mot (com, net, no ...).
+
+Så om ein lagar ei tekstfil med t.d.:
+
+heia
+aabrekk
+saftkokaradn
+
+Og køyrer dette skriptet:
+
+
+    
+    ./domainchecker.sh words.txt sogndal com
+
+
+
+Vil ein (i skrivande stund) få resultatet:
+
+sogndalheia.com
+heiasogndal.com
+sogndalaabrekk.com
+aabrekksogndal.com
+sogndalsaftkokaradn.com
+saftkokaradnsogndal.com
+
+Som alle skal vere ledige domener, i følge [Whois](http://en.wikipedia.org/wiki/Whois).

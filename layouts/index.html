@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+{{ partial "menu.html" . }}
+<div class="content container">
+    <div class="main posts">
+        {{ range first 1 (where .Data.Pages "Section" "post") }}
+        <div class="post">
+            <h1 class="post-title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </h1>
+            <div class="post-summary">{{ .Summary }}</div>
+            <div class="read-more"><a class="btn btn-lg bs-btn-info" href="{{ .RelPermalink }}">Hald fram →</a></div>
+        </div>
+        {{ end }}
+
+
+    </div>
+</div>
+{{ partial "footer.html" . }}

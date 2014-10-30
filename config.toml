@@ -1,0 +1,18 @@
+baseurl = "http://bepsays.com/"
+title = "bepsays"
+languageCode = "no-nn"
+
+PygmentsStyle = "bw"
+
+[params]
+    description = "bepsays.com sine tankar om dette og hint."
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+
+[Taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+

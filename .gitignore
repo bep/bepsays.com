@@ -1,0 +1,8 @@
+
+/dev
+/.idea
+/node_modules
+nohup.out
+*.iml
+/static/css
+/static/js

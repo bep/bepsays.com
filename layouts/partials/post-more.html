@@ -1,0 +1,13 @@
+<div class="post-more-container">
+    <hr/>
+    <div class="post-more">
+        <div class="btn-group">
+            <a class="btn btn-lg bs-btn-default{{if not .Next}} disabled{{end}}" href="{{if .Next}}{{.Next.Permalink}}{{end}}">Eldre</a>
+            <a class="btn btn-lg bs-btn-default{{if not .Prev}} disabled{{end}}" href="{{if .Prev}}{{.Prev.Permalink}}{{end}}">Nyare</a>
+            {{ range .Params.categories }}
+            <a href="/categories/{{ . | lower | urlize }}" class="btn btn-lg bs-btn-info">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+    {{ partial "series.html" . }}
+</div>

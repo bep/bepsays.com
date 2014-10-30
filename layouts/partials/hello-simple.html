@@ -1,0 +1,18 @@
+<div id="hello" class="hello">
+    <hr/>
+    <div class="follow"><a href="https://twitter.com/bepsays" class="socialite twitter-follow" data-show-count="true">Dilt etter @bepsays</a></div>
+
+    <p>Gjer vel og dilt etter meg på <a href="https://twitter.com/intent/user?screen_name=bepsays" target="_blank">Twitter</a> eller putt <a
+            href="http://feeds.feedburner.com/bepsays" target="_blank">straumen</a> inn i RSS-lesaren.</p>
+
+
+</div>
+{{ if not .Site.BuildDrafts }}
+<script>
+    $(function () {
+        $('#hello').appear(function () {
+            Socialite.load($('#hello'));
+        });
+    });
+</script>
+{{end }}

@@ -1,0 +1,14 @@
+---
+author: bep
+comments: true
+date: 2012-05-17 16:44:09+00:00
+slug: 17-mai-2012-i-oslo
+title: 17. mai 2012 i Oslo
+wordpress_id: 1647
+categories:
+- Foto
+---
+
+**Nokre bilete frå 17. mai 2012, området rundt Solli plass i Oslo.**
+
+[maxgallery id="2575"]
