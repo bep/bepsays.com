@@ -8,7 +8,7 @@
 
 /*! This is CC's styles, all rights reserved. */
 
-@bs-font-size-base: 18px;
+@bs-font-size-base: 17px;
 @bs-font-size-large: ceil((@bs-font-size-base * 1.25));
 @bs-font-size-small: ceil((@bs-font-size-base * 0.85));
 
@@ -91,11 +91,11 @@ a {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3.6rem;
   //text-transform: uppercase;
   text-align: center;
   line-height: 1;
-  margin-bottom: @bs-margin-small;
+  margin-bottom: @bs-margin-med;
 }
 
 h3.masthead-title {
@@ -319,9 +319,12 @@ b, strong {
 }
 
 .post-more-container {
+  float: right;
+  padding-right: 1.4rem;
+  margin-top: @bs-margin-med;
   padding-bottom: 4rem;
   .post-more {
-    text-align: center;
+   // text-align: center;
   }
 }
 
@@ -419,15 +422,13 @@ b, strong {
 // Social ...
 
 .bs-share {
-  margin: 0 auto;
+  float: right;
+  //margin: 0 auto;
 
   ul {
-    float: left;
     width: 100%;
 
-    li {
-      display: inline;
-    }
+
   }
 
   .cf:after {

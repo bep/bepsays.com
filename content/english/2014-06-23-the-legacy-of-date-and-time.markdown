@@ -16,18 +16,19 @@ So the creators of the new API decided they needed to bridge the old and the new
 
 <!--more-->
 
-    
-    @SuppressWarnings("deprecation")
-    public static Timestamp valueOf(LocalDateTime dateTime) {
-        return new Timestamp(dateTime.getYear() - 1900,
-                dateTime.getMonthValue() - 1,
-                dateTime.getDayOfMonth(),
-                dateTime.getHour(),
-                dateTime.getMinute(),
-                dateTime.getSecond(),
-                dateTime.getNano());
-    }
-    
+{{< highlight java >}}    
+@SuppressWarnings("deprecation")
+public static Timestamp valueOf(LocalDateTime dateTime) {
+    return new Timestamp(dateTime.getYear() - 1900,
+            dateTime.getMonthValue() - 1,
+            dateTime.getDayOfMonth(),
+            dateTime.getHour(),
+            dateTime.getMinute(),
+            dateTime.getSecond(),
+            dateTime.getNano());
+}
+
+{{< / highlight >}}
 
 
 java.sql.Timestamp extends java.util.Date, but they are very different, a _Timestamp _is **not** a _Date. _But then java.util.Date isn't really a date, either, but an instant in time ([Epoch time](http://en.wikipedia.org/wiki/Unix_time), number of milliseconds since Thursday, January 1 1970).
@@ -57,26 +58,29 @@ The JavaDoc of [java.time.LocalDateTime](http://docs.oracle.com/javase/8/docs/ap
 
 _Offset _is offset in (usually) whole hours from Greenwich/UTC. Different time-zones can share the same offset, but have different rules for daylight saving time. So if I create an instance of java.time.LocalDateTime on my computer, with it's default time-zone set at _Europe/Oslo_, it will print the same as it would when created on a computer in Beijing. But what do I get when converting it to a _Timestamp?_
 
+{{< highlight java >}}    
     
-    ZoneId systemZone = ZoneId.systemDefault();
-    out.println(systemZone);
-    // => Europe/Oslo
-    
-    LocalDateTime dateTime = LocalDateTime.of(1970, Month.JANUARY, 1, 0, 0);
-    out.println(dateTime);
-    // => 1970-01-01T00:00
-    
-    Timestamp timestamp1 = Timestamp.valueOf(dateTime);
-    out.println(timestamp1.getTime());
-    // ==> -3600000 ( -1 hour)
-    
-    ZonedDateTime zonedDateTime = ZonedDateTime.of(dateTime, ZoneOffset.UTC);
-    out.println(zonedDateTime);
-    // => 1970-01-01T00:00Z
-    
-    Timestamp timestamp2 = Timestamp.from(zonedDateTime.toInstant());
-    out.println(timestamp2.getTime());
-    // ==> 0
+ZoneId systemZone = ZoneId.systemDefault();
+out.println(systemZone);
+// => Europe/Oslo
+
+LocalDateTime dateTime = LocalDateTime.of(1970, Month.JANUARY, 1, 0, 0);
+out.println(dateTime);
+// => 1970-01-01T00:00
+
+Timestamp timestamp1 = Timestamp.valueOf(dateTime);
+out.println(timestamp1.getTime());
+// ==> -3600000 ( -1 hour)
+
+ZonedDateTime zonedDateTime = ZonedDateTime.of(dateTime, ZoneOffset.UTC);
+out.println(zonedDateTime);
+// => 1970-01-01T00:00Z
+
+Timestamp timestamp2 = Timestamp.from(zonedDateTime.toInstant());
+out.println(timestamp2.getTime());
+// ==> 0
+
+{{< / highlight >}}    
     
 
 

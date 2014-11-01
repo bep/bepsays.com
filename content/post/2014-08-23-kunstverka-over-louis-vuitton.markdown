@@ -1,13 +1,16 @@
----
-author: bep
-comments: true
-date: 2014-08-23 17:28:37+00:00
-slug: kunstverka-over-louis-vuitton
-title: Kunstverka over Louis Vuitton
-wordpress_id: 2938
-categories:
-- Foto
----
++++
+date = "2014-08-23T09:41:42+01:00"
+slug = "kunstverka-over-louis-vuitton"
+title = """\
+Kunstverka over 
+Louis Vuitton
+"""
+
+wordpress_id = 2938
+categories = ["Foto"]
++++
+
+
 
 **Tykkjer du det er for dyrt å gå inn, kan du heve blikket – og nyte veggmåleria.**
 
