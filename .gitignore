@@ -1,8 +1,12 @@
 
 /dev
+/dist
 /.idea
 /node_modules
 nohup.out
 *.iml
 /static/css
 /static/js
+
+layouts/partials/footer.html
+layouts/partials/head.html

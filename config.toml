@@ -1,4 +1,5 @@
-baseurl = "http://bepsays.com/"
+#baseurl = "http://bepsays.com/"
+baseurl = "bjornerik.github.io/bepsays.com/"
 title = "bepsays"
 languageCode = "no-nn"
 
