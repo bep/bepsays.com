@@ -11,11 +11,11 @@ categories:
 
 **«2160 menn omkom. Vi snakkar altså om det største slaget i norsk historie. Det er ei skam at Sogn ikkje har fått til kulturnæring av Slaget ved Fimreite,»  fortel lokalhistorikar Johs B. Thue til [NRK Sogn og Fjordane](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7323241).**
 
-{{< figure src="/img/wp/800px-Fimreite_Norafjorden.jpg" class="alignright" caption="Fimreite til høgre på hi sida av fjorden. Foto: Per Olav Bøyum (Wikimedia Commons)" >}}
+Kanskje lokalpolitikarane bør ta ein skuletur til Irak for å sjå kva dei har fått til der nede etter [slaget i Nasiriyah](http://en.wikipedia.org/wiki/Battle_of_Nasiriyah).
 
 <!--more-->
 
-Kanskje lokalpolitikarane bør ta ein skuletur til Irak for å sjå kva dei har fått til der nede etter [slaget i Nasiriyah](http://en.wikipedia.org/wiki/Battle_of_Nasiriyah).
+{{< figure src="/img/wp/800px-Fimreite_Norafjorden.jpg" class="alignright" caption="Fimreite til høgre på hi sida av fjorden. Foto: Per Olav Bøyum (Wikimedia Commons)" >}}
 
 For øvrig er det vel _soga_ som fortel at 2160 menn omkom. Ein skal ikkje tru alt ein les i Verdens Gang.
 

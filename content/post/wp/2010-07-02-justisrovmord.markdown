@@ -11,7 +11,7 @@ categories:
 
 **Kven drap eigentleg [sauene i Lærdalsfjella](http://sognavismeiner.origo.no/-/bulletin/show/581270_kjapp-visitt)? Dette og andre interessante spørsmål blir stilte i leiaren i Sogn Avis, no som redaktøren er på ferie.**
 
-{{< figure src="/img/wp/450px-Medved_mzoo.jpg" class="alignright" caption="Ein brunbjørn i dyrehagen i Moskva (illustrasjonsfoto)" >}}
+{{< figure src="/img/wp/450px-Medved_mzoo.jpg" class="alignright small" caption="Ein brunbjørn i dyrehagen i Moskva (illustrasjonsfoto)" >}}
 
 <!--more-->
 

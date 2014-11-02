@@ -12,9 +12,13 @@ categories:
 
 <!--more-->
 
+
+Protokollen [HTTP](http://en.wikipedia.org/wiki/HTTP) vart laga for å hente ut dokument, med ein førespurnad og eit svar (request/response), eller kommunikasjon som ein walkie talkie om du vil. HTTP er tilstandslaus, og kvar førespurnad blir påført masse metadata. 
+
 {{< figure src="/img/wp/mrdoobscratchpad.png" class="alignright" caption="Skjermdump frå mrdoob.com sitt teiknebrett der alle kan teikne samstundes, takka vere WebSockets." >}}
 
-Protokollen [HTTP](http://en.wikipedia.org/wiki/HTTP) vart laga for å hente ut dokument, med ein førespurnad og eit svar (request/response), eller kommunikasjon som ein walkie talkie om du vil. HTTP er tilstandslaus, og kvar førespurnad blir påført masse metadata. Med Web 2.0 har me rett nok fått rikare og meir interaktive applikasjonar, som Facebook, GMail og liveoverføring av fotballkampar. Men til ein pris: Begrensningane i HTTP gjer applikasjonane kompliserte og dyre å lage. Og dei genererer store mengder nettverkstrafikk, som i seg sjølv set grenser for kva ein kan få gjort.
+Med Web 2.0 har me rett nok fått rikare og meir interaktive applikasjonar, som Facebook, GMail og liveoverføring av fotballkampar. Men til ein pris: Begrensningane i HTTP gjer applikasjonane kompliserte og dyre å lage. Og dei genererer store mengder nettverkstrafikk, som i seg sjølv set grenser for kva ein kan få gjort.
+
 
 WebSockets er ein svært undervurdert del av [HTML5](http://dev.w3.org/html5/spec/Overview.html)-spesifikasjonen. WebSockets er [TCP](http://www.igvita.com/2009/12/22/ruby-websockets-tcp-for-the-browser/) for nettlesaren. [Full-duplex](http://en.wikipedia.org/wiki/Duplex_%28telecommunications%29#Full-duplex), kommunikasjonen går begge vegar - og kommunikasjonslinja vert halde open, og ein kan ha så mange ein berre vil. Datamengda nettlesaren sender for kvart tastetrykk i autofullfør-funksjonen til Google-søket går ned frå 800 til 2 bytes (og der blir det gjort mange tastetrykk). John Fallows seier Facebook var svært imponerte då selskapet hans, [Kaazing](http://kaazing.com/), demonstrerte ein WebSocket-versjon av Facebook-chatten, som - til tross for at den var laga på ein god ettermiddag - virka slik chatten til Facebook skulle ha gjort.
 
