@@ -13,13 +13,18 @@ categories:
 
 _Lærdal brenn!_ Gyllevognene går i skytteltrafikk mellom elvi og bygdi. _Chariots of Fire._
 
+{{< figure src="/img/wp/2012-05_L%C3%A6rdals%C3%B8yri-Chell-Hill-750x313.jpg" caption="Naustrekka ved Lærdalsfjorden (2012). Foto: Chell Hill." >}}
+
+
 <!--more-->
+
 
 Overskriftene blir omsider _Lærdal brann._ Det gjekk gale, men kunne gått så mykje verre.
 
 Bygdi kjend for sambandet mellom aust og vest. Bygdi kjend for gamal og verneverdig arkitektur. Bygdi kjend for desse romslege og lunefulle innbyggarane som tek imot kongar med fiskestong med eit godsleg nikk.
 
-[caption id="attachment_2289" align="alignright" width="300"][![Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901](http://bepsays.com/wp-content/uploads/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-Lærdalsøren-i-Sognefjorden-olje-på-lerret-1901.-300x217.jpeg)](http://bepsays.com/wp-content/uploads/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-Lærdalsøren-i-Sognefjorden-olje-på-lerret-1901..jpeg) Themistokles von Eckenbrecher (1876-1935). «Utsikt over Lærdalsøren i Sognefjorden», olje på lerret 1901.[/caption]
+{{< figure src="/img/wp/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-L%C3%A6rdals%C3%B8ren-i-Sognefjorden-olje-p%C3%A5-lerret-1901..jpeg" caption="Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901" >}}
+
 
 Dei lyt til Sogndal for å gå på vidaregåande, ungdomane i Lærdal. Men dei vender attende. Kanskje opnar dei ein butikk for musikk på vinyl, eller dei tek over farsgarden (farsgardar er det mange av i denne langstrekte dalen).
 
@@ -32,8 +37,7 @@ For oss andre er dette mest ei bygd me køyrer forbi. Hei, Lærdal! Nokre stogga
 «Der var det vakkert,» seier me og stig ombord i ferja på Fodnes. Ja ja, me får eit gjensyn neste gong me dreg austover.
 
 
-<blockquote>I dag er det Lærdal det gjeld. Denne særmerkte bygdebyen i indre Sogn. Eller kanskje rettare: Den minner om ein ekte europeisk landsby av tradisjonsrikt merke. Harald Stanghelle i [Aftenposten](http://www.aftenposten.no/meninger/kommentarer/Det-nare-infernoet-7441049.html)</blockquote>
-
+>I dag er det Lærdal det gjeld. Denne særmerkte bygdebyen i indre Sogn. Eller kanskje rettare: Den minner om ein ekte europeisk landsby av tradisjonsrikt merke. **Harald Stanghelle i [Aftenposten](http://www.aftenposten.no/meninger/kommentarer/Det-nare-infernoet-7441049.html)**
 
 {{< figure src="/img/wp/Laerdalsoyri01-Frode-Inge-Helland.jpg" class="alignright" caption="Øyragata. Foto: Frode Inge Helland." >}}
 
@@ -41,7 +45,7 @@ Eg er sogndøl. Og eg kjenner lærdølene som trivelege, litt midt på treet på
 
 Og dei har vore ute ein vinterdag før, lærdølene. Fylkesleksikonet til NRK Sogn og Fjordane fortel om [målstriden i Lærdal](http://www.nrk.no/sf/leksikon/index.php/Noregs_bitraste_m%C3%A5lstrid), ei soge som gir tårer i augene hjå nynorskskribentar som meg sjølv. Denne soga er lang, og du kan lesa ho i sitt fulle i fylkesradioen sitt leksikon, men her kjem sprintversjonen:
 
-[Bjørnstjerne Bjørnson](http://nn.wikipedia.org/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson) kjem til bygdi i 1899 og manar til kamp for bokmålet,  Lærdal skulestyre vedtek i 1908 nynorsk som skulemål. Skulestyret vedtek deretter valfridom i 1909, men i 1910 vert målsaka sjølvaste valkampsaka. I formannsvalet får nynorskfolket styreformannen, men han bryt foten etter kort tid. Distriktslege og bokmålsmann Møinichen gir langvarig sjukmelding og ser sitt stikk til eit kupp med attval. Ein bonde i Lærdal nektar å para kyrne sine med ein avlsstut som står i fjøsen til ein bokmålsmann. Den sjukmelde styreformannen tviheld på arkivnøkkel og møtebok. Distriktslegen kverrset posten til skulestyret, og på Tønjum får dei privatskule med bokmål med sørlandsk aksent. Skuleformannen vert frisk att, men distriktslegen vert skulestyrformann ved loddtrekning. I folkerøystinga i 1911 vert det fleirtal for innføring av nynorsk i dei første krinsane. I 1939 kjem Hegg inn som den siste nynorskkrinsen.
+>[Bjørnstjerne Bjørnson](http://nn.wikipedia.org/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson) kjem til bygdi i 1899 og manar til kamp for bokmålet,  Lærdal skulestyre vedtek i 1908 nynorsk som skulemål. Skulestyret vedtek deretter valfridom i 1909, men i 1910 vert målsaka sjølvaste valkampsaka. I formannsvalet får nynorskfolket styreformannen, men han bryt foten etter kort tid. Distriktslege og bokmålsmann Møinichen gir langvarig sjukmelding og ser sitt stikk til eit kupp med attval. Ein bonde i Lærdal nektar å para kyrne sine med ein avlsstut som står i fjøsen til ein bokmålsmann. Den sjukmelde styreformannen tviheld på arkivnøkkel og møtebok. Distriktslegen kverrset posten til skulestyret, og på Tønjum får dei privatskule med bokmål med sørlandsk aksent. Skuleformannen vert frisk att, men distriktslegen vert skulestyrformann ved loddtrekning. I folkerøystinga i 1911 vert det fleirtal for innføring av nynorsk i dei første krinsane. I 1939 kjem Hegg inn som den siste nynorskkrinsen.
 
 Folketalet var i Lærdal kommune i følgje [Statistisk sentralbyrå](http://ssb.no/befolkning/statistikker/folkber/aar/2013-12-19?fane=tabell&sort=nummer&tabell=153937) ved byrjinga av 2013 2 176, med ein forventa svak nedgang mot enden av året. [681 folkeregistrerte vart evakuerte ](http://www.nrk.no/sognogfjordane/halve-bygda-evakuert-1.11494974)under storbrannen, 393 husstandar. Dette er halvparten av innbyggarane i tettstaden [Lærdalsøyri](http://nn.wikipedia.org/wiki/L%C3%A6rdals%C3%B8yri). 30 bygningar vart øydelagde – 17 hus brann ned til grunnen.
 
