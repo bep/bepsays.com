@@ -12,7 +12,7 @@ categories:
 
 **Make content boxes with a linear colour scheme using a LESS loop.**
 
-[bs-featured id="bs-featured-8-2.40_1"]Linear colour scheme by LESS[/bs-featured]
+{{< figure src="/img/wp-featured/bepsays-gradient-boxes-1024x448.png" caption="Linear colour scheme by LESS" >}}
 
 <!--more-->
 
@@ -29,37 +29,35 @@ _The LESS snippet below explained:_
   * .bs-main-box-@{index} - Will create CSS classes _.bs-main-box-1, .bs-main-box-2_ ... _.bs-main-box-6_
 
 	
-  * The styling is performed in the mixin .bs-main-box-style(@index)
+  * The styling is performed in the mixin .bs-main-box-style(@index)    
+
+{{< highlight css >}}
+
+.bs-main-box-style(@index) {
+    @color: desaturate(spin(lighten(#CC66FF, 28%), @index * 40), (@index * 5));
+
+    background-color: @color;
+    .bs-title-icon {
+      color: darken(@color, 20%);
+    }
+    border: 1px solid darken(@color, 4%);
+  }
+
+  @no-main-boxes: 6;
+
+  .loop (@index) when (@index > 0) {
+
+    .bs-main-box-@{index} {
+      .bs-main-box-style(@index);
+    }
+
+    .loop(@index - 1);
+  }
+
+  .loop (@no-main-boxes);
 
 
-
- 
-
-    
-     
-      .bs-main-box-style(@index) {
-        @color: desaturate(spin(lighten(#CC66FF, 28%), @index * 40), (@index * 5));
-        background-color: @color;
-        .bs-title-icon {
-          color: darken(@color, 20%);
-        }
-        border: 1px solid darken(@color, 4%);
-      }
-    
-      @no-main-boxes: 6;
-    
-      .loop (@index) when (@index > 0) {
-    
-        .bs-main-box-@{index} {
-          .bs-main-box-style(@index);
-        }
-    
-        .loop(@index - 1);
-      }
-    
-      .loop (@no-main-boxes);
-    
-
+{{< / highlight >}}
 
 
 

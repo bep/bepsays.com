@@ -12,7 +12,7 @@ categories:
 
 **After _Clojure_ – richer, for sure. If Rich Hickey's life line is a persistent list, there should be ways to track the _value of values_.**
 
-[bs-featured id="bs-featured-6-2.40_1"]Rich Hickey (2009). Photo: Tapestry Dude [/bs-featured]
+{{< figure src="/img/wp-featured/Rich_Hickey1.jpg" caption="Rich Hickey (2009). Photo: Tapestry Dude" >}}
 
 <!--more-->
 

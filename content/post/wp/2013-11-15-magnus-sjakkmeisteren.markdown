@@ -15,9 +15,8 @@ Fredag 22. november 2013 er dagen **då [Magnus Carlsen](http://nn.wikipedia.org
 
 <!--more-->
 
-Dette er _stort. _Foreldra til Carlsen var framsynte då dei døypte guten.
+Dette er _stort._ Foreldra til Carlsen var framsynte då dei døypte guten.
 
-[bs-featured id="bs-featured-8-3_2"]Åpningsstilling. Foto: Michael Maggs[/bs-featured]
 
 
 ## Kongane

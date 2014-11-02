@@ -16,18 +16,17 @@ And by "polish" they don’t mean a person from Poland, but: I am not changing a
 
 <!--more-->
 
-[bs-featured id="bs-featured-6-3_1"]Shoeshine stand, Southeastern U.S. by Walker Evans,1936 [/bs-featured]
+
+{{< figure src="/img/wp-featured/Shoeshine_stand_Southeastern_U.S._by_Walker_Evans_1936.jpg" caption="Shoeshine stand, Southeastern U.S. by Walker Evans,1936" >}}
+
+
 
 The listings below are all outputs from the following one liner:
 
-git log -i --grep=polish --pretty=format:"%an" | sort | uniq -c | sort -nr 
+`git log -i --grep=polish --pretty=format:"%an" | sort | uniq -c | sort -nr` 
 
 
 ## Spring Framework
-
-
-
-    
         
         346 Juergen Hoeller
         182 Keith Donald
@@ -47,22 +46,13 @@ git log -i --grep=polish --pretty=format:"%an" | sort | uniq -c | sort -nr
           1 Costin Leau
           1 Ben Hale
           1 Andy Wilkinson
-    
-
 
 [Jürgen Höller](https://twitter.com/springjuergen) is topping this list. He is one of the two founders of this [framework](https://github.com/spring-projects/spring-framework), he is the top committer and is renowned for his very high quality software code. And the term [_Jürgenized_](http://olivergierke.de/2013/03/juergenized/) is made in his name:
 
 
 <blockquote>The process of turning code to solve a problem at hand that might look sufficient at the first glance into rock solid, quality assured, perfectly documented and extensible code. Jürgenization</blockquote>
 
-
-
-
 ## Spring Boot
-
-
-
-    
         
         164 Phillip Webb
          10 Christian Dupuis
@@ -71,21 +61,14 @@ git log -i --grep=polish --pretty=format:"%an" | sort | uniq -c | sort -nr
           1 Josh Long
     
 
-
 [Spring Boot](https://github.com/spring-projects/spring-boot) is a fairly young project. Not surprising to see one of the two project leads, Phillip Webb (940 commits), on top of this list. A little more surprising **not** seeing Dave Syer (1261 commits), the other project lead, on this list.
 
-https://twitter.com/phillip_webb/status/505022938156785664
+{{< tweet 505022938156785664 >}}
 
 
 ## Hibernate ORM
-
-
-
-    
           
     3 Sanne Grinovero
-    
-
 
 Almost no polishing from the [Hibernate](https://github.com/hibernate/hibernate-orm) department.
 

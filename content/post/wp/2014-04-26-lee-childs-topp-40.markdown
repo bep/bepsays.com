@@ -14,23 +14,12 @@ categories:
 Lee Child er mellom mine favorittforfattarar, bøkene om Jack Reacher er berre fantastisk spenning. Og det var han som fekk meg attende på sporet av den skotske forfattaren gjennom si liste over dei 40 beste bøkene gjennom tidene._
 
 <!--more-->
-_
 
 
-<blockquote>His first dozen books are all great – why not start here?
-Lee Child om _The Golden Rendezvous_</blockquote>
-
-
-
+>His first dozen books are all great – why not start here?
+Lee Child om _The Golden Rendezvous_
 
 Og Lee Child har sjølvsagt rett. Dette er spenningslitteratur på høgt nivå. No er dette aldrande bøker, så teknologien  er frå ei heilt annan tid og det er kanskje ikkje måte på kva heltane får til. Men mi éine motførestelling mot MacLean sine bøker er denne gnagande kjensla eg får av at dette har eg lest før. Og det har eg også ganske sikkert, for lenge sidan.
-
-
-
-
-[bs-featured id="bs-featured-8-3_1"]Ei samling Alistair MacLean-bøker.[/bs-featured]
-
-
 
 
 Eg leste for øvrig også nyleg _Sophie’s Choice _(nummer fire på denne lista). Fantastisk også denne, men eg røper vel ikkje mykje når eg seier at dette er noko anna enn MacLean.

@@ -11,7 +11,7 @@ categories:
 
 **Skal du ha deg ei bukse og du er mann må du finne andre plassar å handle enn på Frogner i Oslo.**
 
-[bs-featured id="bs-featured-8-2.40_1"]To klesbutikkar på Riddervolds plass i 2010.[/bs-featured]
+{{< figure src="/img/wp/klesbutikk_riddervoldsgate.jpg" class="alignright" caption="Dei to klesbutikkane i Riddervoldsgate i Oslo, 2010." >}}
 
 <!--more-->
 

@@ -11,7 +11,7 @@ categories:
 
 **– Eg fekk ingenting av mannen min på gebursdagen min tysdag, seier kvinna fortvila.**
 
-[bs-featured id="bs-featured-8-2.40_1"]Foto: bep[/bs-featured]
+{{< figure src="/img/wp-featured/Girl-wearing-a-sheep-leather-west.jpg" caption="–  Så då  måte eg kjøpe denne saueskinnsvesten til meg sjølv. Sjå! " >}}
 
 <!--more-->
 
