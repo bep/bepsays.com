@@ -14,7 +14,6 @@
                target="_blank"><span class="vhidden">Del på Google+</span></a></li>
         <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{.Permalink}}&amp;title={{.LinkTitle}}" class="socialite linkedin-share"
                data-url="{{.Permalink}}" data-counter="top" rel="nofollow" target="_blank"><span class="vhidden">Del på LinkedIn</span></a></li>
-        <li><a href="http://news.ycombinator.com/submit" class="socialite hackernews-share"><span class="vhidden">Stem på HN</span></a></li>
     </ul>
 </div>
 
@@ -28,7 +27,7 @@
                 appId: 111055509053223
             }
         });
-        var el = $(".post p").slice(-2);
+        var el = $(".post p").slice(-1);
         if (!el.length) {
             el = $('#bs-share');
         }

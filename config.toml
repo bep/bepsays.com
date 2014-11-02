@@ -1,6 +1,5 @@
-#baseurl = "http://bepsays.com/"
-baseurl = "http://bjornerik.github.io/bepsays.com/"
-title = "bepsays"
+baseurl = "http://bepsays.com/"
+title = "bepsays.com"
 languageCode = "no-nn"
 
 PygmentsStyle = "bw"
@@ -10,6 +9,7 @@ PygmentsStyle = "bw"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
+  english = "/:year/:month/:day/:slug/"
 
 [Taxonomies]
     tag = "tags"
