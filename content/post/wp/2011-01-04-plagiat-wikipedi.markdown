@@ -5,6 +5,8 @@ date: 2011-01-04 22:39:52+00:00
 slug: plagiat-wikipedi
 title: Meteorologar er billegare i drift
 wordpress_id: 1158
+tags:
+- Wikipedia
 categories:
 - Språk
 - Teknologi

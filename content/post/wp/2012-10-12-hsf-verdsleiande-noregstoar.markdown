@@ -9,9 +9,7 @@ categories:
 - Fylkesspit
 ---
 
-****Høgskulen i Sogn og Fjordane er ikkje inne [på listene](http://www.aftenposten.no/jobb/Norske-universiteter-ligger-langt-bak-eliten-6999890.html) over verdas beste universitet. Men det kan det bli ei endring på.****
-
-{{< figure src="/img/wp/MIT_Building_10_and_the_Great_Dome_Cambridge_MA1.jpg" class="alignright" caption="Massachusetts Institute of Technology er kåra til verdas beste universitet. Foto: John Phelan." >}}
+**Høgskulen i Sogn og Fjordane er ikkje inne [på listene](http://www.aftenposten.no/jobb/Norske-universiteter-ligger-langt-bak-eliten-6999890.html) over verdas beste universitet. Men det kan det bli ei endring på.**
 
 <!--more-->
 
@@ -20,10 +18,12 @@ I alle fall om ein skal tru Rasmus Stokke, dekan ved avdeling for lærarutdannin
 – Høgskulen i Sogn og Fjordane vert verdsleiande. Det hevar statusen vår, ein idrettshøgskule nummer to etter Norges idrettshøgskule, [seier](http://www.sognavis.no/lokale_nyhende/article6280541.ece) han til Sogn Avis, etter at det er klart at forskingsrådet har innvilga 17,5 millionar kroner til eit forskingsprosjekt.
 
 
-<blockquote>Høgskulen i Sogn og Fjordane vert verdsleiande. dekan Rasmus Stokke</blockquote>
+>Høgskulen i Sogn og Fjordane vert verdsleiande. -- **Dekan Rasmus Stokke*
 
 
 Det er Geir Kåre «GK» Resaland som frontar forskingsprosjektet, som skal sjå på samanhengen mellom fysisk aktivitet og innsatsen i klasserommet. Sjølv voks han opp tjue meter frå barneskulen Trudvang.
+
+{{< figure src="/img/wp/MIT_Building_10_and_the_Great_Dome_Cambridge_MA1.jpg" class="alignright" caption="Massachusetts Institute of Technology er kåra til verdas beste universitet. Foto: John Phelan." >}}
 
 No skal det jo forskast før skinnet kan seljast, og det er vel heller ikkje slik at sogndølene er aleine om forsking her til lands: Forskingsrådet har i 2012 eit budsjett på [7 433](http://www.forskningsradet.no/no/Nokkeltal/113878579723) millionar kroner.
 

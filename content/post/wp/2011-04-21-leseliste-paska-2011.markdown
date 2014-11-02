@@ -8,13 +8,11 @@ wordpress_id: 1325
 categories:
 - Litteratur
 ---
-{{< figure src="/img/wp/David-Baldacci-Sixth-Man.jpg" class="alignright" caption="Baldacci er gode greier." >}}
-
-
 **Påske = krimlitteratur. For meg er vel denne likninga sann med alle høgtider og årstider på venstresida, men eg har handla inn nokre knakande gode bøker som eg skal sluke under påskesoli:**
 
 <!--more-->
-	
+
+
   * David Baldacci: _The Sixth Man_
 
 	
@@ -23,6 +21,8 @@ categories:
 	
   * Robert Crais: _Indigo slam_
 
+
+{{< figure src="/img/wp/David-Baldacci-Sixth-Man.jpg" class="alignright" caption="Baldacci er gode greier." >}}
 
 I skrivande stund er eg godt inne i nummer to på lista. David Baldacci sin _The Sixth Man_ er strålande. Baldacci har ei eiga evne til å kome opp med historiar som nesten er for fantastiske og for gode til å vere sanne, men presenterte på ein svært elegant og truverdig måte.
 
