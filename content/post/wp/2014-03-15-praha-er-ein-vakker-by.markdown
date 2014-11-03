@@ -5,6 +5,7 @@ date: 2014-03-15 15:05:02+00:00
 slug: praha-er-ein-vakker-by
 title: Praha er ein vakker by
 wordpress_id: 2345
+gallery_id: 5985188713929977457
 categories:
 - Foto
 - Reise
@@ -40,5 +41,3 @@ _Praha er mellom dei aller finaste byane å ta ei langhelg i._
 **Reisetips 1: Ta det med ro, det er mykje å sjå, men nokre timar er det fint å berre sjå folkelivet drive forbi frå ein kafé eller pub. Og i pilsens hovudstad serverer dei Urquell overalt.**
 
 **Reisetips 2: Praha har ein svært godt utbygd kollektivtransport, med både trikk og T-bane. Men dette er ikkje særleg slankande ...**
-
-[maxgallery id="2742"]

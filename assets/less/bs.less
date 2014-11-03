@@ -220,6 +220,11 @@ b, strong {
 
   }
 
+  .gallery {
+    width: 100%;
+    margin: @bs-margin-large 0;
+  }
+
   figure {
     display: block;
 
@@ -329,7 +334,7 @@ b, strong {
   margin-top: @bs-margin-med;
   padding-bottom: 4rem;
   .post-more {
-   // text-align: center;
+    // text-align: center;
   }
 }
 
@@ -365,6 +370,8 @@ b, strong {
 .bs-margin-overflow {
   margin-left: -10%;
   margin-right: -10%;
+  width: 120%;
+
 
 }
 
@@ -399,14 +406,20 @@ b, strong {
     max-width: 32rem;
   }
 
+
+  .post, .page {
+    .gallery {
+      .bs-margin-overflow();
+    }
+
+  }
+
   .post {
     figure.small {
 
     }
     figure {
       .bs-margin-overflow();
-      width: 120%;
-
 
     }
   }
@@ -417,7 +430,6 @@ b, strong {
 
 }
 
-
 // Social ...
 
 .bs-share {
@@ -427,7 +439,6 @@ b, strong {
 
   ul {
     width: 100%;
-
 
   }
 

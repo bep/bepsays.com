@@ -1,0 +1,34 @@
+{{if isset .Params "gallery_id" }}
+<div class="gallery" id="pageGallery"></div>
+<script type="text/javascript">
+
+    var myColorScheme = {
+        navigationbar: {
+            background: '#141E24',
+            border: '0px dotted #555',
+            color: '#ccc',
+            colorHover: '#fff'
+        },
+        thumbnail: {
+            background: '#141E24',
+            border: '1px solid #141E24',
+            labelBackground: 'transparent',
+            labelOpacity: '0.8',
+            titleColor: '#fff',
+            descriptionColor: '#eee'
+        }
+    };
+
+    var galleryEl = $('#pageGallery');
+    // only load when needed, but give it a head start
+    galleryEl.prev().appear(function () {
+        galleryEl.nanoGallery({
+            kind: 'picasa',
+            userID: '110259145797877232730',
+            album: '{{ .Params.gallery_id }}',
+            colorScheme: myColorScheme
+        });
+    });
+
+</script>
+{{ end }}

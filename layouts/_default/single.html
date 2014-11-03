@@ -5,6 +5,7 @@
         <h1 class="post-title">{{ .Title }}</h1>
         {{/* partial "post-date.html" . */}}
         {{ .Content }}
+        {{ partial "gallery.html" . }}
         {{ partial "share.html" . }}
     </div>
     {{ partial "post-more.html" . }}
