@@ -11,7 +11,7 @@ categories:
 
 **I går synte Facebook seg fram som ei glimrande kjelde for grundig og undersøkjande journalistikk: NRK Sogn og Fjordane hadde oppslaget om karen som hadde [kjøpt presang ](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.8363940)til kona.**
 
-{{< figure src="/img/wp/Overraska-kona-med-spesiell-gåve-får-tur-over-The-Big-Apple-NRK-Sogn-og-Fjordane-NRK-Nyhende_1350594338801.gif" class="alignnone" caption="Skjermdump frå NRK Sogn og Fjordane 18.10.2012." >}}
+{{< figure src="/img/wp/Overraska-kona-med-spesiell-gåve-får-tur-over-The-Big-Apple-NRK-Sogn-og-Fjordane-NRK-Nyhende_1350594338801.gif" class="alignnone small" caption="Skjermdump frå NRK Sogn og Fjordane 18.10.2012." >}}
 
 <!--more-->
 

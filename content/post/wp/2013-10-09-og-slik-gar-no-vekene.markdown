@@ -3,20 +3,15 @@ author: bep
 comments: true
 date: 2013-10-09 21:12:06+00:00
 slug: og-slik-gar-no-vekene
-title: Og slik går no vekene …
+title: Og slik går no vekene…
 wordpress_id: 1884
 categories:
 - Fylkesspit
 ---
 
-**Eli Grotle er redaksjonssjef i Sogn Avis. Der har ho ei spalte der ho skriv om det Jerry Seinfeld gjorde stor humor av: Ingenting!****
-**
+**Eli Grotle er redaksjonssjef i Sogn Avis. Der har ho ei spalte der ho skriv om det Jerry Seinfeld gjorde stor humor av: Ingenting!**
 
-
-<!--more-->
-{{< figure src="/img/wp/faksimile_sognavis_vekeblikk_2013-09-28.png" class="alignright" caption="Faksimile Sogn Avis sitt Vekeblikk 28.09.2013" >}}
-
-_Vekeblikk_ heiter spalta. Men held det Seinfeld-nivå?
+_Vekeblikk_ heiter spalta. Men held ho Seinfeld-nivå?
 
 I faksimilen vedlagt skriv ho om kvardagslege ting som ei kvinne med ei røv i vekst – og med ting som sig ned og ut – slit med.
 

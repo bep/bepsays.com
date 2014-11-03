@@ -9,9 +9,10 @@ categories:
 - Fylkesspit
 ---
 
+{{< figure src="/img/wp/800px-Jan_Erik_Vold2.jpg" class="alignright small" caption="Diktaren Jan Erik Vold er mannen bak mellom anna diktet Kulturuke. Foto: Jarle Vines (Wikimedia Commons)" >}}
+
 **[Helse Førde](http://nn.wikipedia.org/wiki/Helse_F%C3%B8rde) la seg denne veka flate for at dei har gått ut og sagt eller skrive noko om det framtidige fødetilbodet i Nordfjordeid som ikkje har rot i røynda.**
 
-{{< figure src="/img/wp/800px-Jan_Erik_Vold2.jpg" class="alignright" caption="Diktaren Jan Erik Vold er mannen bak mellom anna diktet Kulturuke. Foto: Jarle Vines (Wikimedia Commons)" >}}
 
 <!--more-->
 
