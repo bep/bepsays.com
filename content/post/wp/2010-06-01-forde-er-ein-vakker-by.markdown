@@ -5,8 +5,10 @@ date: 2010-06-01 14:47:51+00:00
 slug: forde-er-ein-vakker-by
 title: Førde er ein vakker by!
 wordpress_id: 307
+gallery_id: 6077502353820783889
 categories:
 - Fylkesarkitektur
+- Foto
 ---
 
 **Tittelen er ironisk. Sjølvsagt er han det, om eg no tek for meg Førde sentrum.**
@@ -23,6 +25,3 @@ Eg var i konfirmasjon i Førde for nokre veker sidan (derav bileta). Ein førdia
 
 Eg prøvde å halde munnen full av (nydelege, ingen ironi her) kakestykker under heile samtalen. Eg kjem opphavleg frå Sogndal, og det er rett nok ein del byggverk der også som ikkje går rett inn i arkitektur-bøkene, men der er i det minste nokre gjennomtenkte og gjennomgåande gater med eit stort og grønt samlingspunkt i midten.
 
-[maxgallery id="2511"]
-
-Alle foto: Bjørn Erik Pedersen ([Creative Commons Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/deed.en))

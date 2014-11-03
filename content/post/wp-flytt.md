@@ -10,13 +10,13 @@ slug = "bepsays-under-attreising"
 
 **WordPress er historie. Sei velkomen til den fjerne, men mykje raskare og kjekkare slektningen Hugo.**
 
-Denne sida har ikkje mange besøkande, men om du skulle slumpe innom, då merkar du kanskje at nokre knappar har flytta på seg, so og seie.
+Denne sida har ikkje mange besøkande, men om du skulle vere éin av dei som har vore her før, ja, då merkar du kanskje at knappane har flytta på seg, so og seie.
 
 Og no er det grenser for kva ein kan få til automatisk med søk og erstatt og regulære uttrykk, så nokre manglar er det framleis.
 
 <!--more-->
 
-Det mest merkbare er kanskje at galleria manglar. **Dei kjem.**
+<strike>Det mest merkbare er kanskje at galleria manglar. **Dei kjem.**</strike> No er også galleria på plass, du kan sjå dei om du følgjer lenkene i [denne kategorien](/categories/foto/).
 
 ## Kvifor denne flyttinga?
 

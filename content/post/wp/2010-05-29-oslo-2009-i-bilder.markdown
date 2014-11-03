@@ -5,14 +5,12 @@ date: 2010-05-29 05:10:40+00:00
 slug: oslo-2009-i-bilder
 title: Oslo 2009 i bilder
 wordpress_id: 228
+gallery_id: 6077493355032019313
 categories:
 - Foto
 ---
 
 **Nokre tilfeldige snapshots frå Oslo i 2009:**
 
-[maxgallery id="2690"]
-
 <!--more-->
 
-Alle foto: Bjørn Erik Pedersen ([Creative Commons Attribution-Share Alike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/deed.en))
