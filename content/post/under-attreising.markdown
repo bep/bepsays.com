@@ -33,6 +33,7 @@ No er det ikkje _eg_ som har funne opp alt dette krutet heilt aleine, og om du n
 * Den statiske sidegeneratoren er [Hugo](http://gohugo.io/overview/introduction), som er skriven i Go[^go] -- og raskare enn din eigen skugge.
 * Utsjånaden bygger på [Lanyon](https://github.com/poole/lanyon), eit Jekyll[^jekyll]-tema frå Mark Otto, ein av dei to smartingange bak Bootstrap[^bootstrap].
 * Fontane er (i skrivande stund) _FF Meta Serif_ (brødtekst) og _FF Meta Sans Condensed_  (titlar og "logo"). Begge er å få leigd på Typekit. FF Meta Sans vart laga på oppdrag for Posten i Tyskland i si tid, men du kjenner han kanskje best frå logoen til Fort Wayne lufthamn.
+* Om du tykkjer dette og [cheekycoder.com](http://cheekycoder.com/) ser mistenkeleg likt ut, så har du eit poeng. Forfattar og utformar av dei to er lik.
 
 [^go]: Programmeringsspråket *Go* er bra greier. Laga av nokre smartingar i Google, sjølvsagt. Men namnet er ikkje særleg Google-venleg; prøv "golang". 
 [^bootstrap]: Han andre smartingen bak Bootstrap heiter Jacob Thornton, om du nokon gong skulle få dét spørsmålet på ein kviss.
