@@ -11,7 +11,7 @@ categories:
 
 **Eg veit det ikkje er særleg politisk korrekt å bruke "kjerring" som bilete på ein halvdårleg fotballspelar. Men i morgon møter Sogndal, kjerringane, Strømmen på bortebane, og eg kjenner meg som ein halvdårleg VG-journalist på leit etter plumpe overskrifter.**
 
-{{< figure src="/img/wp/447px-Rembrandt_Harmensz._van_Rijn_083.jpg" class="alignright" caption="Mor til Rembrandt kunne gjort det skarpt på dagens Sogndal." >}}
+{{< figure src="/img/wp/447px-Rembrandt_Harmensz._van_Rijn_083.jpg" class="alignright small" caption="Mor til Rembrandt kunne gjort det skarpt på dagens Sogndal." >}}
 
 <!--more-->
 

@@ -9,11 +9,11 @@ categories:
 - Teknologi
 ---
 
-**{{< figure src="/img/wp/IPad-02.jpg" class="alignright" caption="Ein iPad. Foto: Glenn Fleishman." >}}**
 
-Ein kar eg kjenner reiser mykje i jobben, og han har behov for å jobbe medan han reiser.
+**Ein kar eg kjenner reiser mykje i jobben, og han har behov for å jobbe medan han reiser.**
 
 <!--more-->
+{{< figure src="/img/wp/IPad-02.jpg" class="small alignright" caption="Ein iPad. Foto: Glenn Fleishman." >}}
 
 Han svergar til Apple sine produkt. Eg skriv dette innlegget i [OS X Snow Leopard](http://en.wikipedia.org/wiki/Mac_OS_X_Snow_Leopard), så eg er ingen motstandar, men eg er heller ingen ukritisk [fanboy](http://www.uberreview.com/2008/01/25-signs-that-you-might-be-an-apple-fanboy.htm).
 

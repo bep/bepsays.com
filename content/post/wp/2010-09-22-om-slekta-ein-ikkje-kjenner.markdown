@@ -24,7 +24,7 @@ Bror min tok eit tak for ei tid sidan, sende rundt invitasjonar til [Geni.com](h
 Og det er heller ikkje heilt knirkefritt å dra opp slekta med mus og tastatur. Ei stund kunne det sjå ut som oldeforeldra på Navarsete var syskenborn frå Vikheim. Lukkeleg nok viste det seg at oldefar var frå Luster, eller som bror min sa det:
 
 
-<blockquote>OK! Det var bra! Då får me nausta opp slekta i Luster! Ikkje så mykje betre å ha anar i Luster forresten, men betre enn å vera i slekt med seg sjøl!! -- bror min</blockquote>
+>OK! Det var bra! Då får me nausta opp slekta i Luster! Ikkje så mykje betre å ha anar i Luster forresten, men betre enn å vera i slekt med seg sjøl!! -- **bror min**
 
 
 På morsida i Sogndal og omegn har treet på Geni.com vakse på seg monaleg oppover, men på farsida stoggar treet på opp ved besteforeldra mine, to blad Pedersen. Informasjonen kjem nok etterkvart, når dei rette personane får sett seg bak datamaskina. Inntil vidare får eg nøye meg med eit vakkert bilete av eit vakkert bilete.

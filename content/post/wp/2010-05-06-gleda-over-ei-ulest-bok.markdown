@@ -9,13 +9,14 @@ categories:
 - Litteratur
 ---
 
-**{{< figure src="/img/wp/blackecho.jpg" class="alignright" caption="Black Echo av Michael Connelly i paperback-versjon." >}}**
 
-Eg er ein stor tilhengjar av [Michael Connelly](http://en.wikipedia.org/wiki/Michael_Connelly) sitt forfattarskap, men var seint ute; eg plukka opp den første boka først for eit par år sidan.  Etter det har eg vel meir eller mindre slukt dei heile, i litt tilfeldig rekkefølgje.
+**Eg er ein stor tilhengjar av [Michael Connelly](http://en.wikipedia.org/wiki/Michael_Connelly) sitt forfattarskap, men var seint ute; eg plukka opp den første boka først for eit par år sidan.  Etter det har eg vel meir eller mindre slukt dei heile, i litt tilfeldig rekkefølgje.**
 
 <!--more-->
 
 [Harry Bosch](http://en.wikipedia.org/wiki/Harry_Bosch), denne mangfoldige og sympatiske drapsetterforskaren i Los Angeles,  har vore ein fryd å følgje gjennom 15 bøker. Men no må eg smørje meg med tolmod. Connelly skriv sikkert med touchmetoden, men det tek han 15 månader å få ut ei ny bok.
+
+{{< figure src="/img/wp/blackecho.jpg" class="alignright" caption="Black Echo av Michael Connelly i paperback-versjon." >}}
 
 Eg gjorde opp rekneskap for nokre månader sidan, og bestilte dei fem bøkene eg ikkje hadde lese.  Så leste eg dei, alle fem, raskt. Trudde eg.
 

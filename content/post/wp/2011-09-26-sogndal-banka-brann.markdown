@@ -11,5 +11,5 @@ categories:
 - Foto
 ---
 
-**Sogndal vann 1-0 over Brann på Fosshaugane i går kveld. Ein fantastisk kamp!**
+**Sogndal vann 1-0 over Brann på Fosshaugane i går kveld. Ein fantastisk kamp! Eg spår likevel at Brann får si hemn om ein fire års tid...**
 

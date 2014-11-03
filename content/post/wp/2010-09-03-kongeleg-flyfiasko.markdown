@@ -11,7 +11,7 @@ categories:
 
 **Lokalpressa har prøvd seg på hoffrapportering denne veka. Dronning Sonja har floge med [Widerøe ](http://nn.wikipedia.org/wiki/Wider%C3%B8es_Flyveselskap_ASA)– og kom to timar for seint, sjølvsagt. Ho rakk å plante plometre og helse på ungar i Luster, skriv [Sogn Avis]( http://www.sognavis.no/lokale_nyhende/article5275099.ece).  «Beklaga at ho kom for seint,» [avslører](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7275194) NRK Sogn og Fjordane. Det er ikkje mykje spenst i denne journalistikken, og eg trur kioskveltarane er der om ein leitar:**
 
-{{< figure src="/img/wp/800px-Bybaneåpning.jpg" class="alignright" caption="Dronning Sonja opnar Bybana i Bergen. Foto: Jonny Eriksen (Wikimedia Commons)" >}}
+{{< figure src="/img/wp/800px-Bybaneåpning.jpg" class="small alignright" caption="Dronning Sonja opnar Bybana i Bergen. Foto: Jonny Eriksen (Wikimedia Commons)" >}}
 
 <!--more-->
 
