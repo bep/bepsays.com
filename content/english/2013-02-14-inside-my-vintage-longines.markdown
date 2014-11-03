@@ -5,9 +5,11 @@ date: 2013-02-14 12:07:03+00:00
 slug: inside-my-vintage-longines
 title: Inside my vintage Longines
 wordpress_id: 1852
+gallery_id: 6077464374624361441
 categories:
 - English
 - Klokke
+- Foto
 ---
 
 **I wrote [a piece](http://bepsays.com/2012/10/my-vinage-longines/) about a vintage Longines I knew nothing about. I opened it up, and now I know some.**
@@ -15,9 +17,6 @@ categories:
 {{< figure src="/img/wp-featured/vintage-longines-0084.jpg" caption="Movement of a Longines 14k gold 1957" >}}
 
 <!--more-->
-
-
-
 	
   * It is approx. from 1957 according to [Vintage Watch Resources](http://www.vintagewatchresources.com/year_identifier.php)
 
@@ -52,5 +51,3 @@ SWISS MADE
 0.585
 42
 6748 2
-
-**[maxgallery id="2641"]**
