@@ -29,7 +29,7 @@ categories:
 
 **Any more info on this is really appreciated.**
 
-_ Stamp on the movement:_
+_Stamp on the movement:_
 
 Longines Swiss
 17 Jewels
