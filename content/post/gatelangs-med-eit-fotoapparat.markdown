@@ -15,7 +15,7 @@ No er vel ikkje arkitekturen i Oslo særleg interessant, men han er der -- som m
 
 <!--more-->
 
-Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) frå Oslo her også tidlegare.
+Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) her også tidlegare.
 
 Nederst i dette innlegget kan du sjå nokre nyare bilete, frå dei par siste åra. 
 
