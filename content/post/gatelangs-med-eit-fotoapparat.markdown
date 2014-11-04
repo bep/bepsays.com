@@ -9,13 +9,15 @@ title = "Der eg vandrar i Oslo sine gater med eit fotoapparat"
 
 **Eg ser gjennom fotoarkivet mitt, lettare overraska merkar eg at det sentrale motivet er «gater og bygningar i Oslo.»**
 
+{{< figure src="/img/2012/Boersen_in_Oslo_2012.jpg" caption="Oslo Børs (2012)" >}}
+
 No er vel ikkje arkitekturen i Oslo særleg interessant, men han er der -- som motiv er gatene og bygningane lett tilgjengelege.
+
+Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) her også tidlegare.
+
 
 <!--more-->
 
-{{< figure src="/img/2012/Boersen_in_Oslo_2012.jpg" caption="Oslo Børs (2012)" >}}
-
-Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) her også tidlegare.
 
 Nederst i dette innlegget kan du sjå nokre nyare bilete, frå dei par siste åra. 
 
