@@ -5,6 +5,8 @@ date: 2010-05-20 17:02:18+00:00
 slug: godt-spel-og-spelarsal-gjev-spalteplass-i-akersgata
 title: Godt spel og spelarsal gir spalteplass
 wordpress_id: 99
+tags: 
+- Asterisk
 categories:
 - Sogndal fotball
 ---

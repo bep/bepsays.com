@@ -1,7 +1,7 @@
 +++
 Categories = ["Teknologi"]
 Description = ""
-Tags = ["Meta"]
+Tags = ["Meta", "Asterisk"]
 date = "2014-11-02T11:59:52+01:00"
 draft = false
 title = "Denne sida er no under attreising!"

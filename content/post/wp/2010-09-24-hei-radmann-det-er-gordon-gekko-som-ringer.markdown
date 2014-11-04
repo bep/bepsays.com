@@ -4,6 +4,8 @@ comments: true
 date: 2010-09-24 17:00:07+00:00
 slug: hei-radmann-det-er-gordon-gekko-som-ringer
 title: – Hei, rådmann! Det er Gordon Gekko som ringer!
+tags: 
+- Asterisk
 wordpress_id: 672
 categories:
 - Fylkesspit

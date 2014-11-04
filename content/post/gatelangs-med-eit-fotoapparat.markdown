@@ -11,15 +11,15 @@ title = "Der eg vandrar i Oslo sine gater med eit fotoapparat"
 
 No er vel ikkje arkitekturen i Oslo særleg interessant, men han er der -- som motiv er gatene og bygningane lett tilgjengelege.
 
-{{< figure src="/img/2012/Boersen_in_Oslo_2012.jpg" caption="Oslo Børs (2012)" >}}
-
 <!--more-->
+
+{{< figure src="/img/2012/Boersen_in_Oslo_2012.jpg" class="{{ .IsPage }}" caption="Oslo Børs (2012)" >}}
 
 Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) her også tidlegare.
 
 Nederst i dette innlegget kan du sjå nokre nyare bilete, frå dei par siste åra. 
 
-Ein del av dei lasta eg opp på [WikiMedia Commons](https://commons.wikimedia.org/wiki/User:Bep/gallery), og frå der vert ein del brukte som illustrasjonar på Wikipedia og anna, men mest er dei der som ein hobby, ein hobby for meg. 
+Mange av dei lastar eg opp på [WikiMedia Commons](https://commons.wikimedia.org/wiki/User:Bep/gallery) med ein fri lisens, dei eg meiner kan brukast som illustrasjonar på Wikipedia eller liknande -- men mest er dei der som ein hobby, ein hobby for meg. 
 
 **Eg har sikkert knipsa fleire hundre tusen bilete opp gjennom åra, frå tida med analogt utstyr -- då alle dongeribuksene vart øydelagde av kjemikaliane på mørkerommet -- og inn i den digitale tidsalderen.**
 

@@ -57,6 +57,7 @@ html {
 
 body {
   color: @bs-color-text;
+  padding-bottom: 2rem;
 }
 
 .masthead {
@@ -149,6 +150,10 @@ b, strong {
 }
 
 .main.posts {
+
+  .post {
+    margin-bottom: @bs-margin-xlarge;
+  }
 
   .post + .post {
     margin-top: @bs-margin-med;
@@ -279,6 +284,18 @@ b, strong {
     .bs-title-border();
   }
 
+}
+
+.front-read-more {
+  text-align: center;
+
+  h1 {
+    //text-transform: uppercase;
+    font-style: italic;
+  }
+  ul {
+    list-style-type: none;
+  }
 }
 
 .hello {

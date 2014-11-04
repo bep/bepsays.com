@@ -4,6 +4,7 @@ slug = "kunstverka-over-louis-vuitton"
 title = "Kunstverka over Louis Vuitton"
 wordpress_id = 2938
 gallery_id = 6077473420639406657
+tags = ["Asterisk"]
 categories = ["Foto"]
 +++
 **Tykkjer du det er for dyrt å gå inn, kan du heve blikket – og nyte veggmåleria.**

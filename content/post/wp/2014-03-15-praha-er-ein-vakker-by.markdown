@@ -6,6 +6,8 @@ slug: praha-er-ein-vakker-by
 title: Praha er ein vakker by
 wordpress_id: 2345
 gallery_id: 5985188713929977457
+tags: 
+- Asterisk
 categories:
 - Foto
 - Reise

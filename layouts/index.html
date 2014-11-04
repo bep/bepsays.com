@@ -7,12 +7,20 @@
             <h1 class="post-title">
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </h1>
+
             <div class="post-summary">{{ .Summary }}</div>
             <div class="read-more"><a class="btn btn-lg bs-btn-info" href="{{ .RelPermalink }}">Hald fram →</a></div>
         </div>
         {{ end }}
-
-
+        <hr />
+        <div class="front-read-more">
+            <h1>Sjå óg</h1>
+            <ul>
+                {{ range .Site.Taxonomies.tags.asterisk }}
+                <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> <small>(ca. {{ .Page.FuzzyWordCount }} ord)</small></li>
+                {{ end }}
+            </ul>
+        </div>
     </div>
 </div>
 {{ partial "footer.html" . }}

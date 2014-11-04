@@ -5,6 +5,8 @@ date: 2010-12-02 21:22:35+00:00
 slug: whitehouse
 title: Drøymer om ein jobb i det kvite huset
 wordpress_id: 960
+tags: 
+- Asterisk
 categories:
 - Fylkesspit
 ---

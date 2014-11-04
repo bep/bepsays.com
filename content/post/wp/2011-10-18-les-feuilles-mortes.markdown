@@ -6,6 +6,8 @@ slug: les-feuilles-mortes
 title: Les Feuilles mortes
 wordpress_id: 1457
 gallery_id: 6077467265578334625
+tags: 
+- Asterisk
 categories:
 - Foto
 ---
