@@ -7,7 +7,7 @@ gallery_id = 6077606128056475953
 title = "Der eg vandrar i Oslo sine gater med eit fotoapparat"
 +++
 
-**Eg ser gjennom mange av bileta eg har teke opp gjennom åra. Overraskande mykje av det er frå gatene og bygningane i Oslo.**
+**Eg ser gjennom fotoarkivet mitt, lettare overraska merkar eg at det sentrale motivet er «gater og bygningar i Oslo.»**
 
 No er vel ikkje arkitekturen i Oslo særleg interessant, men han er der -- som motiv er gatene og bygningane lett tilgjengelege.
 
@@ -22,6 +22,8 @@ Nederst i dette innlegget kan du sjå nokre nyare bilete, frå dei par siste år
 Nokre av dei er brukte som [illustrasjonar på Wikipedia](https://commons.wikimedia.org/wiki/User:Bep/gallery), men mest er dei der som ein hobby for meg. Eg har jamvel delteke i eit par av dei årlege fototevlingane der, utan å nå heilt opp, utruleg nok.
 
 **Eg har sikkert knipsa fleire hundre tusen bilete opp gjennom åra, frå tida med analogt utstyr -- då alle dongeribuksene vart øydelagde av kjemikaliane på mørkerommet -- og inn i den digitale tidsalderen.**
+
+Eg minnest det aller første digitalkameraet frå Apple. Dette var også det første digitalkameraet eg fekk hendene på, men du, lesaren, vil sikkert bite deg fast i eplet. Eg minnest oppløysinga var så dårleg at motiva kunne skimtast i ein skoddeheim av støy.  	«Digitalt vil aldri erstatte analogt!» sa mange skråsikre fotografar. Den gang då. Den éine tingen eg saknar er måtehaldet som kom av å berre ha 24 bilete på ein rull. I dag er alle pressefotografar. Kanskje er det ein marknad for minnekort med plass til berre 24 bilete?  
 
 Framleis er mørkerommet -- no digitalt -- viktig, og kanskje vel så moro som det å trykke på utløysarknappen; å sjå bileta forme seg på skjermen frå noko du er godt nøgd med til noko heilt éineståande.
 
