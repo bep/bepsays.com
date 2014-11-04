@@ -25,7 +25,7 @@ Overskriftene blir omsider _Lærdal brann._ Det gjekk gale, men kunne gått så 
 
 Bygdi kjend for sambandet mellom aust og vest. Bygdi kjend for gamal og verneverdig arkitektur. Bygdi kjend for desse romslege og lunefulle innbyggarane som tek imot kongar med fiskestong med eit godsleg nikk.
 
-{{< figure src="/img/wp/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-L%C3%A6rdals%C3%B8ren-i-Sognefjorden-olje-p%C3%A5-lerret-1901..jpeg" caption="Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901" >}}
+{{< figure src="/img/wp/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-L%C3%A6rdals%C3%B8ren-i-Sognefjorden-olje-p%C3%A5-lerret-1901.jpg" caption="Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901" >}}
 
 
 Dei lyt til Sogndal for å gå på vidaregåande, ungdomane i Lærdal. Men dei vender attende. Kanskje opnar dei ein butikk for musikk på vinyl, eller dei tek over farsgarden (farsgardar er det mange av i denne langstrekte dalen).
