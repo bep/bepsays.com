@@ -2,7 +2,7 @@
 {{ partial "menu.html" . }}
 <div class="content container">
     <div class="main posts">
-        {{ range first 1 (where .Data.Pages "Section" "post") }}
+        {{ range first 1 (where .Data.Pages "Type" "post") }}
         <div class="post">
             <h1 class="post-title">
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>

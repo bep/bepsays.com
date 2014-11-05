@@ -5,9 +5,7 @@ IMG_PATH="$SOURCE/../static/img"
 
 . $SOURCE/common.sh
 
-
 info "Optimize images in $IMG_PATH ..."
-
 
 # Handle jpgs
 # you will need the libjpeg-progs package to run this - note the -progressive option added
