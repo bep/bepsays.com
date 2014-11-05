@@ -1,11 +1,12 @@
-+++
-Categories = ["Foto"]
-Description = ""
-date = "2014-11-03T23:19:10+01:00"
-draft = false
-gallery_id = 6077606128056475953
-title = "Der eg vandrar i Oslo sine gater med eit fotoapparat"
-+++
+---
+categories:
+- Foto
+date: 2014-11-03 22:27:14+00:00
+draft: false
+gallery_id: 6077606128056475953
+title: Der eg vandrar i Oslo sine gater med eit fotoapparat
+---
+
 
 **Eg ser gjennom fotoarkivet mitt, lettare overraska merkar eg at det sentrale motivet er «gater og bygningar i Oslo.»**
 

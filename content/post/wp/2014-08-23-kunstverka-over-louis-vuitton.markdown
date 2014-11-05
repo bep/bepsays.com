@@ -1,12 +1,14 @@
-+++
-date = "2014-08-23T09:41:42+01:00"
-slug = "kunstverka-over-louis-vuitton"
-title = "Kunstverka over Louis Vuitton"
-wordpress_id = 2938
-gallery_id = 6077473420639406657
-tags = ["Asterisk"]
-categories = ["Foto"]
-+++
+---
+categories:
+- Foto
+tags:
+- Asterisk
+date: 2014-08-23 22:27:14+00:00
+draft: false
+slug: kunstverka-over-louis-vuitton
+title: Kunstverka over Louis Vuitton
+---
+
 **Tykkjer du det er for dyrt å gå inn, kan du heve blikket – og nyte veggmåleria.**
 
 Det franske motehuset [Louis Vuitton](https://nn.wikipedia.org/wiki/Louis_Vuitton) har butikklokale i Akersgata i Oslo, i [Skreddargården](https://no.wikipedia.org/wiki/Skredderg%C3%A5rden).

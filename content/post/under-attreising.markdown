@@ -1,12 +1,14 @@
-+++
-Categories = ["Teknologi"]
-Description = ""
-Tags = ["Meta", "Asterisk"]
-date = "2014-11-02T11:59:52+01:00"
-draft = false
-title = "Denne sida er no under attreising!"
-slug = "bepsays-under-attreising"
-+++
+---
+categories:
+- Teknologi
+tags:
+- Meta
+- Asterisk
+date: 2014-11-02 22:27:14+00:00
+draft: false
+title: Denne sida er no under attreising!
+slug: bepsays-under-attreising
+---
 
 **WordPress er historie. Sei velkomen til den fjerne, men mykje raskare og kjekkare slektningen Hugo.**
 
