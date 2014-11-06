@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-21 16:33:55+00:00
 slug: soulfingers-i-horten
 title: Soulfingers i Horten
-wordpress_id: 126
 categories:
 - Musikk
 ---

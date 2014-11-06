@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-08-07 19:19:05+00:00
 slug: sakfofon-steroidar
 title: Saksofonar på anabole stereoidar
-wordpress_id: 504
 categories:
 - Musikk
 ---

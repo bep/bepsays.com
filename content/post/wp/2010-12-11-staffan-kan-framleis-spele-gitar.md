@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-12-11 22:11:26+00:00
 slug: staffan-kan-framleis-spele-gitar
 title: Staffan kan framleis spele gitar
-wordpress_id: 1015
 categories:
 - Musikk
 ---

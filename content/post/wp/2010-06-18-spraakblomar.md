@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-18 05:22:17+00:00
 slug: spraakblomar
 title: Språkblomar i lokalpressa
-wordpress_id: 432
 categories:
 - Fylkesspit
 - Språk

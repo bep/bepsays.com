@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-02 05:00:56+00:00
 slug: mislukka-marknadsstunt-i-forlaga
 title: Mislukka marknadsstunt frå forlaga
-wordpress_id: 199
 categories:
 - Litteratur
 ---

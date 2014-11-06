@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-11-03 22:53:33+00:00
 slug: mr-doob-meistaren-av-html5
 title: 'Mr Doob: Meistaren av HTML5'
-wordpress_id: 1461
 categories:
 - Teknologi
 ---

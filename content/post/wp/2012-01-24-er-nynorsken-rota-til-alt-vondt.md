@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-01-24 18:44:09+00:00
 slug: er-nynorsken-rota-til-alt-vondt
 title: Er nynorsken rota til alt vondt?
-wordpress_id: 1524
 categories:
 - Språk
 ---

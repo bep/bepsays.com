@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-10-12 02:58:31+00:00
 slug: wikipedias-security-hole
 title: Wikipedia's security hole
-wordpress_id: 1659
 categories:
 - English
 - Teknologi

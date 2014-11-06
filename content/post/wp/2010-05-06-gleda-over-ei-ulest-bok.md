@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-06 14:45:52+00:00
 slug: gleda-over-ei-ulest-bok
 title: Gleda over ei ulest bok
-wordpress_id: 42
 categories:
 - Litteratur
 ---

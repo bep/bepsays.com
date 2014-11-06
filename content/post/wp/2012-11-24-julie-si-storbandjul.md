@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-11-24 15:16:47+00:00
 slug: julie-si-storbandjul
 title: Julie si storbandjul
-wordpress_id: 1793
 categories:
 - Musikk
 ---

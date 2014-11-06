@@ -1,12 +1,9 @@
 ---
-author: bep
-comments: true
 date: 2010-09-22 05:10:05+00:00
 slug: om-slekta-ein-ikkje-kjenner
 tags: 
 - Asterisk
 title: Om slekta ein ikkje kjenner
-wordpress_id: 657
 categories:
 - Slekt
 ---

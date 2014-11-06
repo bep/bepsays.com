@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-02-23 17:00:51+00:00
 slug: les-denne-boka
 title: Les denne boka!
-wordpress_id: 1262
 categories:
 - Litteratur
 ---

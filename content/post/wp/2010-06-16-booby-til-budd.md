@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-16 17:51:41+00:00
 slug: booby-til-budd
 title: Frå Booby Trap til Buddy Holly!
-wordpress_id: 414
 categories:
 - Musikk
 ---

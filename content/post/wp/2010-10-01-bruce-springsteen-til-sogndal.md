@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-10-01 16:07:31+00:00
 slug: bruce-springsteen-til-sogndal
 title: Bruce Springsteen til Sogndal?
-wordpress_id: 690
 categories:
 - Fylkesspit
 ---

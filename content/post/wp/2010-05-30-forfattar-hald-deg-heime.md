@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-30 05:32:55+00:00
 slug: forfattar-hald-deg-heime
 title: Forfattar, hald deg heime!
-wordpress_id: 186
 categories:
 - Litteratur
 ---

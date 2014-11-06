@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-01-21 21:37:02+00:00
 slug: kvar-hentar-ryanair-inntektene-sine
 title: Kvar hentar Ryanair inntektene sine?
-wordpress_id: 2264
 categories:
 - Reise
 ---

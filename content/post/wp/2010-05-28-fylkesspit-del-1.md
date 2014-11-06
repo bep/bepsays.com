@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-28 16:00:42+00:00
 slug: fylkesspit-del-1
 title: Delta på steinras torsdag?
-wordpress_id: 207
 categories:
 - Fylkesspit
 ---

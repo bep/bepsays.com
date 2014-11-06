@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-11-19 18:03:59+00:00
 slug: ipad-design-flaw
 title: iPad’s design flaw
-wordpress_id: 1474
 gallery_id: 6077500320827051569
 categories:
 - Teknologi

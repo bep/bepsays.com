@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-02-16 18:08:38+00:00
 slug: what-a-nice-watch
 title: What a nice watch!
-wordpress_id: 1569
 gallery_id: 6077468176700199617
 categories:
 - English

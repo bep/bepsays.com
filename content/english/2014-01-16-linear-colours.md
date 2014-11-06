@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-01-16 13:11:45+00:00
 slug: linear-colours
 title: Linear colour scheme with LESS
-wordpress_id: 2239
 categories:
 - English
 - Teknologi

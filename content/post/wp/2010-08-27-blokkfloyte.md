@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-08-27 16:01:57+00:00
 slug: blokkfloyte
 title: Eg skulle ha følgt betre med i blokkfløytetimane
-wordpress_id: 515
 categories:
 - Musikk
 ---

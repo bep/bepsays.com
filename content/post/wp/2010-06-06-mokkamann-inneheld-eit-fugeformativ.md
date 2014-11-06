@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-06 04:33:13+00:00
 slug: mokkamann-inneheld-eit-fugeformativ
 title: Møkkamann inneheld eit fugeformativ
-wordpress_id: 350
 categories:
 - Språk
 ---

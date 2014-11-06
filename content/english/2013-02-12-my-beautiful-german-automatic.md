@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2013-02-12 22:45:58+00:00
 slug: my-beautiful-german-automatic
 title: My beautiful German automatic
-wordpress_id: 1841
 gallery_id: 6077466576636585809
 categories:
 - English

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-12-22 11:22:41+00:00
 slug: osebergskipet-overtek-ekspressbatruta
 title: «Osebergskipet» overtek ekspressbåtruta
-wordpress_id: 1802
 categories:
 - Fylkesspit
 ---

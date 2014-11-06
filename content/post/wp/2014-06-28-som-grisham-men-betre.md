@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-06-28 13:54:04+00:00
 slug: som-grisham-men-betre
 title: Som Grisham, men betre
-wordpress_id: 2766
 categories:
 - Litteratur
 ---

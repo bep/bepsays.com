@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-12-05 17:21:56+00:00
 slug: wikipedia-portrett
 title: Optimal plassering av eit portrett
-wordpress_id: 1508
 categories:
 - Kultur
 - Teknologi

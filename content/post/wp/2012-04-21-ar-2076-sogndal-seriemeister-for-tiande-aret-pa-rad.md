@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-04-21 18:03:51+00:00
 slug: ar-2076-sogndal-seriemeister-for-tiande-aret-pa-rad
 title: 'År 2076: Sogndal seriemeister for tiande året på rad!'
-wordpress_id: 1595
 categories:
 - Sogndal fotball
 ---

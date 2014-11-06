@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-03 05:30:30+00:00
 slug: a-vere-underfundig-for-ofte
 title: Å vere underfundig for ofte
-wordpress_id: 340
 categories:
 - Språk
 ---

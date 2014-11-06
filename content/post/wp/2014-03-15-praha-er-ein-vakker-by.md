@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-03-15 15:05:02+00:00
 slug: praha-er-ein-vakker-by
 title: Praha er ein vakker by
-wordpress_id: 2345
 gallery_id: 5985188713929977457
 tags: 
 - Asterisk

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2013-03-29 16:46:21+00:00
 slug: archimede-pilot
 title: Archimede pilot
-wordpress_id: 1866
 gallery_id: 6077470076387535745
 categories:
 - English

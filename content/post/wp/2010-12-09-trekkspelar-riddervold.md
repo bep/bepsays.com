@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-12-09 15:27:47+00:00
 slug: trekkspelar-riddervold
 title: Trekkspelaren på Riddervolds plass
-wordpress_id: 1002
 categories:
 - Mote
 ---

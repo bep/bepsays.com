@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-25 05:30:39+00:00
 slug: bepsays-presiserer-om-sms-kritikk
 title: bepsays presiserer om SMS-kritikk
-wordpress_id: 476
 categories:
 - Fylkesspit
 ---

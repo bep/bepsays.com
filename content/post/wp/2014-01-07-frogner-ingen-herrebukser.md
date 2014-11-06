@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-01-07 20:01:26+00:00
 slug: frogner-ingen-herrebukser
 title: 'Frogner: Ingen herrebukser'
-wordpress_id: 2328
 categories:
 - Mote
 ---

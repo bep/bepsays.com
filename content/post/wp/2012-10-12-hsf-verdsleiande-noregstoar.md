@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-10-12 17:12:12+00:00
 slug: hsf-verdsleiande-noregstoar
 title: Verdsleiande noregstoar
-wordpress_id: 1708
 categories:
 - Fylkesspit
 ---

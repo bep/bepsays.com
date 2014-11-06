@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-09-09 15:52:04+00:00
 slug: websocket-blir-den-neste-inettrevolusjonen
 title: WebSockets blir den neste nettrevolusjonen
-wordpress_id: 605
 categories:
 - Teknologi
 ---

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-11-22 05:53:01+00:00
 slug: prisliste-for-skjult-tekstreklame-bepsays-com
 title: Prisliste for dårleg skjult tekstreklame på bepsays.com
-wordpress_id: 940
 categories:
 - Framandfylkesspit
 ---

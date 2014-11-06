@@ -1,12 +1,9 @@
 ---
-author: bep
-comments: true
 date: 2010-10-29 16:12:08+00:00
 slug: 'orsak-at-me-sa-det'
 title: – Orsak at me sa det me sa!
 tags: 
 - Asterisk
-wordpress_id: 840
 categories:
 - Fylkesspit
 ---

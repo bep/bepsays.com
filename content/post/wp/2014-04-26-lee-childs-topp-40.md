@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-04-26 19:04:15+00:00
 slug: lee-childs-topp-40
 title: Lee Childs topp 40
-wordpress_id: 2383
 categories:
 - Litteratur
 ---

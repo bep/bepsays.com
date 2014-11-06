@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-10-20 14:06:04+00:00
 slug: blir-det-reprise-i-kveld-tommy
 title: Blir det reprise i kveld, Tommy?
-wordpress_id: 804
 categories:
 - Sogndal fotball
 ---

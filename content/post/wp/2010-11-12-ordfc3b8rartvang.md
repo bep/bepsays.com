@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-11-12 17:44:12+00:00
 slug: ordf%c3%b8rartvang
 title: Tre av ti ordførarar seier ja til tvang
-wordpress_id: 893
 categories:
 - Fylkesspit
 ---

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2013-11-15 17:28:30+00:00
 slug: magnus-sjakkmeisteren
 title: Magnus sjakkmeister, Magnus konge
-wordpress_id: 2175
 categories:
 - Kultur
 ---

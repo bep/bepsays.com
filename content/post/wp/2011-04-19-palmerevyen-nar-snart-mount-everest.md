@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-04-19 15:02:55+00:00
 slug: palmerevyen-nar-snart-mount-everest
 title: Palmerevyen når snart Mount Everest
-wordpress_id: 1307
 tags: 
 - Asterisk
 categories:

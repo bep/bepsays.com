@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-10-20 20:34:42+00:00
 slug: tommy-10-ar-etter-jaaa
 title: Tommy, 10 år etter. Jaaaa!
-wordpress_id: 808
 categories:
 - Sogndal fotball
 ---

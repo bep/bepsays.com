@@ -1,6 +1,4 @@
 ---
-author: bep
-comments: true
 date: 2011-08-18 16:34:19+00:00
 excerpt: I bought my Kindle DX two months ago and have read 20 books on it. Now it
   has a broken screen – the upper right corner part of it is frozen – and a hairline
@@ -8,7 +6,6 @@ excerpt: I bought my Kindle DX two months ago and have read 20 books on it. Now 
   exists.
 slug: amazons-impressing-customer-service
 title: Amazon’s impressive customer service
-wordpress_id: 1369
 categories:
 - Litteratur
 - Teknologi

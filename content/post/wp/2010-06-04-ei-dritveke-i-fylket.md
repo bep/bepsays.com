@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-04 05:02:37+00:00
 slug: ei-dritveke-i-fylket
 title: Møkkasladd og brune kablar
-wordpress_id: 361
 categories:
 - Fylkesspit
 ---

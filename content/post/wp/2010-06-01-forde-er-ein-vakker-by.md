@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-01 14:47:51+00:00
 slug: forde-er-ein-vakker-by
 title: Førde er ein vakker by!
-wordpress_id: 307
 gallery_id: 6077502353820783889
 categories:
 - Fylkesarkitektur

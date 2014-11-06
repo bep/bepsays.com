@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-10-11 23:48:52+00:00
 slug: skissemannen
 title: Skissemannen
-wordpress_id: 1683
 categories:
 - Kultur
 ---

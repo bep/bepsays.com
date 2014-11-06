@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-05 03:47:47+00:00
 slug: kvelden-eg-nesten-vart-gatemusikant
 title: Kvelden eg nesten vart gatemusikant
-wordpress_id: 377
 categories:
 - Musikk
 ---

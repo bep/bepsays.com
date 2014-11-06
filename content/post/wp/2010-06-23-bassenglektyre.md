@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-23 17:44:52+00:00
 slug: bassenglektyre
 title: Bassenglektyren er sikra!
-wordpress_id: 446
 categories:
 - Litteratur
 ---

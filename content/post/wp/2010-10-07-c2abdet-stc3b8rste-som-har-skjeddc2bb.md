@@ -1,12 +1,9 @@
 ---
-author: bep
-comments: true
 date: 2010-10-07 04:47:23+00:00
 slug: '%c2%abdet-st%c3%b8rste-som-har-skjedd%c2%bb'
 tags: 
 - Asterisk
 title: «Det største som har skjedd!»
-wordpress_id: 710
 categories:
 - Fylkesspit
 ---

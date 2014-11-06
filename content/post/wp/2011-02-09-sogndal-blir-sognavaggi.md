@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-02-09 19:08:06+00:00
 slug: sogndal-blir-sognavaggi
 title: Sogndal blir Sognavággi
-wordpress_id: 1251
 categories:
 - Fylkesspit
 ---

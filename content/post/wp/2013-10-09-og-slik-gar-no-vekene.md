@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2013-10-09 21:12:06+00:00
 slug: og-slik-gar-no-vekene
 title: Og slik går no vekene…
-wordpress_id: 1884
 categories:
 - Fylkesspit
 ---

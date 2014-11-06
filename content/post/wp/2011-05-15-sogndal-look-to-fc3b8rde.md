@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-05-15 21:12:18+00:00
 slug: sogndal-look-to-f%c3%b8rde
 title: 'Sogndal: Look to Førde!'
-wordpress_id: 1349
 categories:
 - Fylkesarkitektur
 - Fylkesspit

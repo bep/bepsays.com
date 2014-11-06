@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-28 05:39:26+00:00
 slug: mobilt-kontor-anno-2010
 title: Mobilt kontor anno 2010
-wordpress_id: 176
 categories:
 - Teknologi
 ---

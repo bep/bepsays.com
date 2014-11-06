@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-17 18:48:23+00:00
 slug: sprakstrid-wikipedia
 title: Språkstrid om portugisisk øygruppe
-wordpress_id: 425
 categories:
 - Språk
 ---

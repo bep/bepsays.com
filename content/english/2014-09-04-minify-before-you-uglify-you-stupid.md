@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-09-04 16:47:37+00:00
 slug: minify-before-you-uglify-you-stupid
 title: Minify before you uglify, you stupid!
-wordpress_id: 3004
 categories:
 - English
 - Teknologi

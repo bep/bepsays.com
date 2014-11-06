@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-01-17 11:05:24+00:00
 slug: facebook-er-ikkje-viktig
 title: Facebook er ikkje viktig
-wordpress_id: 1228
 categories:
 - Teknologi
 ---

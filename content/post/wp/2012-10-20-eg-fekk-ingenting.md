@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-10-20 17:47:42+00:00
 slug: eg-fekk-ingenting
 title: «Eg fekk ingenting!»
-wordpress_id: 1765
 categories:
 - Fylkesspit
 ---

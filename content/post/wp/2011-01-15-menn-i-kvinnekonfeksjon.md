@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-01-15 20:30:23+00:00
 slug: menn-i-kvinnekonfeksjon
 title: ' Menn sel ikkje kvinnekonfeksjon'
-wordpress_id: 1222
 categories:
 - Mote
 ---

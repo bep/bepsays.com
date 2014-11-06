@@ -1,12 +1,9 @@
 ---
-author: bep
-comments: true
 date: 2010-06-24 16:00:30+00:00
 slug: claragate
 tags: 
 - Asterisk
 title: «I did not have SMS-relations with that man, Mr. Ingebrigtsen»
-wordpress_id: 451
 categories:
 - Fylkesspit
 ---

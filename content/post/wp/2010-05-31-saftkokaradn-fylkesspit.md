@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-31 16:30:08+00:00
 slug: saftkokaradn-fylkesspit
 title: Noko meir enn berre fargerike cowboyhattar!
-wordpress_id: 266
 categories:
 - Fylkesspit
 ---

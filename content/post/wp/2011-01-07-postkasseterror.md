@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-01-07 17:52:42+00:00
 slug: postkasseterror
 title: Oppdikta postmann kan stå bak tyleskapet
-wordpress_id: 1177
 tags: 
 - Asterisk
 categories:

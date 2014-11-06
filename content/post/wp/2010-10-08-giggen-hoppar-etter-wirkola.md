@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-10-08 19:21:57+00:00
 slug: giggen-hoppar-etter-wirkola
 title: Giggen hoppar etter Wirkola
-wordpress_id: 735
 categories:
 - Musikk
 ---

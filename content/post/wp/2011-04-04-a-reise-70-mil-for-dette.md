@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-04-04 19:02:56+00:00
 slug: a-reise-70-mil-for-dette
 title: Å reise 70 mil for dette!
-wordpress_id: 1294
 categories:
 - Sogndal fotball
 ---

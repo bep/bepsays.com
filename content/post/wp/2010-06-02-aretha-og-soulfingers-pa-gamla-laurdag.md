@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-02 16:37:28+00:00
 slug: aretha-og-soulfingers-pa-gamla-laurdag
 title: «Aretha» og Soulfingers på Gamla laurdag
-wordpress_id: 329
 categories:
 - Musikk
 ---

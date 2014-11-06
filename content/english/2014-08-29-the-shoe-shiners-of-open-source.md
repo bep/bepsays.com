@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-08-29 16:52:25+00:00
 slug: the-shoe-shiners-of-open-source
 title: The shoeshiners of open source
-wordpress_id: 2970
 categories:
 - English
 - Teknologi

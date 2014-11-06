@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-10-18 20:23:08+00:00
 slug: les-feuilles-mortes
 title: Les Feuilles mortes
-wordpress_id: 1457
 gallery_id: 6077467265578334625
 tags: 
 - Asterisk

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-04-03 15:05:44+00:00
 slug: palmerevyslakt-fra-sogn-avis
 title: Palmerevyslakt frå Sogn Avis
-wordpress_id: 1589
 categories:
 - Fylkesspit
 ---

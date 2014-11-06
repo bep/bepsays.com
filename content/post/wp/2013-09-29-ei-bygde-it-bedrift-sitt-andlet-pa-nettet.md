@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2013-09-29 22:03:26+00:00
 slug: ei-bygde-it-bedrift-sitt-andlet-pa-nettet
 title: Ei bygde-IT-bedrift sitt andlet på nettet
-wordpress_id: 1875
 categories:
 - Teknologi
 ---

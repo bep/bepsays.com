@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-09-01 18:01:26+00:00
 slug: ubuntu-vs-os-x-vs-windows-7
 title: Ubuntu vs OSX vs Windows 7
-wordpress_id: 527
 categories:
 - Teknologi
 ---

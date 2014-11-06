@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-07-02 16:04:08+00:00
 slug: justisrovmord
 title: Justismord av rovdyr?
-wordpress_id: 489
 categories:
 - Fylkesspit
 ---

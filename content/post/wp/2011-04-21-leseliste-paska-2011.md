@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-04-21 13:48:37+00:00
 slug: leseliste-paska-2011
 title: Leseliste påska 2011
-wordpress_id: 1325
 categories:
 - Litteratur
 ---

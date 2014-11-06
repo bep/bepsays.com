@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-02-01 20:04:06+00:00
 slug: '%e2%80%93-olav-stedje-ville-gjort-det-same'
 title: – Olav Stedje ville gjort det same
-wordpress_id: 1242
 categories:
 - Framandfylkesspit
 - Fylkesspit

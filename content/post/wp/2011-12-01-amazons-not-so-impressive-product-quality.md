@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-12-01 15:47:58+00:00
 slug: amazons-not-so-impressive-product-quality
 title: Amazon’s not so impressive product quality
-wordpress_id: 1492
 categories:
 - Litteratur
 - Teknologi

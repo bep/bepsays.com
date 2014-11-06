@@ -1,12 +1,9 @@
 ---
-author: bep
-comments: true
 date: 2012-10-19 17:30:19+00:00
 slug: kioskveltarfabrikken-i-forde
 title: Kioskveltarfabrikken i Førde
 tags: 
 - Asterisk
-wordpress_id: 1747
 categories:
 - Fylkesspit
 ---

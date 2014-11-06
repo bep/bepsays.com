@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-12-13 21:07:51+00:00
 slug: ja-dei-er-verkeleg-sa-gode
 title: Ja, dei er verkeleg så gode!
-wordpress_id: 1032
 categories:
 - Teknologi
 ---

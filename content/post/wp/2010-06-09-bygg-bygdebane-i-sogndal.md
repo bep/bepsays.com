@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-06-09 05:23:47+00:00
 slug: bygg-bygdebane-i-sogndal
 title: Bygg bygdebane i Sogndal!
-wordpress_id: 389
 categories:
 - Fylkesarkitektur
 ---

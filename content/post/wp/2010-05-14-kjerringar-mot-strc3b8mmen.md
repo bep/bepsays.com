@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-14 14:12:42+00:00
 slug: kjerringar-mot-str%c3%b8mmen
 title: Kjerringar mot Strømmen
-wordpress_id: 81
 categories:
 - Sogndal fotball
 ---

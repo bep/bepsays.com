@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-07-08 17:35:07+00:00
 slug: how-rich-is-rich-hickey
 title: How rich is Rich Hickey?
-wordpress_id: 2886
 categories:
 - English
 - Teknologi

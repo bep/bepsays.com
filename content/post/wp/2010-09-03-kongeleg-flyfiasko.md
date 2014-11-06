@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-09-03 16:00:44+00:00
 slug: kongeleg-flyfiasko
 title: Kongeleg flyfiaskofølgjetong!
-wordpress_id: 537
 categories:
 - Fylkesspit
 ---

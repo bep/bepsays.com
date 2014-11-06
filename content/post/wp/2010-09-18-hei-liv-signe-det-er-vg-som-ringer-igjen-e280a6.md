@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-09-18 15:59:09+00:00
 slug: hei-liv-signe-det-er-vg-som-ringer-igjen-%e2%80%a6
 title: – Hei, Liv Signe; det er VG som ringer, igjen …
-wordpress_id: 641
 categories:
 - Fylkesspit
 ---

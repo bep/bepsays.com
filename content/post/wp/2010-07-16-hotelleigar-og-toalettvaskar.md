@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-07-16 16:22:11+00:00
 slug: hotelleigar-og-toalettvaskar
 title: Hotelleigar og toalettvaskar
-wordpress_id: 497
 categories:
 - Fylkesspit
 ---

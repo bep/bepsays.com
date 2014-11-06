@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2014-06-23 16:32:25+00:00
 slug: the-legacy-of-date-and-time
 title: The legacy of date and time
-wordpress_id: 2418
 categories:
 - English
 - Teknologi

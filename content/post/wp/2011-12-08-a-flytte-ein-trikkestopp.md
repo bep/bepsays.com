@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-12-08 17:56:51+00:00
 slug: a-flytte-ein-trikkestopp
 title: Å flytte ein trikkestopp
-wordpress_id: 1513
 categories:
 - Kollektivtransport
 ---

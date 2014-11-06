@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-05 22:27:14+00:00
 slug: varyre-sauer-darlege-fotballspelarar
 title: Våryre sauer er dårlege fotballspelarar
-wordpress_id: 65
 categories:
 - Sogndal fotball
 ---

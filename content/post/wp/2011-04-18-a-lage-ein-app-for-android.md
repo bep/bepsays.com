@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-04-18 19:25:26+00:00
 slug: a-lage-ein-app-for-android
 title: Å lage ein app for Android
-wordpress_id: 1302
 categories:
 - Sogndal fotball
 - Teknologi

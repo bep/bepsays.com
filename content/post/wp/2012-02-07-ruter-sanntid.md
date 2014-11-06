@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-02-07 17:52:22+00:00
 slug: ruter-sanntid
 title: Implementasjonen av Ruter si sanntidsløysing
-wordpress_id: 1542
 categories:
 - Kollektivtransport
 ---

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-18 19:41:03+00:00
 slug: siste-innspurt-for-ein-taylor-til-ir
 title: Siste innspurt for ein Taylor til IR!
-wordpress_id: 90
 categories:
 - Musikk
 ---

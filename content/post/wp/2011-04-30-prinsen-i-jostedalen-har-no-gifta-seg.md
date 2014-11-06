@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2011-04-30 20:53:24+00:00
 slug: prinsen-i-jostedalen-har-no-gifta-seg
 title: Prinsen i Jostedalen har gifta seg
-wordpress_id: 1343
 categories:
 - Fylkesspit
 ---

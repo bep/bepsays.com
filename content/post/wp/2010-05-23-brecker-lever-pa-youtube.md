@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-23 11:35:59+00:00
 slug: brecker-lever-pa-youtube
 title: Brecker lever på YouTube!
-wordpress_id: 142
 categories:
 - Musikk
 ---

@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2010-05-22 12:00:49+00:00
 slug: fylkespit
 title: Fylkesspit
-wordpress_id: 132
 categories:
 - Fylkesspit
 ---

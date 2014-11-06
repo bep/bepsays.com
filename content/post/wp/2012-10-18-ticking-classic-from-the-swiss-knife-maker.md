@@ -1,10 +1,7 @@
 ---
-author: bep
-comments: true
 date: 2012-10-18 17:59:33+00:00
 slug: ticking-classic-from-the-swiss-knife-maker
 title: Ticking classic from the Swiss knife maker
-wordpress_id: 1741
 gallery_id: 6077471896521018785
 categories:
 - Klokke
