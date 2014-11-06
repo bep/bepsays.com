@@ -5,6 +5,9 @@ title: How rich is Rich Hickey?
 categories:
 - English
 - Teknologi
+markdown:
+    angledQuotes: false
+    
 ---
 
 **After _Clojure_ – richer, for sure. If Rich Hickey's life line is a persistent list, there should be ways to track the _value of values_.**

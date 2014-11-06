@@ -5,6 +5,8 @@ title: The legacy of date and time
 categories:
 - English
 - Teknologi
+markdown:
+    angledQuotes: false
 ---
 
 **[The JSR 310](https://today.java.net/pub/a/today/2008/09/18/jsr-310-new-java-date-time-api.html) gave JDK 8 a new and long awaited new design of date and time in Java. But since the old classes that has been trying to do the same are still in wide spread use, handling of these vital value types will suffer from the legacy in the next decade or so.**

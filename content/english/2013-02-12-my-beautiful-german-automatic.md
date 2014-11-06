@@ -7,6 +7,8 @@ categories:
 - English
 - Klokke
 - Foto
+markdown:
+    angledQuotes: false
 ---
 
 **The gallery below says it all: It is a German Kemmner Tonneau automatic watch with a Swiss [ETA 2824-2](http://en.wikipedia.org/wiki/ETA_SA#ETA_2824-2) movement.**

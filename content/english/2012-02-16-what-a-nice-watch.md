@@ -8,6 +8,9 @@ categories:
 - Klokke
 - Foto
 - Teknologi
+markdown:
+    angledQuotes: false
+
 ---
 
 **I got myself a new watch, the Bulova Precisionist Claremont. At about 170 USD from Amazon.com its a bargain. The continuously sweeping second hand is impressive, and it looks fantastic. Some say it is big, but the curved design makes it just right.**

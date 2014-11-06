@@ -5,9 +5,14 @@ title: Minify before you uglify, you stupid!
 categories:
 - English
 - Teknologi
+
+markdown:
+    angledQuotes: false
+
 ---
 
-**“You’ll have to ng-minify the code before you uglify it, you stupid git!”**
+**"You’ll have to ng-minify the code before you uglify it, you stupid git!"**
+
 
 _– I have to make it smaller before I make it uglier?_
 

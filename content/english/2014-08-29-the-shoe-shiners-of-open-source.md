@@ -5,6 +5,10 @@ title: The shoeshiners of open source
 categories:
 - English
 - Teknologi
+
+markdown:
+    angledQuotes: false
+
 ---
 
 **The coders of Open Source often do a second shining of their code – and when they do they mark their commit with the word "polish".**

@@ -6,6 +6,8 @@ categories:
 - English
 - Teknologi
 - Wikipedia
+markdown:
+    angledQuotes: false
 ---
 
 **Any administrator on Wikipedia can run any [Javascript](http://en.wikipedia.org/wiki/MediaWiki:Common.js) code in all the visitors' browsers. On the wiki for the **English language **[ref]en.wikipedia.org[/ref], the number of people with that power is currently 1458.[ref]http://en.wikipedia.org/wiki/Wikipedia:List_of_administrators[/ref]**
