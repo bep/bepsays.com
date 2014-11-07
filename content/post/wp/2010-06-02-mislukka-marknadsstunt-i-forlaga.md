@@ -10,7 +10,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/614px-Michael_connelly_2007.jpg" class="alignright small" caption="Michael Connelly (2007). Foto: (CC) Larry D. Moore" >}}
+{{< figure src="/img/wp/614px-Michael_connelly_2007-bs400.jpg" class="alignright small" caption="Michael Connelly (2007). Foto: (CC) Larry D. Moore" >}}
 
 **Michael Connelly** skriv fanstastiske bøker, men utgjevaren hans har lyst å gi oss noko meir. I beste meining, eller som eit marknadsstunt for å selje fleire bøker. Dei trykker første kapittel av den neste boka mot slutten. Når eg nærmar meg slutten av ei bok, når det er som mest spennande, bruker eg tjukkelsen på det som er att som mål på kor mykje spenning som er i vente. Og då blir eg litt skuffa når det sluttar før eg trur. Connelly, om du ikkje greier å overtyde meg om at dette er noko å satse på i løpet av 400 sider, hjelper det lite med 30 ekstra.
 

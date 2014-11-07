@@ -8,7 +8,7 @@ categories:
 
 **Høgskulen i Sogn og Fjordane er ikkje inne [på listene](http://www.aftenposten.no/jobb/Norske-universiteter-ligger-langt-bak-eliten-6999890.html) over verdas beste universitet. Men det kan det bli ei endring på.**
 
-{{< figure src="/img/wp/MIT_Building_10_and_the_Great_Dome_Cambridge_MA1.jpg" class="small" caption="Massachusetts Institute of Technology er kåra til verdas beste universitet. Foto: John Phelan." >}}
+{{< figure src="/img/wp/MIT_Building_10_and_the_Great_Dome_Cambridge_MA1-bs400.jpg" class="small" caption="Massachusetts Institute of Technology er kåra til verdas beste universitet. Foto: John Phelan." >}}
 
 <!--more-->
 

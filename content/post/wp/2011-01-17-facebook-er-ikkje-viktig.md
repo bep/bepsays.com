@@ -12,7 +12,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/Facebook_man.jpg" class="alignright small" caption="Fjesbokmannen.  Foto: Maxo (lisens: CC By 3.0)" >}}
+{{< figure src="/img/wp/Facebook_man-bs400.jpg" class="alignright small" caption="Fjesbokmannen.  Foto: Maxo (lisens: CC By 3.0)" >}}
 
 Kven bryr seg?
 

@@ -8,7 +8,7 @@ categories:
 
 **Norled har beslutta at «Osebergskipet» skal ta over for «MS Njord» på ekspressbåtruta frå Bergen til Sogndal frå vetle julaftan.**
 
-{{< figure src="/img/wp/Oseberg_longship.png" class="alignright small" caption="Osebergskipet." >}}
+{{< figure src="/img/wp/Oseberg_longship-bs400.png" class="alignright small" caption="Osebergskipet." >}}
 
 <!--more-->
 

@@ -8,7 +8,7 @@ categories:
 
 **Den legendariske amerikanske saksofonisten [Michael Brecker](http://en.wikipedia.org/wiki/Michael_Brecker) døydde av [leukemi](http://nn.wikipedia.org/wiki/Leukemi) 13. januar 2007.**
 
-{{< figure src="/img/wp/Michael_Brecker_Munich_2001.jpg" class="alignright small" caption="Michael Brecker i München i 2001. Foto: Sven Petersen (WikiMedia Commons)" >}}
+{{< figure src="/img/wp/Michael_Brecker_Munich_2001-bs400.jpg" class="alignright small" caption="Michael Brecker i München i 2001. Foto: Sven Petersen (WikiMedia Commons)" >}}
 
 <!--more-->
 

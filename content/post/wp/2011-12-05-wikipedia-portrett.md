@@ -9,7 +9,7 @@ categories:
 
 **WikiMedia samlar inn pengar, og har valgt å venstrejustere kampanjeportretta rett over artikkeltittelen i Wikipedia.**
 
-{{< figure src="/img/wp/Elsa-Hosk-Wikipedia-the-free-encyclopedia-en_wikipedia_org_wiki_Elsa_Hosk.png" class="alignright small " caption="Skjermdump frå engelsk Wikipedia." >}}
+{{< figure src="/img/wp/Elsa-Hosk-Wikipedia-the-free-encyclopedia-en_wikipedia_org_wiki_Elsa_Hosk-bs400.png" class="alignright small " caption="Skjermdump frå engelsk Wikipedia." >}}
 
 Dette har fått [fleire ](http://techcrunch.com/2011/11/20/ligers-and-tigons-and-wales-oh-my/)til å rynke på nasen.
 

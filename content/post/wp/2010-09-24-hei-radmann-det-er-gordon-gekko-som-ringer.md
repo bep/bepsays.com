@@ -13,7 +13,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/416px-Michael_Douglas_Navy3.jpg" class="alignright small" caption="Michael Douglas spelte Gordon Gekko i filmen Wall Street. Foto: Wikimedia Commons." >}}
+{{< figure src="/img/wp/416px-Michael_Douglas_Navy3-bs400.jpg" class="alignright small" caption="Michael Douglas spelte Gordon Gekko i filmen Wall Street. Foto: Wikimedia Commons." >}}
 
 Om Sunde tenkte på seljarane i finansselskapa då han skreiv teksten, vitast ikkje, men eg tykkjer eg høyrer samtalen mellom rådmann og seljar:
 

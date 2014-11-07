@@ -12,7 +12,7 @@ markdown:
 
 **Any administrator on Wikipedia can run any [Javascript](http://en.wikipedia.org/wiki/MediaWiki:Common.js) code in all the visitors' browsers. On the wiki for the **English language **[ref]en.wikipedia.org[/ref], the number of people with that power is currently 1458.[ref]http://en.wikipedia.org/wiki/Wikipedia:List_of_administrators[/ref]**
 
-{{< figure src="/img/wp/MediaWiki_Common.js-Wikipedia-the-free-encyclopedia_1348872838204.png" class="small" >}}
+{{< figure src="/img/wp/MediaWiki_Common.js-Wikipedia-the-free-encyclopedia_1348872838204-bs400.png" class="small" >}}
 
 And many of these people are people with no name. I'm not saying they do anything harmful. I know many of them to be of the most honest kind.
 
