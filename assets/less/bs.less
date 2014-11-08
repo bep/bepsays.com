@@ -11,6 +11,7 @@
 @bs-font-size-base: 17px;
 @bs-font-size-large: ceil((@bs-font-size-base * 1.25));
 @bs-font-size-small: ceil((@bs-font-size-base * 0.85));
+@bs-font-size-title: 3.6rem;
 
 @bs-line-height-base: 1.5;
 
@@ -114,6 +115,12 @@ b, strong {
   font-weight: @bs-font-weight-bold;
   color: @bs-color-text;
 }
+
+
+code,
+pre {
+  font-family: "inconsolata", Menlo, Monaco, "Courier New", monospace;
+};
 
 .wf-loading body {
   visibility: hidden;
