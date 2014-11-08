@@ -39,6 +39,9 @@
 @bs-color-title: @bs-color-text;
 @brand-primary: lighten(@bs-color-text, 20%);
 
+// will be toggled by script
+@import "variants/bs-variant-one.less";
+
 
 /* ==========================================================================
    Base
@@ -88,7 +91,7 @@ a {
 }
 
 h1 {
-  font-size: 3.6rem;
+  font-size: @bs-font-size-title;
   //text-transform: uppercase;
   text-align: center;
   line-height: 1;
@@ -237,6 +240,12 @@ b, strong {
   figure.small {
     .bs-figure-small-right();
 
+  }
+
+  .highlight {
+    pre {
+      font-size: 0.7rem;
+    }
   }
 
   .gallery {

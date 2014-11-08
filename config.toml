@@ -2,7 +2,7 @@ baseurl = "http://bepsays.com/"
 title = "bepsays.com"
 languageCode = "no-nn"
 
-PygmentsStyle = "bw"
+PygmentsStyle = "trac"
 
 [markdown]
     angledQuotes = true

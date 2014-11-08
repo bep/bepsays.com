@@ -1,7 +1,7 @@
 ---
 tags:
 - x
-categories
+categories:
 - Kultur
 draft: true
 ---

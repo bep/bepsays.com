@@ -1,6 +1,8 @@
 ---
 categories:
 - Foto
+tags:
+- Asterisk
 date: 2014-11-03 22:27:14+00:00
 draft: false
 gallery_id: 6077606128056475953
