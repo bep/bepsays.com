@@ -7,6 +7,7 @@ date: 2014-08-23 22:27:14+00:00
 draft: false
 slug: kunstverka-over-louis-vuitton
 title: Kunstverka over Louis Vuitton
+gallery_id: 6077473420639406657
 ---
 
 **Tykkjer du det er for dyrt å gå inn, kan du heve blikket – og nyte veggmåleria.**
