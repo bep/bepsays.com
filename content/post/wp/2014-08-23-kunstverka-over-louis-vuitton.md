@@ -18,5 +18,5 @@ Det franske motehuset [Louis Vuitton](https://nn.wikipedia.org/wiki/Louis_Vuitto
 
 Bygningen vart bygd i 1894 for skreddar Carl Hansen. Arkitekt var Christian Reuter.
 
-Han er bygd i nyrenessansestil og er dekorert med freskomåleri, truleg ført i pensel av dekorasjonsmålar Halfdan Davidsen.
+Han er bygd i nyrenessansestil og er dekorert med vakre freskomåleri, truleg ført i pensel av dekorasjonsmålar Halfdan Davidsen.
 
