@@ -5,6 +5,7 @@ date: 2014-11-08T09:57:44+01:00
 draft: false
 tags:
 - Meta
+- Asterisk
 title: "Lynrask A∕B-testing av stilsettendringar"
 ---
 **Om tykkjer det hadde vore kjekt å bla deg gjennom ulike utsjånadsvariantar av nettstaden din med eit tastetrykk -- og sjå nye endringar smyge seg inn i nettlesaren...**
