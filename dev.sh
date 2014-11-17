@@ -13,7 +13,7 @@ go build || die "Hugo build failed!"
 
 cd $SOURCE
 
-nohup grunt &
+nohup gulp &
 
 
 hugo version && echo "--------------------------------------------------\n" &&  hugo server --baseUrl=http://$DEV_DOMAIN/ -D -w -d dev

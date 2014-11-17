@@ -8,17 +8,17 @@
 
     <title> {{ .Title }} </title>
 
-    <link rel="stylesheet" href="{{ .Site.BaseUrl }}/css/bs.css">
+    <link rel="stylesheet" href="/css/bs.css">
     {{if isset .Params "gallery_id" }}
-    <link href="{{ .Site.BaseUrl }}/css/nano/nanogallery.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/nano/nanogallery.min.css" rel="stylesheet" type="text/css">
     {{ end }}
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 
-    <script src="{{ .Site.BaseUrl }}/js/bs.min.js"></script>
+    <script src="/js/bs.js"></script>
 
     {{if isset .Params "gallery_id" }}
-    <link href="{{ .Site.BaseUrl }}/css/nano/nanogallery.min.css" rel="stylesheet" type="text/css">
-    <script src="{{ .Site.BaseUrl }}/js/vendor/jquery.nanogallery.min.js"></script>
+    <link href="/css/nano/nanogallery.min.css" rel="stylesheet" type="text/css">
+    <script src="/js/vendor/jquery.nanogallery.min.js"></script>
     {{ end }}
 
     <link rel="shortcut icon" href="/favicon.ico">
