@@ -3,7 +3,7 @@ categories:
 - Kultur
 - Reise
 date: 2014-11-17T14:34:18+01:00
-draft: true
+draft: false
 tags:
 - Bergen
 title: Pilstumlingane druknar i svære bergensarnevar
@@ -11,7 +11,7 @@ slug: pilstumlingane-i-bergen
 ---
 {{< figure src="/img/2014/bergen-2014-11-15-pils.jpg" caption="Kafé i Bergen serverer liten pils." class="small portrait" >}}
 
-**Dei druknar i dei svære hendene til sjøulkane og fotballpatriotane i Bergen, dei små pilsglasa frå Hansa.**
+**Dei druknar i dei svære nevane til sjøulkane og fotballpatriotane i Bergen, dei små pilsglasa frå Hansa.**
 
 Pilsglasa rommar fire desiliter. Desse glasa såg ein først på uterestaurantane på Aker Brygge i Oslo -- slik kunne dei skru halvliterprisen opp mot hundrelappen utan at folk merka det.
 
@@ -21,7 +21,10 @@ I Bergen er det nesten like dyrt, og dei er der, overalt. Større glas er ikkje 
 
 <!--more-->
 
-**Der sit dei, fulltatoverte i Branndraktene sine på Fotballpuben, og svinsar tumlingen i takt med Nystemten. For stamgjestene på Vaagen Pub på Strandkaien er stoda den same. Dei drikk fordi dei må, lett og fort. Men dei rynkar på nasen.**
+**Der sit dei, fulltatoverte i Branndraktene sine på Fotballpuben, dei svinsar tumlingen i takt med Nystemten. For stamgjestene på Vaagen Pub på Strandkaien er stoda den same. Dei drikk fordi dei må, lett og fort. Men dei rynkar på nasen.**
+
+>Detta e jo berre éeeen slurk, de jo.
+><cite>skuffa og tørst bergensar</cite> 
 
 Og no seier sikkert bergensaren i deg at _"det er jo ingen som drikker øl i sentrum; alle vet da at alle de kule pubbene finnes ute ved Danmarks plass!"_
 

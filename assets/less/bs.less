@@ -43,7 +43,6 @@
 // will be toggled by script
 @import "variants/bs-variant-one.less";
 
-
 /* ==========================================================================
    Base
    ========================================================================== */
@@ -116,11 +115,12 @@ b, strong {
   color: @bs-color-text;
 }
 
-
 code,
 pre {
   font-family: "inconsolata", Menlo, Monaco, "Courier New", monospace;
-};
+}
+
+;
 
 .wf-loading body {
   visibility: hidden;
@@ -161,9 +161,6 @@ pre {
   }
 
 }
-
-
-
 
 /* ==========================================================================
    Section / Element styles
@@ -242,6 +239,18 @@ pre {
     color: inherit;
     display: block;
     clear: both;
+
+    cite {
+      font-style: normal;
+      font-weight: @bs-font-weight-bold;
+      display: block;
+      clear: both;
+      font-size: 0.8rem;
+    }
+    cite:before {
+      content: "– ";
+    }
+
   }
 
   figure.small {
@@ -317,8 +326,6 @@ pre {
     text-align: center;
     .bs-title-border();
   }
-
-
 
 }
 
