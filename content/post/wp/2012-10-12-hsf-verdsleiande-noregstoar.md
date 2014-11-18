@@ -17,7 +17,7 @@ I alle fall om ein skal tru Rasmus Stokke, dekan ved avdeling for lærarutdannin
 – Høgskulen i Sogn og Fjordane vert verdsleiande. Det hevar statusen vår, ein idrettshøgskule nummer to etter Norges idrettshøgskule, [seier](http://www.sognavis.no/lokale_nyhende/article6280541.ece) han til Sogn Avis, etter at det er klart at forskingsrådet har innvilga 17,5 millionar kroner til eit forskingsprosjekt.
 
 
->Høgskulen i Sogn og Fjordane vert verdsleiande. -- **Dekan Rasmus Stokke*
+>Høgskulen i Sogn og Fjordane vert verdsleiande. <cite>Dekan Rasmus Stokke</cite>
 
 
 Det er Geir Kåre «GK» Resaland som frontar forskingsprosjektet, som skal sjå på samanhengen mellom fysisk aktivitet og innsatsen i klasserommet. Sjølv voks han opp tjue meter frå barneskulen Trudvang.
