@@ -6,7 +6,9 @@ tags:
 date: 2014-08-23 22:27:14+00:00
 draft: false
 slug: kunstverka-over-louis-vuitton
-title: Kunstverka over Louis Vuitton
+title: |
+    Kunstverka over    
+    Louis Vuitton
 gallery_id: 6077473420639406657
 ---
 

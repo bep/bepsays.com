@@ -2,7 +2,7 @@
 {{ partial "menu.html" . }}
 <div class="content container">
     <div class="main post">
-        <h1 class="post-title">{{ .Title }}</h1>
+        <h1 class="post-title">{{ .Title | markdownify }}</h1>
         {{/* partial "post-date.html" . */}}
         {{ .Content }}
         {{ partial "gallery.html" . }}

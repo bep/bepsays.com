@@ -1,7 +1,9 @@
 ---
 date: 2014-01-25 18:23:19+00:00
 slug: laerdal-er-ei-vakker-bygd
-title: Lærdal er ei vakker bygd!
+title: | 
+    Lærdal er   
+    ei vakker bygd!
 tags: 
 - Asterisk
 categories:
