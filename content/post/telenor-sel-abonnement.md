@@ -18,7 +18,7 @@ Det gjer det sjølvsagt ikkje.
 
 Biletet over er det som vart bytt ut. No skal det seiast til Telenor sitt skjøre forsvar at noko av det som vart fjerna er gamalt rask frå fasttelefonien si tid.
 
-Mor mi hadde eit breidbandsabonnement frå Telenor som ikkje finst lenger. No kunne ein kanskje ha forventa at Telenor kunne oppgradert til det nyare og litt raskare abonnementet i det stille, men dei ville ha 10 kroner meir i månaden -- og modemet måtte skiftast ut.
+Mor mi hadde eit breidbandsabonnement frå Telenor som ikkje finst lenger. No kunne ein kanskje ha forventa at Telenor kunne oppgradert til det nyare og litt raskare abonnementet i det stille, men dei ville ha 10 kroner meir i månaden -- og seljaren sa at modemet måtte skiftast ut.
 
 {{< figure src="/img/2014/telenor/telenor_pw.jpg" class="small portrait" caption="«Her er det enkle, nye passordet ditt!»" >}}
 
@@ -35,3 +35,4 @@ Men å seie at denne oppgraderinga er å trekke ut og stikke ut inn ein leidning
 
 **"Det er berre å trekke ut ein leidning," sa seljaren frå Telenor.**
 
+**Epilog:** I dag fekk mor mi eit brev frå Telenor der det står:"Har du allerede Zyxel 2812 ... behøver du ikke foreta deg noe ..." Du gissar korrekt, ho hadde ein Zyxel 2812. 
