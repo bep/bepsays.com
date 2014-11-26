@@ -5,9 +5,7 @@ date: 2014-11-26T13:12:03+01:00
 draft: false
 tags:
 - Telenor
-title: | 
-    Telenor til dame (72):
-    «Det er berre å trekke ut ein leidning»
+title: "Telenor til dame (72): «Det er berre å trekke ut ein leidning»"
 slug: telenor-sel-abo-til-eldre
 ---
 **Telenor sel breidbandsoppgraderingar til eldre med lovnad om at "det installerer seg sjølv."**
