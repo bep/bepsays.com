@@ -29,7 +29,7 @@ Men å seie at denne oppgraderinga er å trekke ut og stikke ut inn ein leidning
 * Nytt breidbandsmodem må koplast til, med straum, ASDL-kabel og dei faste nettverkskablane.
 * For å konfigurere modemet må ein først logge seg på med den kryptiske nettverksnøkkelen på heile 13 teikn -- limt på undersida av modemet.
 * No tastar ein inn nettverksadressa "10.0.0.138/start"
-* Her kan ein trykke seg vidare til "Min Side" der ein kan logge seg på med eit brukarnamn ein kan få tilsendt på SMS med eit passord ein kan få tilsendt i ein annan SMS.
+* Her kan ein trykke seg vidare til "Min Side" der ein kan logge seg på med eit brukarnamn ein kan få tilsendt på SMS og med eit passord ein kan få tilsendt i ein annan SMS.
 * Trykker ein seg deretter vidare vil ein, om ein leitar hardt og lenge, finne fram til innstillingane der ein kan endre på nettverksnøkkel og SSID.
 * Det ville vore flott om ein kunne ha endra desse verdiane til slik det var før, slik at mor mi kunne sleppe å endre på alle nettverksapparata sine, men det ville vore for enkelt, Telenor.
 * Nei, nettverksnøkkelen "1234554321" er ikkje lenger sikker nok for Telenor, og Telenor insisterer på å legge til suffikset "-5GHz" til SSIDen ein ynskjer å bruke.
