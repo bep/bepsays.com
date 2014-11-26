@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 require 'RMagick'
 
 static_path=File.expand_path('../static', File.dirname(__FILE__))
