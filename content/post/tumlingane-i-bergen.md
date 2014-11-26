@@ -6,6 +6,7 @@ date: 2014-11-17T14:34:18+01:00
 draft: false
 tags:
 - Bergen
+- Asterisk
 title: Pilstumlingane druknar i svære bergensarnevar
 slug: pilstumlingane-i-bergen
 ---

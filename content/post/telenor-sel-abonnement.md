@@ -33,7 +33,7 @@ Men å seie at denne oppgraderinga er å trekke ut og stikke ut inn ein leidning
 * Trykker ein seg deretter vidare vil ein, om ein leitar hardt og lenge, finne fram til innstillingane der ein kan endre på nettverksnøkkel og SSID.
 * Det ville vore flott om ein kunne ha endra desse verdiane til slik det var før, slik at mor mi kunne sleppe å endre på alle nettverksapparata sine, men det ville vore for enkelt, Telenor.
 * Nei, nettverksnøkkelen "1234554321" er ikkje lenger sikker nok for Telenor, og Telenor insisterer på å legge til suffikset "-5GHz" til SSIDen ein ynskjer å bruke.
-* Men etter å oppdatert innstillingane på PCen, iPhonen og iPaden hennar -- så er ho endeleg på nett att.
+* Men etter å ha oppdatert innstillingane på PCen, iPhonen og iPaden hennar -- så er ho endeleg på nett att.
 
 **"Det er berre å trekke ut ein leidning," sa seljaren frå Telenor.**
 
