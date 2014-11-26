@@ -10,7 +10,7 @@ title: |
     «Det er berre å trekke ut ein leidning»
 slug: telenor-sel-abo-til-eldre
 ---
-**Telenor sel breidbandsoppgraderingar til eldre folk med lovnadar om at "det installerer seg sjølv."**
+**Telenor sel breidbandsoppgraderingar til eldre med lovnad om at "det installerer seg sjølv."**
 
 Det gjer det sjølvsagt ikkje.
 
