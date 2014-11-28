@@ -6,6 +6,8 @@
             {{ range .Params.categories }}
             <a href="/categories/{{ . | lower | urlize }}" class="btn btn-lg bs-btn-info">{{ . }}</a>
             {{ end }}
+            <a href="{{ .Site.Pages.ByWeight.Prev . }}">Prev</a>
+            <a href="{{ .Site.Pages.ByWeight.Next . }}">Next</a>
         </div>
     </div>
     {{ partial "series.html" . }}
