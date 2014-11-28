@@ -10,7 +10,7 @@ categories:
 
 **Dette fotografiet er det eg veit om oldeforeldergenerasjonen på farsida mi.**
 
-{{< figure src="/img/wp/oldeforeldre.jpg" class="alignright" caption="Oldeforeldra mine. Foto: Willy Marthinussen." >}}
+{{< figure src="/assets/img/wp/oldeforeldre.jpg" class="alignright" caption="Oldeforeldra mine. Foto: Willy Marthinussen." >}}
 
 <!--more-->
 

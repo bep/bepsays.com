@@ -12,7 +12,7 @@ categories:
 
 Eg var på Ullevaal den kalde og våte oktoberkvelden, eg såg kampen som ganske sikkert for alltid vil framstå som tidenes fotballkamp.
 
-{{< figure src="/img/wp/bep-says_1287605613798.png" class="alignright" caption="Bep seier og får rett." >}}
+{{< figure src="/assets/img/wp/bep-says_1287605613798.png" class="alignright" caption="Bep seier og får rett." >}}
 
 I kveld sat eg på Bohemen i Oslo, fotballpuben til Klanen. Dei var ikkje særleg muntre over  å bli minna på Øren-målet som sende dei ned. Like elegant sende han oss opp i kveld.
 

@@ -8,7 +8,7 @@ categories:
 
 **Norled har beslutta at «Osebergskipet» skal ta over for «MS Njord» på ekspressbåtruta frå Bergen til Sogndal frå vetle julaftan.**
 
-{{< figure src="/img/wp/Oseberg_longship-bs400.png" class="alignright small" caption="Osebergskipet." >}}
+{{< figure src="/assets/img/wp/Oseberg_longship-bs400.png" class="alignright small" caption="Osebergskipet." >}}
 
 <!--more-->
 
@@ -53,7 +53,7 @@ Eg får avslutte der og ynskje alle ei god jul!
 **Éin ting til:** Det er eit par tenåringar i familien eg skulle ha kjøpt noko fint til til jul. No har eg høyrt at den siste moten blant dei unge i dag er å ynskje seg billege presangar, at det helst ikkje skal koste meir enn 100 kroner. Kan dette stemme? Eg var no førebudd på å bruke monaleg mykje meir, men dei skal få det som dei vil ...
 
 
-{{< figure src="/img/wp/brevduer.jpg" class="small" alt="brevduer">}}
+{{< figure src="/assets/img/wp/brevduer.jpg" class="small" alt="brevduer">}}
 
 **Ja, og endå éin siste ting:** Det var ein NRK-tilsett som posta biletet til høgre på Facebook for nokre dagar sidan. Han la til ein kommentar om at han kunne sakne tidlegare tiders meir saktegåande teknologi. Eg fekk ikkje med meg namnet på denne NRK-karen, men reknar med at han er av dei som sit i kjellaren på Marienlyst med dimmelenke til pensjonistdatoen, ei lenke med svært få kuler igjen.
 

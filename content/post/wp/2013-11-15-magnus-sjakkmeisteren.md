@@ -19,7 +19,7 @@ Dette er _stort._ Foreldra til Carlsen var framsynte då dei døypte guten.
 ## Kongane
 
 
-{{< figure src="/img/wp/Magnus_Carlsen_Tata_Steel_2013.jpg" class="alignright" caption="Magnus Carlsen i Tata Steel-turneringa i 2013. Foto: Frans Peeters." >}}
+{{< figure src="/assets/img/wp/Magnus_Carlsen_Tata_Steel_2013.jpg" class="alignright" caption="Magnus Carlsen i Tata Steel-turneringa i 2013. Foto: Frans Peeters." >}}
 
 Sjakkspelaren Magnus Carlsen har truga mange kongar. Før han har mange kongar delt hans namn:
 
@@ -54,7 +54,7 @@ Sjakkspelaren Magnus Carlsen har truga mange kongar. Før han har mange kongar d
 ## Ungane
 
 
-{{< figure src="/img/wp/magnus_ssb.gif" class="alignnone" caption="Historisk utvikling av bruken av namnet Magnus i Noreg. Kjelde: SSB." >}}
+{{< figure src="/assets/img/wp/magnus_ssb.gif" class="alignnone" caption="Historisk utvikling av bruken av namnet Magnus i Noreg. Kjelde: SSB." >}}
 
 I følgje [Statistisk Sentralbyrå ](http://www.ssb.no/navn?lang=n&base=mann&fornavn=Magnus&etternavn=)er det i dag 14 994 personar som har **Magnus** som fyrste fornamn, 12 877 som éinaste fornamn og 347 som etternamn.
 

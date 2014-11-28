@@ -8,13 +8,13 @@ categories:
 
 **Caroline Berg er gift med ein fotballspelar og ho skriv på bloggen sin fotballfrue.no.  Ho har fått [hard medfart](http://e24.no/media/article3911767.ece) i den kritiske nettpresa etter at det kom for ein dag  at ho krev pengar for å skrive bokmeldingar og liknande.**
 
-{{< figure src="/img/wp/Annonsepriser_Caro_1381281t.jpg" class="alignright" caption="Prisliste for omtale på fotballfrue.no." >}}
+{{< figure src="/assets/img/wp/Annonsepriser_Caro_1381281t.jpg" class="alignright" caption="Prisliste for omtale på fotballfrue.no." >}}
 
 <!--more-->
 
 Ikkje reint lite pengar, heller, syner prislista (sjå skjermdump). Caroline Berg er openbart ei durkdreven forretningskvinne, kritikken botnar i rein misunning. Greier ho å få nesten fem tusen kroner for å lime inn eit bilde og nemne eit produkt i eit blogginnlegg, bør ho vere ein soleklar kandidat til _«Dagens Næringslivs Gründerpris for et forretningskonsept hinsides enhver fornuft»_
 
-{{< figure src="/img/wp/hairmajonaise-bs400.jpg" class="alignright small" caption="Hårmajones? Foto: Ukjent opphav." >}}
+{{< figure src="/assets/img/wp/hairmajonaise-bs400.jpg" class="alignright small" caption="Hårmajones? Foto: Ukjent opphav." >}}
 
 Det er nesten slik at eg er freista til å punge ut nokre tusenlappar for å teste ut Berg sine kreative evner; greier ho å omtale eit produkt som t.d. _Hårmajones_ i positive vendingar?
 

@@ -16,4 +16,4 @@ Eg tykkjer eg ser for meg redaksjonsmøtet:
 
 – Okai, Jani! Det skal bli.
 
-{{< figure src="/img/wp/Faksimile-Sogn-Avis-om-Palmerevy-2012.jpg" class="alignright" caption="Faksimile frå Sogn Avis 2. april 2012." >}}
+{{< figure src="/assets/img/wp/Faksimile-Sogn-Avis-om-Palmerevy-2012.jpg" class="alignright" caption="Faksimile frå Sogn Avis 2. april 2012." >}}

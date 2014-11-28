@@ -10,7 +10,7 @@ tags:
 title: Pilstumlingane druknar i svære bergensarnevar
 slug: pilstumlingane-i-bergen
 ---
-{{< figure src="/img/2014/bergen-2014-11-15-pils.jpg" caption="Kafé i Bergen serverer liten pils." class="small portrait" >}}
+{{< figure src="/assets/img/2014/bergen-2014-11-15-pils.jpg" caption="Kafé i Bergen serverer liten pils." class="small portrait" >}}
 
 **Dei druknar i dei svære nevane til sjøulkane og fotballpatriotane i Bergen, dei små pilsglasa frå Hansa.**
 
@@ -37,7 +37,7 @@ No er det nokre år sidan eg var i Bergen sist. Det meste ser ut til å vere ved
 
 Dette må bergensavisene ha skrive sider opp og ned om, tenkjer eg; dette må petit-ekspertar som Finn Tokvam ha gripe tak i. Bergens Tidende. Bergensavisen.
 
-{{< figure src="/img/2014/bergen-2014-11-15-pano.jpg" caption="Lille Lungegårdsvannet i Bergen." >}}
+{{< figure src="/assets/img/2014/bergen-2014-11-15-pano.jpg" caption="Lille Lungegårdsvannet i Bergen." >}}
 
 Men dette ser det ikkje ut som avisene eller syklistane rundt vatnet i Bergen sentrum er særleg opptekne av. Nokre enkle Google-søk gir meg ingen treff. Desse glasa ser ut til å ha smygd seg inn i det stille -- og "stille og Bergen" høyrest ikkje rett ut.
 

@@ -13,7 +13,7 @@ markdown:
 
 **I wrote [a piece](http://bepsays.com/2012/10/my-vinage-longines/) about a vintage Longines I knew nothing about. I opened it up, and now I know some.**
 
-{{< figure src="/img/wp-featured/vintage-longines-0084.jpg" caption="Movement of a Longines 14k gold 1957" >}}
+{{< figure src="/assets/img/wp-featured/vintage-longines-0084.jpg" caption="Movement of a Longines 14k gold 1957" >}}
 
 <!--more-->
 	

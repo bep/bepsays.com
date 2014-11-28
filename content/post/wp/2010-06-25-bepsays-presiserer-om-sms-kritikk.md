@@ -8,7 +8,7 @@ categories:
 
 **_bepsays_ kom i går i skade for å stole på NRK Sogn og Fjordane som kjelde for påstanden om at Clara Øberg hadde sagt at ho ikkje hadde fått ein SMS frå statssekretær Roger Ingebrigtsen.**
 
-{{< figure src="/img/wp/NRK-presiserer-om-SMS-kritikk-NRK-Sogn-og-Fjordane-NRK-Nyhende_1277404162465-bs400.png" class="alignright small" caption="Faksimile frå NRK Sogn og Fjordane. Clara Øberg sa ikkje det ho sa." >}}
+{{< figure src="/assets/img/wp/NRK-presiserer-om-SMS-kritikk-NRK-Sogn-og-Fjordane-NRK-Nyhende_1277404162465-bs400.png" class="alignright small" caption="Faksimile frå NRK Sogn og Fjordane. Clara Øberg sa ikkje det ho sa." >}}
 
 <!--more-->
 

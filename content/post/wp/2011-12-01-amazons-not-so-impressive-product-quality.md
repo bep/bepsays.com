@@ -13,7 +13,7 @@ categories:
 
 I wrote a glorifying article about [Amazon's impressive customer service ](http://bepsays.com/2011/08/amazons-impressing-customer-service/)a while ago, and the service is still impressive. I know, because I have used it a lot.
 
-{{< figure src="/img/wp/www_bepsays_com_2011_08_amazons-impressive-customer-service-bs400.png" class="alignright small" caption="The customer service is still impressive." >}}
+{{< figure src="/assets/img/wp/www_bepsays_com_2011_08_amazons-impressive-customer-service-bs400.png" class="alignright small" caption="The customer service is still impressive." >}}
 
 	
   * I received a replacement for my defect Kindle DX.

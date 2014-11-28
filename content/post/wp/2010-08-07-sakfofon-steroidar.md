@@ -18,7 +18,7 @@ Eg har lenge vore ein [Selmer](http://www.selmer.com/)-mann:
 	
   * Tenor: Yamaha Custom 82Z (ulakkert), kjøpt 2007. Med Phil Barone Mainstream metallmunnstykke (7*)
 
-{{< figure src="/img/wp/soulfingers-levanger-2010-0028.jpg" class="alignright" caption="Yamaha Custom 82z alt- og tenorsaksofon. Ulakkerte" >}}
+{{< figure src="/assets/img/wp/soulfingers-levanger-2010-0028.jpg" class="alignright" caption="Yamaha Custom 82z alt- og tenorsaksofon. Ulakkerte" >}}
 
 Og all den tid eg elskar Selmersaksane mine - alten min kjenner eg betre enn mi eiga bukselomme - dei ulakkerte Yamahaane er beist av ein annan type. Dette er saksofonar på anabole stereoidar, med ein mekanisk presisjon berre folk frå Japan greier å få til. 
 

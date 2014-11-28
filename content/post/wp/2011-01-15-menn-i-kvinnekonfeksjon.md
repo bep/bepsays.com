@@ -10,7 +10,7 @@ categories:
  
  Ho jobbar i ein butikk i Oslo som sel klede til jenter. Butikken ho jobbar i er ein del av ei stor svensk kjede, men dette trur eg er universelt: Kvinner kjøper ikkje klede av menn. Eg kjøper gjerne klede av kvinner, dei har betre smak.
 
-{{< figure src="/img/wp/800px-UTEvoWalk-bs400.jpg" class="alignright small" caption="Moteshow i Texas. Foto: Steve Hopson (Lisens: CC BY 2.5) " >}}
+{{< figure src="/assets/img/wp/800px-UTEvoWalk-bs400.jpg" class="alignright small" caption="Moteshow i Texas. Foto: Steve Hopson (Lisens: CC BY 2.5) " >}}
 
 <!--more-->
 

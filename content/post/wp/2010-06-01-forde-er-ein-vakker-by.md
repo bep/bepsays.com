@@ -10,7 +10,7 @@ categories:
 
 **Tittelen er ironisk. Sjølvsagt er han det, om eg no tek for meg Førde sentrum.**
 
-{{< figure src="/img/wp/Foerde-by-mai-2010-00021.jpg" class="alignnone" caption="Førde sentrum er ei klynge med kjøpesenter." >}}
+{{< figure src="/assets/img/wp/Foerde-by-mai-2010-00021.jpg" class="alignnone" caption="Førde sentrum er ei klynge med kjøpesenter." >}}
 
 <!--more-->
 

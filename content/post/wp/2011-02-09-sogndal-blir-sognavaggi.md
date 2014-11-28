@@ -12,7 +12,7 @@ categories:
 
 Aarvoll seier han reknar med at denne saka blir banka gjennom på kommunestyremøtet torsdag, og han avfeiar kritikken frå asylsøkjarane frå Eritrea, som meiner dette også må føre til skilting på Tigrigna.
 
-{{< figure src="/img/wp/800px-Porosaivontie.jpg" class="alignright" caption="Skilt på finsk og nordsamisk. Foto: Htm (Wikimedia Commons / CC By SA)" >}}
+{{< figure src="/assets/img/wp/800px-Porosaivontie.jpg" class="alignright" caption="Skilt på finsk og nordsamisk. Foto: Htm (Wikimedia Commons / CC By SA)" >}}
 
 – Sogndal har eit nært forhold til Sameland, mange derifrå har busett seg i bygda … Eller,  her kryr jo med finnmarkingar, og det er vel mykje det same; det er jo berre å ta han oppmannen på Sogndal på 70- og 80-talet. Det var vel ingen som skjønte kva han gaula frå benken i cupfinalen.
 

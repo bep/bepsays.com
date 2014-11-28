@@ -8,7 +8,7 @@ categories:
 
 **På Tinget på Wikipedia på bokmål og riksmål går det no ein debatt om ein skal skrive [Azorene eller Asorene](http://no.wikipedia.org/wiki/Wikipedia:Tinget#Azorene_vs_Asorene).**
 
-{{< figure src="/img/wp/asorane.jpg" class="alignright" caption="Angra do Heroismo i Asorane." >}}
+{{< figure src="/assets/img/wp/asorane.jpg" class="alignright" caption="Angra do Heroismo i Asorane." >}}
 
 <!--more-->
 

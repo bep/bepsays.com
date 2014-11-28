@@ -8,7 +8,7 @@ categories:
 
 **Eg var i Sogndal i helgi, mykje for å sjå heimestarten i tippeligaen, Sogndal skulle møte Odd-Grenland. Eg tok fly, og det er eg glad for. Det kosta, men ettersom ein kjøpmann frå Sogndal ordna ein gratisbillett til kampen (takkar, kjøpmann!), så vart det ikkje ille.**
 
-{{< figure src="/img/wp/Ulrik_Flo.jpg" class="alignright" caption="Ulrik Flo burde gjeve Sogndal 2-1-leiing mot Odd. Arkivfoto: Bjørn Erik Pedersen." >}}
+{{< figure src="/assets/img/wp/Ulrik_Flo.jpg" class="alignright" caption="Ulrik Flo burde gjeve Sogndal 2-1-leiing mot Odd. Arkivfoto: Bjørn Erik Pedersen." >}}
 
 <!--more-->
 

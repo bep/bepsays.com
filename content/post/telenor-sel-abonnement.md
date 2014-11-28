@@ -12,7 +12,7 @@ slug: det-er-enkelt-seier-telenor
 
 Det gjer det sjølvsagt ikkje.
 
-{{< figure src="/img/2014/telenor/telenor_parts.jpg" >}}
+{{< figure src="/assets/img/2014/telenor/telenor_parts.jpg" >}}
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Biletet over er av det som vart bytt ut. No skal det seiast til Telenor sitt skj
 
 Mor mi hadde eit breidbandsabonnement frå Telenor som ikkje finst lenger. No kunne ein kanskje ha forventa at Telenor kunne oppgradert til det nyare og litt raskare abonnementet i det stille, men dei ville ha 10 kroner meir i månaden -- og seljaren sa at modemet måtte skiftast ut.
 
-{{< figure src="/img/2014/telenor/telenor_pw.jpg" class="small portrait" caption="«Her er det enkle, nye passordet ditt!»" >}}
+{{< figure src="/assets/img/2014/telenor/telenor_pw.jpg" class="small portrait" caption="«Her er det enkle, nye passordet ditt!»" >}}
 
 Men å seie at denne oppgraderinga er å trekke ut og stikke ut inn ein leidning er vel å ta mildt i:
 

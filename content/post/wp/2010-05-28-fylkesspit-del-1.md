@@ -16,7 +16,7 @@ Dei viktigaste nyhenda frå nyare tid:
 
 <!--more-->
 
-{{< figure src="/img/wp/Skal-katastrofevarsle-via-Facebook-www.sognavis.no_1275060730158.png" class="alignright" caption="Skjerdump frå sognavis.no. Bra tiltak, men neppe  først ute. " >}}
+{{< figure src="/assets/img/wp/Skal-katastrofevarsle-via-Facebook-www.sognavis.no_1275060730158.png" class="alignright" caption="Skjerdump frå sognavis.no. Bra tiltak, men neppe  først ute. " >}}
 
 «For første  gong skal befolkninga varslast om ei mogleg hending via  sosiale medium  som  Facebook og Twitter,»  avslører [Sogn Avis](http://www.sognavis.no/lokale_nyhende/article5134075.ece).
 

@@ -10,7 +10,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/BOSE-QC-15-bs400.jpg" class="alignright small" caption="BOSE QuietComfort 15 kjem i ei reisepakning med batteri, ledning og flyadapter." >}}
+{{< figure src="/assets/img/wp/BOSE-QC-15-bs400.jpg" class="alignright small" caption="BOSE QuietComfort 15 kjem i ei reisepakning med batteri, ledning og flyadapter." >}}
 
 Eit nettsøk fortel meg at dette har folk hevda før meg, men ikkje på nynorsk, så det får bli det nye. Dette er altså eit sett med det eg kallar støydrepande hovudtelefonar – og dei er, ikkje heilt ufortent, førstevalet for mange.
 

@@ -12,7 +12,7 @@ categories:
 
 «Utanfor  kabelhuset ved inngangen til Lærdalstunnelen er det andre typar  kablar  som vert lagt,» melder[ Sogn Avis](http://www.sognavis.no/lokale_nyhende/article5143722.ece) i eit litt for godt illustrert oppslag.
 
-{{< figure src="/img/wp/Hestemøj.jpg" class="alignright" caption="Hestemøk. Foto: Malene Thyssen (Wikimedia commons)" >}}
+{{< figure src="/assets/img/wp/Hestemøj.jpg" class="alignright" caption="Hestemøk. Foto: Malene Thyssen (Wikimedia commons)" >}}
 
 «Bilen  sladda i møk. – Ei driten oppleving i 80 kilometer i timen,» seier Geir  Ove Bøyum til avisa [Firda](http://www.firda.no/nyhende/article5142806.ece).
 

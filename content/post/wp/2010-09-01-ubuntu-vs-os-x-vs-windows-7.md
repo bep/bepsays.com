@@ -5,7 +5,7 @@ title: Ubuntu vs OSX vs Windows 7
 categories:
 - Teknologi
 ---
-{{< figure src="/img/wp/screenshot-1-1024x819.png" class="alignright" caption="Ubuntu slik det KAN sjå ut." >}}
+{{< figure src="/assets/img/wp/screenshot-1-1024x819.png" class="alignright" caption="Ubuntu slik det KAN sjå ut." >}}
 
 
 **Eg framstår kanskje som ein nerd når eg fortel eg har tre operativsystem installert på den stasjonære datamaskina mi heime: [OS X Leopard](http://no.wikipedia.org/wiki/Mac_OS_X_v10.5), [Ubuntu 10.4](http://blogs.techrepublic.com.com/opensource/?p=1493) og [Windows 7](http://nn.wikipedia.org/wiki/Windows_7).**

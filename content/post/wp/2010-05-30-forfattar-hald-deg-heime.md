@@ -11,7 +11,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/Jo_Nesbø-bs400.jpg" class="alignright small" caption="Jo Nesbø (2007)" >}}
+{{< figure src="/assets/img/wp/Jo_Nesbø-bs400.jpg" class="alignright small" caption="Jo Nesbø (2007)" >}}
 
 
 Fleire av desse skriv seriar der dei same personane er med over lang tid. Eg kan godt forstå freistinga med å ta Mr. X ut på tur etter den sjette boka, la han få oppleve litt internasjonal action. Men gjer vel, la han bli heime.

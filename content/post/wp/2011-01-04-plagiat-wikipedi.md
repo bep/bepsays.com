@@ -16,7 +16,7 @@ Meteorologen i [Aserbajdsjan](http://nn.wikipedia.org/wiki/Aserbajdsjan) er av d
 
 <!--more-->
 
-{{< figure src="/img/wp/Audhild.jpg" class="alignright small" caption="Audhild Gregoriusdotter Rotevatn. Foto: Stig Vågnes (Wikimedia Commons)" >}}
+{{< figure src="/assets/img/wp/Audhild.jpg" class="alignright small" caption="Audhild Gregoriusdotter Rotevatn. Foto: Stig Vågnes (Wikimedia Commons)" >}}
 
 Nynorsk Wikipedia har i skrivande stund 62 595 artiklar, versjonen på bokmål og riksmål heile 286 206.
 

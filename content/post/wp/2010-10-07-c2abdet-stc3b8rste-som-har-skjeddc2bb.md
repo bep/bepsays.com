@@ -14,7 +14,7 @@ Kanskje lokalpolitikarane bør ta ein skuletur til Irak for å sjå kva dei har 
 
 <!--more-->
 
-{{< figure src="/img/wp/800px-Fimreite_Norafjorden.jpg" class="alignright" caption="Fimreite til høgre på hi sida av fjorden. Foto: Per Olav Bøyum (Wikimedia Commons)" >}}
+{{< figure src="/assets/img/wp/800px-Fimreite_Norafjorden.jpg" class="alignright" caption="Fimreite til høgre på hi sida av fjorden. Foto: Per Olav Bøyum (Wikimedia Commons)" >}}
 
 For øvrig er det vel _soga_ som fortel at 2160 menn omkom. Ein skal ikkje tru alt ein les i Verdens Gang.
 

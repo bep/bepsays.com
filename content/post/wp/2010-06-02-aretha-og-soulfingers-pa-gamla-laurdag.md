@@ -5,7 +5,7 @@ title: «Aretha» og Soulfingers på Gamla laurdag
 categories:
 - Musikk
 ---
-{{< figure src="/img/wp/676px-Aretha_Franklin_on_January_20_2009.jpg" class="alignright" caption="Aretha Franklin song for Obama i 2009. Foto: Cecilio Ricardo, U.S. Air Force" >}}
+{{< figure src="/assets/img/wp/676px-Aretha_Franklin_on_January_20_2009.jpg" class="alignright" caption="Aretha Franklin song for Obama i 2009. Foto: Cecilio Ricardo, U.S. Air Force" >}}
 
 **Soulfingers løftar steminga på [Gamla](http://www.gamla.no/) i Oslo sentrum godt oppunder taket [laurdag kveld](http://www.facebook.com/event.php?eid=116058885100375&ref=ts) (5. juni), slik me gjorde det i februar. Denne gongen har me med oss gjestevokalist. Eg hugsar ikkje namnet, men stemma den sit festa etter øvinga i går. La oss førebels kalle ho Aretha, for slik høyrest ho ut.**
 

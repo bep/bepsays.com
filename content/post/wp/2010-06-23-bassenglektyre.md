@@ -5,7 +5,7 @@ title: Bassenglektyren er sikra!
 categories:
 - Litteratur
 ---
-{{< figure src="/img/wp/800px-Old_book_bindings.jpg" class="alignright" caption="Gamle bøker. Foto: Tom Murphy VII (Wikimedia commons)" >}}
+{{< figure src="/assets/img/wp/800px-Old_book_bindings.jpg" class="alignright" caption="Gamle bøker. Foto: Tom Murphy VII (Wikimedia commons)" >}}
 
 **Sende nett avgarde ei bestilling til [capris.no](https://www.capris.no/). Ferielektyren er sikra! I alle fall for den første veka...**
 

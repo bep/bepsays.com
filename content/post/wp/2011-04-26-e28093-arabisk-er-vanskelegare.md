@@ -15,7 +15,7 @@ Men eg tykkjer eg høyrer samtalen mellom hotelldirektør og arkitekt om skiltin
 
 – Er det ikkje litt vanskeleg å lese det skiltet der, ville det ikkje vore betre med eit stort vannrett «Hotell», kanskje i tillegg til eit bilde av ei seng?
 
-{{< figure src="/img/wp/Sogndal-hotell.jpg" class="alignright" caption="Hotell eller kontorbygg?" >}}
+{{< figure src="/assets/img/wp/Sogndal-hotell.jpg" class="alignright" caption="Hotell eller kontorbygg?" >}}
 
 – Ei seng? Har det rabla for deg. Nei den loddrette typografien er rett nok ikkje den lettaste å lese, men han er mykje lettare enn til dømes arabisk, der dei les frå høgre til venstre – og no er det slik at at Sogndal hotell er ein _destinasjon_, me ynskjer oss vel ikkje analfabetar som gjester. Dessutan var det ei billeg løysing, eg printa dei ut på matrisekrivaren min heime, og gøymde dei bak nokre centimeter med glas, slik at ein ikkje får auge på den skrekkeleg dårlege oppløysinga. Tanken var å bruke fonten Helvetica, for han er litt slik design, men den finst ikkje i Windows 3.11, so det vart Arial. Men det funkar som berre det.
 

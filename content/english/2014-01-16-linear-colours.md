@@ -11,7 +11,7 @@ markdown:
 
 **Make content boxes with a linear colour scheme using a LESS loop.**
 
-{{< figure src="/img/wp-featured/bepsays-gradient-boxes-1024x448.png" caption="Linear colour scheme by LESS" >}}
+{{< figure src="/assets/img/wp-featured/bepsays-gradient-boxes-1024x448.png" caption="Linear colour scheme by LESS" >}}
 
 <!--more-->
 

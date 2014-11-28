@@ -11,6 +11,7 @@ var awspublish = require('gulp-awspublish');
 var fs = require('fs');
 var run = require('gulp-run');
 var parallelize = require("concurrent-transform");
+var awspublishRouter = require("gulp-awspublish-router");
 
 
 function copyPartials() {
@@ -22,19 +23,19 @@ function copyPartials() {
 gulp.task('less', function () {
     return gulp.src('assets/less/bs.less')
         .pipe(less({compress: true}))
-        .pipe(gulp.dest('static/css'));
+        .pipe(gulp.dest('static/assets/css'));
 });
 
 gulp.task('scripts', function () {
     return gulp.src(['assets/js/vendor/socialite.js', 'assets/js/**/*.js'])
         .pipe(concat('bs.js'))
         .pipe(uglify())
-        .pipe(gulp.dest('static/js'));
+        .pipe(gulp.dest('static/assets/js'));
 });
 
 
 gulp.task('clean-static', function () {
-    return gulp.src(["static/css/*.css", "static/js/*.js"], {read: false})
+    return gulp.src(["static/assets/css/*.css", "static/assets/js/*.js"], {read: false})
         .pipe(clean());
 });
 
@@ -50,12 +51,12 @@ gulp.task('copy', [], function () {
 });
 
 gulp.task('build-static', ['clean-static', 'less', 'scripts', 'copy'], function () {
-    return gulp.src(['static/js/bs.js', 'static/css/bs.css', 'layouts/partials/head.html'], {base: path.join(process.cwd(), 'static')})
+    return gulp.src(['static/assets/js/bs.js', 'static/assets/css/bs.css', 'layouts/partials/head.html'], {base: path.join(process.cwd(), 'static')})
         .pipe(revall({
             ignore: [/^\/favicon.ico$/g, '.png', '.html', /.*vendor.*/, /.*nano.*/, /.*favicon.*/]
 
         }))
-        .pipe(gulp.dest('static'))
+        .pipe(gulp.dest('static/assets'))
 });
 
 gulp.task('build', ['build-static', 'clean-dist'], function (cb) {
@@ -75,8 +76,6 @@ gulp.task('aws-publish', ['build'], function () {
         .pipe(awspublish.reporter({
             states: ['create', 'update', 'delete']
         }));
-
-
 });
 
 

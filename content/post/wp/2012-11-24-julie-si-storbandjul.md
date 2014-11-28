@@ -13,4 +13,4 @@ No sit eg i orkesteret, og vil såleis ikkje gå glipp av denne konserten.
 <!--more-->
 
 
-{{< figure src="/img/wp/Julekonsert-Bajazz-2012-plakat-723x1024.png" >}}
+{{< figure src="/assets/img/wp/Julekonsert-Bajazz-2012-plakat-723x1024.png" >}}

@@ -8,7 +8,7 @@ categories:
 - Sogndal fotball
 ---
 
-**{{< figure src="/img/wp/graf_sogndal_rikspresse_mai2010.png" class="alignnone" caption="Antal omtalar for Sogndal fotball i landsdekkande norske papiraviser 1981-2010. Kjelde: ATEKST. " >}}**
+**{{< figure src="/assets/img/wp/graf_sogndal_rikspresse_mai2010.png" class="alignnone" caption="Antal omtalar for Sogndal fotball i landsdekkande norske papiraviser 1981-2010. Kjelde: ATEKST. " >}}**
 
 Ikkje uventa ser ein at det å spele i toppserien gir monaleg betre mediedekning.
 
@@ -23,7 +23,7 @@ Men også i år med spel i den nest øvste divisjonen er det toppar. Ser ein bak
 ### God fotball
 
 
-{{< figure src="/img/wp/vifseier_vg_31102000.png" class="alignnone" caption="Faksimile VG 31.10.2000. Sogndal har spelt uavgjort mot Vålerenga og er klare for eliteserien." >}}
+{{< figure src="/assets/img/wp/vifseier_vg_31102000.png" class="alignnone" caption="Faksimile VG 31.10.2000. Sogndal har spelt uavgjort mot Vålerenga og er klare for eliteserien." >}}
 
 Sesongane 2000 og 2009 peiker seg positivt ut, begge Addecco-sesongar. I 2009 rauk me i opprykksfinalen mot Hønefoss, ei kald og keisam førestilling. Det var våtare og mykje trivelegare på Ullevaal i 2000.  Mykje trivelegare! Sogndal vann kvalliken mot Vålerenga i ein gysar av ein kamp.
 
@@ -50,7 +50,7 @@ Dagbladet/Morten Pedersen 06.06.1998 side 26</blockquote>
 ### Utflytte proffar
 
 
-{{< figure src="/img/wp/josteinflo_proffklar_vg_02081993.png" class="alignnone" caption="Faksimile VG 2.8.1993. Jostein Flo er klar for Sheffield United." >}}
+{{< figure src="/assets/img/wp/josteinflo_proffklar_vg_02081993.png" class="alignnone" caption="Faksimile VG 2.8.1993. Jostein Flo er klar for Sheffield United." >}}
 
 Tidlegare Sogndalspelarar som seinare har gjort det skarpt i utlandet blir ofte omtalt som t.d. «tidlegare Sogndal-spelar Eirik Bakke».
 
@@ -61,7 +61,7 @@ Jostein Flo 4035
 Eirik Bakke 3182
 Håvard Flo 1777
 
-{{< figure src="/img/wp/uaktuelt_vg_04111981.png" class="alignright" caption="Faksimile VG 4.11.1981." >}}
+{{< figure src="/assets/img/wp/uaktuelt_vg_04111981.png" class="alignright" caption="Faksimile VG 4.11.1981." >}}
 
 Men i 1981 var ordet «proff» framandord i Sogndal. «Uaktuelt,» sa Sogndal-oppmann Knut Iversen til VG. Og det var det - ei stund.
 

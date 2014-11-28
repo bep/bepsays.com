@@ -14,7 +14,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/img/wp/Everest_kalapatthar.jpg" class="alignright" caption="Everest sett frå Kala Patthar i Nepal. Foto: Pavel Novak (CC BY-SA)" >}}
+{{< figure src="/assets/img/wp/Everest_kalapatthar.jpg" class="alignright" caption="Everest sett frå Kala Patthar i Nepal. Foto: Pavel Novak (CC BY-SA)" >}}
 
 Eg har ei sterk kjensle av at eg har sett den overskrifta mange gonger før, og i så fall er revygjengen på Systrond på god veg mot himmelen.
 

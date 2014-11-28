@@ -15,7 +15,7 @@ Ho las den rørande historia om [karen](http://nrk.no/nyheter/distrikt/nrk_sogn_
 
 – Eg har høgdeskrekk, så ein slik presang er ikkje noko for meg. Men eit spa-opphald i Firenze, noko lite. Det er tanken, sant?!
 
-{{< figure src="/img/wp-featured/Girl-wearing-a-sheep-leather-west.jpg" caption="–  Så då  måte eg kjøpe denne saueskinnsvesten til meg sjølv. Sjå! " >}}
+{{< figure src="/assets/img/wp-featured/Girl-wearing-a-sheep-leather-west.jpg" caption="–  Så då  måte eg kjøpe denne saueskinnsvesten til meg sjølv. Sjå! " >}}
 
 Ho medgir at ektemannen er flink med presangar i det daglege. Seinast forrige laurdag fekk ho eit par flotte diamantøyredobbar.
 

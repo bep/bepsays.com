@@ -8,7 +8,7 @@ categories:
 
 **Eg har lært meg eit nytt ord, fugeformativ.**
 
-{{< figure src="/img/wp/KdF-Orig.png" class="alignright small" caption="Ei fuge av Johan Sebastian Bach." >}}
+{{< figure src="/assets/img/wp/KdF-Orig.png" class="alignright small" caption="Ei fuge av Johan Sebastian Bach." >}}
 
 <!--more-->
 

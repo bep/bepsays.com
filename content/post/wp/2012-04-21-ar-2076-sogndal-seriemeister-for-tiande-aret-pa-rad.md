@@ -8,7 +8,7 @@ categories:
 
 **Året er 2076: Det er 150 år etter klubbskipinga og 100 år sidan den fyrste cupfinalen, og spelarane i Sogndal jublar for sin tiande strake toppseriemeisterskap.**
 
-{{< figure src="/img/wp/Ulrik_and_Tore_André_Flo_2012.jpg" class="alignright" caption="Foto frå Fylkesarkivet i Sogn og Fjordane. Ulrik og Tore André byter i ein kamp mot Hønefoss i 2012. Sogndal tok ein sterk bronsjemedalje denne sesongen." >}}
+{{< figure src="/assets/img/wp/Ulrik_and_Tore_André_Flo_2012.jpg" class="alignright" caption="Foto frå Fylkesarkivet i Sogn og Fjordane. Ulrik og Tore André byter i ein kamp mot Hønefoss i 2012. Sogndal tok ein sterk bronsjemedalje denne sesongen." >}}
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Av desse er forskar Tejg Rimi Sehtil, som i 2064 lanserte den oppsiktsvekkjande 
 
 Sehtil peiker også på statistiske samanhengar, og viser til Statistisk Sentralbyrå sin namnestatistikk for Sogndal-spelarar i perioden 1976–2076:
 
-{{< figure src="/img/wp/navnestatistikk-sognda-fotball-1976-2075.png" class="alignright small">}}
+{{< figure src="/assets/img/wp/navnestatistikk-sognda-fotball-1976-2075.png" class="alignright small">}}
 
 
 Merk at det mellom desse finst spelarar med likt etternamn som ikkje er i slekt. Til dømes spelte Tonny Richard Flo på Sogndal i sesongane 2034–2037, men han er ikkje i slekt med alle dei andre Flo-karane som har vore innom laget.

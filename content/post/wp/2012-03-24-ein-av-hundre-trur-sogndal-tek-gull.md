@@ -8,7 +8,7 @@ categories:
 
 **I følgje ei lesarundersøkjing på nett gjort av den betrudde avisa [Bergens Tidende](http://fotball.bt.no/eliteserien/article229420.ece), trur éin prosent at Sogndal fotball tek gull i årets eliteserie i fotball.**
 
-{{< figure src="/img/wp/Spillerne-tror-Molde-forsvarer-seriegullet-_-bt.no_1332551214386.png" class="alignright small" caption="Skjermdump frå bt.no." >}}
+{{< figure src="/assets/img/wp/Spillerne-tror-Molde-forsvarer-seriegullet-_-bt.no_1332551214386.png" class="alignright small" caption="Skjermdump frå bt.no." >}}
 
 <!--more-->
 

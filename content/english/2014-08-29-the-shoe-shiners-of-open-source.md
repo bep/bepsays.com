@@ -18,7 +18,7 @@ And by "polish" they don’t mean a person from Poland, but: I am not changing a
 <!--more-->
 
 
-{{< figure src="/img/wp-featured/Shoeshine_stand_Southeastern_U.S._by_Walker_Evans_1936.jpg" caption="Shoeshine stand, Southeastern U.S. by Walker Evans,1936" >}}
+{{< figure src="/assets/img/wp-featured/Shoeshine_stand_Southeastern_U.S._by_Walker_Evans_1936.jpg" caption="Shoeshine stand, Southeastern U.S. by Walker Evans,1936" >}}
 
 
 

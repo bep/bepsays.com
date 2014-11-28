@@ -8,7 +8,7 @@ categories:
 
 **[Liv Signe Navarsete](http://nn.wikipedia.org/wiki/Liv_Signe_Navarsete), ein sambygding av meg frå gamalt av, må svare for seg i avisene om dagen om kva ho og/eller partiet hennar har fått og kva dei ikkje har fått, om det dei har fått, men ikkje sagt at dei har fått og så bortetter.**
 
-{{< figure src="/img/wp/800px-Liv_Signe_Navarsete_Sp_Samferdselsminister_20051017-bs400.jpg" class="alignright small" caption="Liv Signe Navarsete. Foto: Eivind (Wikimedia Commons)" >}}
+{{< figure src="/assets/img/wp/800px-Liv_Signe_Navarsete_Sp_Samferdselsminister_20051017-bs400.jpg" class="alignright small" caption="Liv Signe Navarsete. Foto: Eivind (Wikimedia Commons)" >}}
 
 <!--more-->
 
