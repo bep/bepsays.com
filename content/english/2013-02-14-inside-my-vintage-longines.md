@@ -7,8 +7,8 @@ categories:
 - English
 - Klokke
 - Foto
-markdown:
-    angledQuotes: false
+MarkdownAngledQuotes: false
+
 ---
 
 **I wrote [a piece](http://bepsays.com/2012/10/my-vinage-longines/) about a vintage Longines I knew nothing about. I opened it up, and now I know some.**

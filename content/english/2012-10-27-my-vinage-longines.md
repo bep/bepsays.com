@@ -7,8 +7,8 @@ categories:
 - English
 - Klokke
 - Foto
-markdown:
-    angledQuotes: false
+MarkdownAngledQuotes: false
+
 ---
 
 **Some pictures of my nice vintage Longines gold watch:**

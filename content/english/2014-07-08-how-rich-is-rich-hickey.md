@@ -5,8 +5,8 @@ title: How rich is Rich Hickey?
 categories:
 - English
 - Teknologi
-markdown:
-    angledQuotes: false
+MarkdownAngledQuotes: false
+
     
 ---
 

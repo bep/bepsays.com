@@ -6,8 +6,8 @@ categories:
 - English
 - Teknologi
 
-markdown:
-    angledQuotes: false
+MarkdownAngledQuotes: false
+
 
 ---
 

@@ -8,8 +8,7 @@ categories:
 - Klokke
 - Foto
 - Teknologi
-markdown:
-    angledQuotes: false
+MarkdownAngledQuotes: false
 
 ---
 
