@@ -8,7 +8,7 @@ Please, get inspired; pick ideas and snippets, but do not copy-and-paste the who
 
 ## Credits
 
-* It's built with [Hugo](https://github.com/spf13/hugo), Jekyll's faster cousin. **NOTE: This site will not build with the current version of Hugo, release or master. I have submitted some patches that will both improve that already great piece of software and make this site buildable out-of-the-box.**
+* It's built with [Hugo](https://github.com/spf13/hugo), Jekyll's faster cousin. **NOTE: This will build fine against the latest Hugo (0.13-DEV). There is a patch that enables angled quotes that isn't (yet) in there, but those will just be ignored...**
 * It's built upon [Lanyon](https://github.com/poole/lanyon), a Jekyll-theme (!) created by one of the Bootstrap-founders, Mark Otto.
 * The sharing bar is built with *[Socialite](https://github.com/tmort/Socialite)*.
 * The galleries are built with [nanoGALLERY](http://nanogallery.brisbois.fr/).
