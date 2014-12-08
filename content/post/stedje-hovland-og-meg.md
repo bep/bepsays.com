@@ -22,7 +22,7 @@ Han peiker på ein artikkel skriven av undterteikna. Eg var i tjueåra og både 
 Eg er framleis stor fan av Hovland og i slekt med Stedje, men dette var tida eg var tabloidkongen på Hanehaug.
 
 
-{{< figure src="/assets/img/2014/ragnar_hovland_dagogtid_140613.jpg" caption="Faksimile frå Dag Og Tid 14.06.2013." class="small portrait">}}
+{{< img src="/assets/img/2014/ragnar_hovland_dagogtid_140613.jpg" caption="Faksimile frå Dag Og Tid 14.06.2013." class="small portrait">}}
 
 Det var Gunnar Stedje som tipsa meg. Han er endå nærare i slekt med Olav Stedje enn det eg er, og kunne ikkje skrive noko om denne særleg delikate saka sjølv. 
 

@@ -12,13 +12,13 @@ MarkdownAngledQuotes: false
 
 **After _Clojure_ – richer, for sure. If Rich Hickey's life line is a persistent list, there should be ways to track the _value of values_.**
 
-{{< figure src="/assets/img/wp-featured/Rich_Hickey1.jpg" caption="Rich Hickey (2009). Photo: Tapestry Dude" >}}
+{{< img src="/assets/img/wp-featured/Rich_Hickey1.jpg" caption="Rich Hickey (2009). Photo: Tapestry Dude" >}}
 
 <!--more-->
 
 Hickey is the new [Messiah](http://en.wikipedia.org/wiki/Messiah) of software development. Watch and listen to his talks, and you will understand. And the title is of course just plain stupid, put there just to try to lure you in as a reader.
 
-{{< figure src="/assets/img/wp/edit-8000-rich-hickey.png" class="alignright small" caption="Rich Hickey's first commercial software, a patch editor." >}}
+{{< img src="/assets/img/wp/edit-8000-rich-hickey.png" class="alignright small" caption="Rich Hickey's first commercial software, a patch editor." >}}
 
 As to Hickey’s biography there are not much to be found on the Internet. He is not yet found notable by Wikipedia.
 

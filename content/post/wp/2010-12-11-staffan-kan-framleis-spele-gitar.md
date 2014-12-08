@@ -12,7 +12,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/IMG_0333.jpg" class="alignright" caption="Andreas Amundsen (bass) og Staffan William-Olsson (gitar)." >}}
+{{< img src="/assets/img/wp/IMG_0333.jpg" class="alignright" caption="Andreas Amundsen (bass) og Staffan William-Olsson (gitar)." >}}
 
 Og med Iversen på piano og eit solid komp, og repertoar frå den amerikanske songboka, vart det ei flott musikkoppleving.
 

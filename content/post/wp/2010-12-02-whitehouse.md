@@ -14,7 +14,7 @@ Av dei  251 287 ambassadebreva er i skrivande stund berre [607](http://rpgp.or
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/800px-Whitehouse.jpg" class="alignnone" caption="Det kvite huset i Washington." >}}
+{{< img src="/assets/img/wp/800px-Whitehouse.jpg" class="alignnone" caption="Det kvite huset i Washington." >}}
 
 «Tal frå Statistisk Sentralbyrå viser at det per 1. oktober var 11.586 personar i Flora, ein auke på sju sidan 1. juli,» [avslører](http://www.firdaposten.no/lokalnytt/article5388925.ece) Firdaposten. «Ber folk i Florø vinke til helikopter,» [fortel](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7405115) NRK Sogn og Fjordane i ei gledesmelding til dei sju nye florøværingane: «Jippi, me får vinke til helikopter!!!» Eg har ikkje sett etter, men det skal ikkje forundre meg om fylkesradioen har fylgt opp denne med ei sak av typen «Vinka til helikoptret!»
 

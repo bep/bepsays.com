@@ -8,7 +8,7 @@ categories:
 
 **Lærdølen, komponisten og saksofonisten [Geir Øystein «Giggen» Lysne](http://www.lysne.no/default.asp?fid=1000) er vikarstyrar for radiostorbandet i Danmark, [DR Big band](http://en.wikipedia.org/wiki/DR_Big_Band), eit storband som tidlegare vart leia av [Thad Jones](http://en.wikipedia.org/wiki/Thad_Jones) – av dei aller største storbandlegendene.**
 
-{{< figure src="/assets/img/wp/geirlysne_portrett_1-bs400.jpg" class="alignright small" caption="Geir Øystein Lysne. Foto: Pressefoto frå lysne.no" >}}
+{{< img src="/assets/img/wp/geirlysne_portrett_1-bs400.jpg" class="alignright small" caption="Geir Øystein Lysne. Foto: Pressefoto frå lysne.no" >}}
 
 <!--more-->
 

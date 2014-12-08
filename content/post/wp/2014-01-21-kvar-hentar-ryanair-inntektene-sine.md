@@ -20,7 +20,7 @@ Eit nettsøk fortel meg at [eg ikkje er aleine](http://ryanair.site-forums.com/t
 
 No fekk eg bestilt til slutt (bytte nettlesar, frå Firefox til Chrome) og kom meg avgarde. Flyet var éin time forseinka, ja vel (avising, Krakow). Og billettane var nærast gratis.
 
-{{< figure src="/assets/img/wp/rygge_lufthavn_2014.jpg" class="alignright" caption="Rygge lufthavn ein tysdag ettermiddag." >}}
+{{< img src="/assets/img/wp/rygge_lufthavn_2014.jpg" class="alignright" caption="Rygge lufthavn ein tysdag ettermiddag." >}}
 
 **Men denne tysdag ettermiddagen var [Rygge lufthamn](http://no.wikipedia.org/wiki/Moss_lufthavn,_Rygge) nærast folketom, kassadama i den skattefrie butikken jubla for kvar streifkunde. Og passasjerane var nokre polske flisleggarar – og meg.**
 

@@ -8,7 +8,7 @@ categories:
 
 **I går vart det kjent at sogndølen/balestrendingen/hafslobygdingen/engelskmannen (for å vere sikker på ikkje å trakke nokon på føtene) Roger Allan Ivin - også kjend som Rai eller Allen D. Rocker - har [fått rolla](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7169373) som bassisten i [Buddy Holly ](http://no.wikipedia.org/wiki/Buddy_Holly)sitt band i musikalen om rockelegenda. Dette er sjølvsagt stort, og dei største gratulasjonar til Roger!**
 
-{{< figure src="/assets/img/wp/794px-Bhst.jpg" class="alignright" caption="Buddy Holly i musikalversjonen i Tyskland. Foto: Brukar Ger1axg (Wikimedia commons)" >}}
+{{< img src="/assets/img/wp/794px-Bhst.jpg" class="alignright" caption="Buddy Holly i musikalversjonen i Tyskland. Foto: Brukar Ger1axg (Wikimedia commons)" >}}
 
 <!--more-->
 

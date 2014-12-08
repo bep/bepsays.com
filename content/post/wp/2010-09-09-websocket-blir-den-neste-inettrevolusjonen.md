@@ -12,7 +12,7 @@ categories:
 
 Protokollen [HTTP](http://en.wikipedia.org/wiki/HTTP) vart laga for å hente ut dokument, med ein førespurnad og eit svar (request/response), eller kommunikasjon som ein walkie talkie om du vil. HTTP er tilstandslaus, og kvar førespurnad blir påført masse metadata. 
 
-{{< figure src="/assets/img/wp/mrdoobscratchpad.png" class="alignright" caption="Skjermdump frå mrdoob.com sitt teiknebrett der alle kan teikne samstundes, takka vere WebSockets." >}}
+{{< img src="/assets/img/wp/mrdoobscratchpad.png" class="alignright" caption="Skjermdump frå mrdoob.com sitt teiknebrett der alle kan teikne samstundes, takka vere WebSockets." >}}
 
 Med Web 2.0 har me rett nok fått rikare og meir interaktive applikasjonar, som Facebook, GMail og liveoverføring av fotballkampar. Men til ein pris: Begrensningane i HTTP gjer applikasjonane kompliserte og dyre å lage. Og dei genererer store mengder nettverkstrafikk, som i seg sjølv set grenser for kva ein kan få gjort.
 

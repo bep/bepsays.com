@@ -6,7 +6,7 @@ categories:
 - Fylkesspit
 ---
 
-{{< figure src="/assets/img/wp/mannmedhund.jpg" class="alignright" caption="Veljar med hund i Flåm. Foto: Elvert Xavier Barnes" >}}
+{{< img src="/assets/img/wp/mannmedhund.jpg" class="alignright" caption="Veljar med hund i Flåm. Foto: Elvert Xavier Barnes" >}}
 
 **«Full politikar semje om betongteppet,» skreiv Sogn Avis i papirutgåva, og fylkesradioen [raljerer](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7788608).**
 

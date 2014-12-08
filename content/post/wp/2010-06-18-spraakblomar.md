@@ -9,7 +9,7 @@ categories:
 
 **«Køyrde tyl med skyssbåt,» [avslører](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7172690) NRK Sogn og Fjordane. [_Tyl_](http://www.bokkilden.no/SamboWeb/produkt.do?produktId=1761132) er elles ei svært god bok. Sogn Avis er også i det lyriske hjørnet i [omtala](http://www.sognavis.no/lokale_nyhende/article5161651.ece) av denne hendinga: «Fjordcruise med høg rus.» Cruise rimar på rus, det gjer det.**
 
-{{< figure src="/assets/img/wp/WBYeats1908-bs400.jpg" class="alignright small" caption="Den irske poeten William Butler Yeats. " >}}
+{{< img src="/assets/img/wp/WBYeats1908-bs400.jpg" class="alignright small" caption="Den irske poeten William Butler Yeats. " >}}
 
 <!--more-->
 

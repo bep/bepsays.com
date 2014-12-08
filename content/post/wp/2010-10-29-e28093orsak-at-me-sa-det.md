@@ -8,7 +8,7 @@ categories:
 - Fylkesspit
 ---
 
-{{< figure src="/assets/img/wp/800px-Jan_Erik_Vold2-bs400.jpg" class="alignright small" caption="Diktaren Jan Erik Vold er mannen bak mellom anna diktet Kulturuke. Foto: Jarle Vines (Wikimedia Commons)" >}}
+{{< img src="/assets/img/wp/800px-Jan_Erik_Vold2-bs400.jpg" class="alignright small" caption="Diktaren Jan Erik Vold er mannen bak mellom anna diktet Kulturuke. Foto: Jarle Vines (Wikimedia Commons)" >}}
 
 **[Helse Førde](http://nn.wikipedia.org/wiki/Helse_F%C3%B8rde) la seg denne veka flate for at dei har gått ut og sagt eller skrive noko om det framtidige fødetilbodet i Nordfjordeid som ikkje har rot i røynda.**
 
@@ -32,7 +32,7 @@ Dette medierådet skal du få heilt gratis, Eithun:
 Kort og presist
 
 
-{{< figure src="/assets/img/wp/Staten-lærde-av-Sløvåg-NRK-Sogn-og-Fjordane-NRK-Nyhende_1288366166579.png" class="alignright small" caption="Nei, kven er gode på det? Foto: Skjermdump frå NRK Sogn og Fjordane 29.10.2010." >}}
+{{< img src="/assets/img/wp/Staten-lærde-av-Sløvåg-NRK-Sogn-og-Fjordane-NRK-Nyhende_1288366166579.png" class="alignright small" caption="Nei, kven er gode på det? Foto: Skjermdump frå NRK Sogn og Fjordane 29.10.2010." >}}
 
 Staten tek lærdom av Vest Tank-ulukka og kjøper seg ei ordbok. «Me er gode på smittevern i Norge, men ikkje gode på slike ulukker med kjamikaliar,» seier Anders Smith, seniorrådgjevar i Helsedirektoratet, [til NRK Sogn og Fjordane]( http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7357924). _Kjamikalieulukker, kjemikalulukker, kjamikaliar._ Det er som henta ut av eit [Jan Erik Vold](http://nn.wikipedia.org/wiki/Jan_Erik_Vold)-dikt. Vekas Ordbok går til NRK Sogn og Fjordane ved journalistane Malene Vilnes og Ole Ramshus Sælthun.
 

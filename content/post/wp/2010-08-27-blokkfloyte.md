@@ -11,7 +11,7 @@ categories:
 
 
 <!--more-->
-{{< figure src="/assets/img/wp/blokkfloyte.jpg" class="alignright" caption="Ei alt-, sopran- og sopraninoblokkfløyte." >}}
+{{< img src="/assets/img/wp/blokkfloyte.jpg" class="alignright" caption="Ei alt-, sopran- og sopraninoblokkfløyte." >}}
 
 Ho var rimeleg i innkjøp, men det vart heller sur musikk då 20 fjerdeklassingar skulle spele _Lisa gjekk til skulen_ samstundes og unisont.
 

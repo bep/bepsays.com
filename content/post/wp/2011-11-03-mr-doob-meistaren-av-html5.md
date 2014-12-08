@@ -8,7 +8,7 @@ categories:
 
 **Det finst ein kar der ute som overgår det meste av det som finst av demonstrasjonar av dei nye sakene i HTML versjon 5. Eg mistenker han har Facebook, Google... på dørene dagleg.**
 
- {{< figure src="/assets/img/wp/doobcreature-300x240.png" class="small" >}}
+ {{< img src="/assets/img/wp/doobcreature-300x240.png" class="small" >}}
 
 
 <!--more-->

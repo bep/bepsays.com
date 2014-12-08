@@ -16,7 +16,7 @@ I skrivande stund ser det ikkje særleg faretrugande ut for Inge Ronny Kvåle. H
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/Musikkweb.no-avstemming_1274210480075.png" class="alignright" caption="Skjermdump frå musikkpraksis.no 18. mai kl. 21:25." >}}
+{{< img src="/assets/img/wp/Musikkweb.no-avstemming_1274210480075.png" class="alignright" caption="Skjermdump frå musikkpraksis.no 18. mai kl. 21:25." >}}
 
 Juryen har halvparten av stemmene, men etter å ha lytta meg gjennom bidraga er konklusjonen rimeleg grei: Den handlaga Taylor-gitaren til 6000 [USA-amerikanske dollar](http://nn.wikipedia.org/wiki/US-dollar) får adresse "Kvåle, Sogndal".
 

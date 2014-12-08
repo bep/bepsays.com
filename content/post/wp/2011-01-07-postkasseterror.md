@@ -14,7 +14,7 @@ Fylkesradioen [melder](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.745
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/SherlockHolmes-bs400.jpg" class="alignright small" caption="Sherlock Holmes." >}}
+{{< img src="/assets/img/wp/SherlockHolmes-bs400.jpg" class="alignright small" caption="Sherlock Holmes." >}}
 
 – Eg sa det til lensmannsbetjenten min, han Ndure Tokvam, at «dette er elementært, kjære Tokvam: Dette er dei to tylane frå Flåm, han Ove og Ragnar. Dette er typisk Ragnar. Dei blir som våryre kvalpar berre dei tek turen til nabobygdi.» Og då naboar til kyrkja fortalde at dei hadde høyrt temaet til Charlie Parker-låta _Ornithology_ frå kyrkjeorgelet – ja, då er eg ikkje i tvil. Me vil henta dei inn i arresten etter teaterframsyninga i kveld. No er eg klar over at dei som speler i stykket er skodespelarar og ikkje dei ekte, litterære figurane, men nokon må stå til ansvar, seier den taletrengde lensmannen i Aurland, Sandy Feng Sel, til bepsays.com.
 

@@ -8,7 +8,7 @@ categories:
 
 **Eg tenkte eg skulle starte ei ny vevlogg-spalte med namnet Fylkesspit, der eg ser på ufrivillig morosame tekstar i lokal- og regionpressa i Sogn og Sunnfjord.**
 
-{{< figure src="/assets/img/wp/Vi-fant-ikke-siden-du-ville-til-feilkode-404-NRK_1274475466969.png" class="alignright" caption="Teknisk knockout for fjogningane." >}}
+{{< img src="/assets/img/wp/Vi-fant-ikke-siden-du-ville-til-feilkode-404-NRK_1274475466969.png" class="alignright" caption="Teknisk knockout for fjogningane." >}}
 
 <!--more-->
 

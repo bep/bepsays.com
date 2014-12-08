@@ -14,7 +14,7 @@ categories:
 
 _Lærdal brenn!_ Gyllevognene går i skytteltrafikk mellom elvi og bygdi. _Chariots of Fire._
 
-{{< figure src="/assets/img/wp/2012-05_L%C3%A6rdals%C3%B8yri-Chell-Hill-750x313.jpg" caption="Naustrekka ved Lærdalsfjorden (2012). Foto: Chell Hill." >}}
+{{< img src="/assets/img/wp/2012-05_L%C3%A6rdals%C3%B8yri-Chell-Hill-750x313.jpg" caption="Naustrekka ved Lærdalsfjorden (2012). Foto: Chell Hill." >}}
 
 
 <!--more-->
@@ -24,7 +24,7 @@ Overskriftene blir omsider _Lærdal brann._ Det gjekk gale, men kunne gått så 
 
 Bygdi kjend for sambandet mellom aust og vest. Bygdi kjend for gamal og verneverdig arkitektur. Bygdi kjend for desse romslege og lunefulle innbyggarane som tek imot kongar med fiskestong med eit godsleg nikk.
 
-{{< figure src="/assets/img/wp/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-L%C3%A6rdals%C3%B8ren-i-Sognefjorden-olje-p%C3%A5-lerret-1901.jpg" caption="Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901" >}}
+{{< img src="/assets/img/wp/Themistokles-von-Eckenbrecher-1876-1935-Utsikt-over-L%C3%A6rdals%C3%B8ren-i-Sognefjorden-olje-p%C3%A5-lerret-1901.jpg" caption="Themistokles von-Eckenbrecher (1876-1935)  Utsikt over Lærdalsøreni Sognefjorden, olje på lerret 1901" >}}
 
 
 Dei lyt til Sogndal for å gå på vidaregåande, ungdomane i Lærdal. Men dei vender attende. Kanskje opnar dei ein butikk for musikk på vinyl, eller dei tek over farsgarden (farsgardar er det mange av i denne langstrekte dalen).
@@ -40,7 +40,7 @@ For oss andre er dette mest ei bygd me køyrer forbi. Hei, Lærdal! Nokre stogga
 
 >I dag er det Lærdal det gjeld. Denne særmerkte bygdebyen i indre Sogn. Eller kanskje rettare: Den minner om ein ekte europeisk landsby av tradisjonsrikt merke. **Harald Stanghelle i [Aftenposten](http://www.aftenposten.no/meninger/kommentarer/Det-nare-infernoet-7441049.html)**
 
-{{< figure src="/assets/img/wp/Laerdalsoyri01-Frode-Inge-Helland.jpg" class="alignright" caption="Øyragata. Foto: Frode Inge Helland." >}}
+{{< img src="/assets/img/wp/Laerdalsoyri01-Frode-Inge-Helland.jpg" class="alignright" caption="Øyragata. Foto: Frode Inge Helland." >}}
 
 Eg er sogndøl. Og eg kjenner lærdølene som trivelege, litt midt på treet på fotballbana, gode musikarar og gode skeiseløparar.
 

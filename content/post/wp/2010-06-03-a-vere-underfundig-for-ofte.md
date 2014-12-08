@@ -8,7 +8,7 @@ categories:
 
 **[Twitter](https://twitter.com/). Skriv ei melding på maks 140 teikn. Eit konsept som passar meg svært dårleg. Eg er på Twitter, eg er det. Eg registrerte meg mest for å følgje nokre eg kjenner, no bruker eg det som rein reklame for denne vevloggen.**
 
-{{< figure src="/assets/img/wp/twitter_bep.png" class="alignright small" caption="Fulgt av få." >}}
+{{< img src="/assets/img/wp/twitter_bep.png" class="alignright small" caption="Fulgt av få." >}}
 
 <!--more-->
 

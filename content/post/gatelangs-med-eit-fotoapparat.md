@@ -17,7 +17,7 @@ No er vel ikkje arkitekturen i Oslo særleg interessant, men han er der -- som m
 
 <!--more-->
 
-{{< figure src="/assets/img/2012/Boersen_in_Oslo_2012.jpg" caption="Oslo Børs (2012)" >}}
+{{< img src="/assets/img/2012/Boersen_in_Oslo_2012.jpg" caption="Oslo Børs (2012)" >}}
 
 Eg ser eg har posta [bilete frå Oslo](/2010/05/29/oslo-2009-i-bilder/) her også tidlegare.
 

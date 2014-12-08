@@ -42,7 +42,7 @@ This method shows some peculiar stuff: the old API's choice of 1900 as the magic
 
 Looking at the JavaDoc for [java.util.Date,](http://docs.oracle.com/javase/8/docs/api/) with the myriads of methods deprecated in JDK 1.1 (1997) – one can imagine the Sun designers kicking themselves in the legs when realizing the blunder. _And they can never remove it._ You are even free to _change the state_ after creation!
 
-{{< figure src="/assets/img/wp/java.util_.Date_.png" class="alignnone" caption="Deprecated methods in java.util.Date." >}}
+{{< img src="/assets/img/wp/java.util_.Date_.png" class="alignnone" caption="Deprecated methods in java.util.Date." >}}
 
 The JavaDoc of [java.time.LocalDateTime](http://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html) says:
 

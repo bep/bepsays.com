@@ -9,7 +9,7 @@ categories:
 
 **«Reguleringsplan av 14. oktober 1981: Optimal bruk av attraktiv elvebredd i Førde sentrum» er interessant lesnad – og inneheld mange gode tankar om bygdearkitektur som sogndølene bør ta til seg i sine strandsoneplanar.**
 
-{{< figure src="/assets/img/wp/Elvebredd-Førde-1.jpg" class="alignright" caption="Attraktiv elvebredd, fin parkeringsplass." >}}
+{{< img src="/assets/img/wp/Elvebredd-Førde-1.jpg" class="alignright" caption="Attraktiv elvebredd, fin parkeringsplass." >}}
 
 <!--more-->
 
@@ -19,9 +19,9 @@ Eg siterer:
 
 
 
-{{< figure src="/assets/img/wp" class="Attraktiv elvebredd, optimal varelevering." caption="/Elvebredd-Førde-2.jpg" >}}
+{{< img src="/assets/img/wp" class="Attraktiv elvebredd, optimal varelevering." caption="/Elvebredd-Førde-2.jpg" >}}
 
-{{< figure src="/assets/img/wp" class="Attraktiv elvebredd, fin avfallsplass." caption="/Elvebredd-Førde-4.jpg" >}}
+{{< img src="/assets/img/wp" class="Attraktiv elvebredd, fin avfallsplass." caption="/Elvebredd-Førde-4.jpg" >}}
 
-{{< figure src="/assets/img/wp" class="Attraktiv elvebredd." caption="/Elvebredd-Førde-3.jpg" >}}
+{{< img src="/assets/img/wp" class="Attraktiv elvebredd." caption="/Elvebredd-Førde-3.jpg" >}}
 

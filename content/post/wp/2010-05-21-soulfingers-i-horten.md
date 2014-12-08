@@ -10,7 +10,7 @@ categories:
 
 <!--more-->
 
- {{< figure src="/assets/img/wp/soulfinger-plakat-212x300.png" class="small" >}}
+ {{< img src="/assets/img/wp/soulfinger-plakat-212x300.png" class="small" >}}
 
  Soulfingers er eit [Blues Brothers](http://en.wikipedia.org/wiki/The_Blues_Brothers) tribute-band; ni hardtspelande menn med svarte solbriller og svart dress - mest karar frå [Nord-Trøndelag](http://nn.wikipedia.org/wiki/Nord-Tr%C3%B8ndelag_fylke). Fire blåsarar med meg på tenor- og altsaksofon, ein advokat på baritonsaksofon, ein advokat på trombone og ein elektrikar på trompet. Feitt!
 

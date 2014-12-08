@@ -13,7 +13,7 @@ categories:
 
 **I bought my Kindle DX two months ago and have read 20 books on it. Now it has a broken screen – the upper right corner part of it is frozen – and a hairline crack in the plastic bezel surrounding it.**
 
-{{< figure src="/assets/img/wp/broken_kindle_dx.jpg" class="alignright" caption="My Kindle DX: Broken screen – the upper right corner part of it is frozen – and a hairline crack in the plastic bezel surrounding it." >}}
+{{< img src="/assets/img/wp/broken_kindle_dx.jpg" class="alignright" caption="My Kindle DX: Broken screen – the upper right corner part of it is frozen – and a hairline crack in the plastic bezel surrounding it." >}}
 
 <!--more-->
 

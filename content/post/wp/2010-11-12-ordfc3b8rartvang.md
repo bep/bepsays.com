@@ -5,7 +5,7 @@ title: Tre av ti ordførarar seier ja til tvang
 categories:
 - Fylkesspit
 ---
-{{< figure src="/assets/img/wp/BDSM_collar_back.jpg" class="alignright" caption="Lærhalsband. Foto: Grendelkhan (Wikimedia Commons)" >}}
+{{< img src="/assets/img/wp/BDSM_collar_back.jpg" class="alignright" caption="Lærhalsband. Foto: Grendelkhan (Wikimedia Commons)" >}}
 
 **«Heile sju av ti ordførarar seier nei til tvang,» [melder](http://sognavismeiner.origo.no/-/bulletin/show/607543_gulrot-heller-enn-tvang?ref=mst) redaktøren i Sogn Avis. No har eg ikkje lese heile leiaren, så eg skal ikkje seie for sikkert kva for tvang det er snakk om. Illustrasjonen til høgre kan vere skivebom.**
 

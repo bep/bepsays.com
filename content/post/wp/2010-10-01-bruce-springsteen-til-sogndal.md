@@ -5,7 +5,7 @@ title: Bruce Springsteen til Sogndal?
 categories:
 - Fylkesspit
 ---
-{{< figure src="/assets/img/wp/709px-Bruce_Springsteen_20080815.jpg" class="alignright" caption="Bruce Springsteen. Foto: Craig ONeal (Wikimedia Commons)" >}}
+{{< img src="/assets/img/wp/709px-Bruce_Springsteen_20080815.jpg" class="alignright" caption="Bruce Springsteen. Foto: Craig ONeal (Wikimedia Commons)" >}}
 
 **Overskrifta er inspirert av eit oppslag i [nettavisa](http://www.firda.no/sporten/fotball/article5331633.ece) Firda denne veka: «Aabrekk ny Molde-trenar?».**
 

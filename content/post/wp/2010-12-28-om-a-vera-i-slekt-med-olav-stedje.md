@@ -17,7 +17,7 @@ Eg helsa på Olav i pausen. Han skulle til Oslo att dagen etter. Ein trubadur p�
 <blockquote>Denne treng berre ein enkel, liten melodi.
 Olav Stedje (4) leikar med ei ause.</blockquote>
 
-{{< figure src="/assets/img/wp/Mustache_shield.png" class="alignright small" caption="Slektsvåpenet til Stedje-slekti." >}}
+{{< img src="/assets/img/wp/Mustache_shield.png" class="alignright small" caption="Slektsvåpenet til Stedje-slekti." >}}
 
 Ein kristen lærarson frå Sogndal fortalde meg ei historie om Olav Stedje, som far hans – Asbjørn Almås – hadde fortalt han. Faren var lærar på Sogndal Gymnas på slutten av 60-talet. Olav Stedje var elev der, men hadde ikkje trakka ned dørene til frisør Magnar Flåten.[ref]Eg er ikkje sikker på om Magnar Flåten hadde frisørsalong på 60-talet, men eg tek meg den same historiske fridomen som han sjølv gjorde då han klypte meg: «Du har same håret som bestefar din på Navarsete,» pleidde han å seia, endå eg aldri har hatt ein bestefar i den grendi (oldefar, ja – men det var vel før Flåten si saksetid).[/ref]
 

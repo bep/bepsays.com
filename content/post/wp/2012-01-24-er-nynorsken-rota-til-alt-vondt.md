@@ -8,7 +8,7 @@ categories:
 
 **Dette innlegget er eit svar til systrendingen Øystein A. Vangsnes sin [kronikk](http://www.forskning.no/blog/vangsnes/303273) med motsett forteikn. Han samanstiller gode levekår med nynorsk språkføring. Dette er sjølvsagt rett, men av andre grunnar enn dei Vangsnes dreg fram.**
 
-{{< figure src="/assets/img/wp/Ivar_Aasen.jpg" class="alignright small" caption="Ivar Aasen" >}}
+{{< img src="/assets/img/wp/Ivar_Aasen.jpg" class="alignright small" caption="Ivar Aasen" >}}
 
 <!--more-->
 

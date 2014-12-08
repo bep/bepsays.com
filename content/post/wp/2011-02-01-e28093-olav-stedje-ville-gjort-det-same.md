@@ -11,7 +11,7 @@ categories:
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/mrthomas-bs400.jpg" class="alignright small" caption="Tormod Vik-Hansen speler Ta meg med på ei Yoga-matte. (Foto: Mr. Thomas/Flickr/CC)" >}}
+{{< img src="/assets/img/wp/mrthomas-bs400.jpg" class="alignright small" caption="Tormod Vik-Hansen speler Ta meg med på ei Yoga-matte. (Foto: Mr. Thomas/Flickr/CC)" >}}
 
 Vik-Hansen er sambuar med ei jente som er i slekt med Olav Stedje («eller, ho er frå Sogndal – og der er vel alle i slekt med herr Stedje?»), og meiner å vite at den kunstige språkinndelinga med eigne prisar for nynorsk og bokmål/riksmål har fått den elles sindige sogningen til å reagere.
 

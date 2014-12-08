@@ -8,7 +8,7 @@ categories:
 
 **«Ved fleire høve har heile turistbussar stoppa i Sogndalsfjøra på utkikk etter toalett. Tilboda i sentrum er få, og Erik Flåten har no sett seg lei av å vaska toalett seks timar dagleg,» melder [Sogn Avis](http://www.sognavis.no/lokale_nyhende/article5193280.ece) i ein artikkel som ikkje er illustrert med ein hotelleigar med moppen i handa.**
 
-{{< figure src="/assets/img/wp/509px-JapaneseToiletBidet-bs400.jpg" class="alignright small" caption="Vassklosett med bidé og styrepanel, slik folk frå Japan ventar å finne når dei kjem til Sogn. Foto: Chris 73 (Wikimedia commons)" >}}
+{{< img src="/assets/img/wp/509px-JapaneseToiletBidet-bs400.jpg" class="alignright small" caption="Vassklosett med bidé og styrepanel, slik folk frå Japan ventar å finne når dei kjem til Sogn. Foto: Chris 73 (Wikimedia commons)" >}}
 
 <!--more-->
 

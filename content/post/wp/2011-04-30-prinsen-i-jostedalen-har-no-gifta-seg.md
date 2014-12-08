@@ -13,7 +13,7 @@ Han fekk vere i fred, til stor irritasjon for mellom andre noverande distriktsre
 
 <!--more-->
 
-{{< figure src="/assets/img/wp/Kiss_Wedding_Prince_William_of_Wales_Kate_Middleton_revised.jpg" class="alignright" caption="Prins William kysser brura Kate Middleton. Foto: John Pannell (CC)." >}}
+{{< img src="/assets/img/wp/Kiss_Wedding_Prince_William_of_Wales_Kate_Middleton_revised.jpg" class="alignright" caption="Prins William kysser brura Kate Middleton. Foto: John Pannell (CC)." >}}
 
  Men det var vel kanskje like greit, for særleg interessant fylkesjournalistikk ville neppe vorte resultatet. I beste fall eit intervju med ein av livvaktane:
 

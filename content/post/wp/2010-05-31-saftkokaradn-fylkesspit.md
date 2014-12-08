@@ -8,7 +8,7 @@ categories:
 
 **«– Og vikingar var ikkje berre fyll og valdtekt, her får me presentert vikingane på ein annan måte,» [avslører Sogn Avis ](http://www.sognavis.no/lokale_nyhende/article5138069.ece)og held fram: «– Me får synt at vikingane også er noko anna enn plyndring, plastikkhjelmar og ølmugger.»**
 
-{{< figure src="/assets/img/wp/Saftkokaradn_i_hoenefoss_20091.jpg" class="alignright" caption="Saftkokaradn i Hønefoss i 2009. Under dei fargerike cowboyhattane skjuler det seg noko meir." >}}
+{{< img src="/assets/img/wp/Saftkokaradn_i_hoenefoss_20091.jpg" class="alignright" caption="Saftkokaradn i Hønefoss i 2009. Under dei fargerike cowboyhattane skjuler det seg noko meir." >}}
 
 <!--more-->
 

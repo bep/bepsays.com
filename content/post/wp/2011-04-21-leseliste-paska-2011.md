@@ -19,7 +19,7 @@ categories:
   * Robert Crais: _Indigo slam_
 
 
-{{< figure src="/assets/img/wp/David-Baldacci-Sixth-Man.jpg" class="alignright" caption="Baldacci er gode greier." >}}
+{{< img src="/assets/img/wp/David-Baldacci-Sixth-Man.jpg" class="alignright" caption="Baldacci er gode greier." >}}
 
 I skrivande stund er eg godt inne i nummer to på lista. David Baldacci sin _The Sixth Man_ er strålande. Baldacci har ei eiga evne til å kome opp med historiar som nesten er for fantastiske og for gode til å vere sanne, men presenterte på ein svært elegant og truverdig måte.
 
