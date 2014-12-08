@@ -13,11 +13,11 @@ slug: stedje-hovland-og-meg
 
 **Ragnar Hovland og Olav Stedje møttest gjennom min tabloide avisartikkel.**
 
-Dette les eg av ei av Ragnar Hovland sine tankerekkjer i ei avis austaføre.
+Dette les eg av ei av Ragnar Hovland sine tankerekkjer i ei avis austaføre. 
 
 <!--more-->
 
-Han peiker på ein artikkel skriven av undterteikna. Eg var i tjueåra både stor fan av Ragnar Hovland (*Sveve over vatna* og alle dei glimrande essaya) og i slekt Olav Stedje.
+Han peiker på ein artikkel skriven av undterteikna. Eg var i tjueåra og både stor fan av Ragnar Hovland (*Sveve over vatna* og alle dei glimrande essaya) og i slekt med Olav Stedje.
 
 Eg er framleis stor fan av Hovland og i slekt med Stedje, men dette var tida eg var tabloidkongen på Hanehaug.
 
@@ -27,6 +27,8 @@ Eg er framleis stor fan av Hovland og i slekt med Stedje, men dette var tida eg 
 Det var Gunnar Stedje som tipsa meg. Han er endå nærare i slekt med Olav Stedje enn det eg er, og kunne ikkje skrive noko om denne særleg delikate saka sjølv. 
 
 Om me no oppsummerer; Gunnar fortalde meg at han Ragnar Hovland hadde skrive at "han og Sogndals-bandet Compact, med Olav Stedje, hadde røykt narkotika på eit bakrom på Solhov i Sogndal." Slike usanne påstandar skulle Olav Stedje ha vore svært kritisk til.
+
+{{< tweet 541237476502036480 >}}
 
 I ettertid er det lett å føyse dette unna som reint oppspinn frå Ragnar Hovland si side. Dette skjedde aldri i det verkelege. Denne setninga var lagt inn for å gi teksten liv.
 
