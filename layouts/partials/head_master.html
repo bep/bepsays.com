@@ -33,8 +33,9 @@
 {{ with .Params.images }}{{ range first 6 . }}
 <meta property="og:image" content="http://bepsays.com{{ . }}" />
 {{ end }}{{ end }}
+{{ if .IsPage }}
 <meta property="og:updated_time" content="{{ .Date }}"/>
-
+{{ end }}
 
 {{ with .Params.images }}
 <meta name="twitter:card" content="summary_large_image"/>

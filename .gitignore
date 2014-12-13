@@ -1,5 +1,6 @@
 
 /dev
+/public
 /dist
 /.idea
 /node_modules
