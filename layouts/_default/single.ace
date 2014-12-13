@@ -1,0 +1,14 @@
+= doctype html
+html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
+  head
+    = include partials/head.html .
+  body.layout-reverse
+    = include partials/menu.html .
+    div.content.container
+      div.main.post
+        h1.post-title {{ .Title  }}
+        {{ .Content }}
+        = include partials/gallery.html .
+        = include partials/share.html .
+      = include partials/post-more.html .
+    = include partials/footer.html .
