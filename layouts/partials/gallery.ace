@@ -1,7 +1,6 @@
 {{if isset .Params "gallery_id" }}
-<div class="gallery" id="pageGallery"></div>
-<script type="text/javascript">
-
+#pageGallery.gallery
+  = javascript
     var myColorScheme = {
         navigationbar: {
             background: '#141E24',
@@ -29,6 +28,4 @@
             colorScheme: myColorScheme
         });
     });
-
-</script>
 {{ end }}

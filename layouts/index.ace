@@ -4,18 +4,18 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
     = include partials/head.html .
   body.layout-reverse
     = include partials/menu.html .
-    div.content.container
-      div.main.posts
+    .content.container
+      .main.posts
         {{ range first 1 (where .Data.Pages "Type" "post") }}
-        div.post
+        .post
           h1.post-title
             a href={{ .RelPermalink }} {{ .Title }}
-          div.post-summary {{ .Summary }}
-          div.read-more
+          .post-summary {{ .Summary }}
+          .read-more
             a.btn.btn-lg.bs-btn-info href={{ .RelPermalink }} Hald fram →
         {{ end }}
         hr
-        div.front-read-more
+        .front-read-more
           h1 Sjå òg
           ul
             {{ range .Site.Taxonomies.tags.asterisk }}

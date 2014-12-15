@@ -1,0 +1,10 @@
+div.post-more-container
+  div.post-more
+    div.btn-group
+      a class="btn btn-lg bs-btn-default{{if not .Next}} disabled{{end}}" href={{if .Next}}{{.Next.Permalink}}{{end}} Eldre
+      a class="btn btn-lg bs-btn-default{{if not .Prev}} disabled{{end}}" href={{if .Prev}}{{.Prev.Permalink}}{{end}} Nyare
+      {{ range .Params.categories }}
+      a.btn.btn-lg.bs-btn-info href=/categories/{{ . | lower | urlize }} {{ . }}
+      {{ end }}
+  = include partials/series.html .
+

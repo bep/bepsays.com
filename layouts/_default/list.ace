@@ -4,8 +4,8 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
     = include partials/head.html .
   body.layout-reverse
     = include partials/menu.html .
-    div.content.container
-      div.main.list
+    .content.container
+      .main.list
         h1.post-title {{ .Title  }}
         {{ range .Data.Pages }}
         p
