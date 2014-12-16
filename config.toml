@@ -4,6 +4,8 @@ languageCode = "no-nn"
 MetaDataFormat = "yaml"
 
 PygmentsStyle = "trac"
+CanonifyUrls = "true"
+PluralizeListTitles = "false"
 
 MarkdownAngledQuotes = true
 
