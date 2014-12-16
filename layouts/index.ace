@@ -20,8 +20,8 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
           ul
             {{ range .Site.Taxonomies.tags.asterisk }}
             li
-              a href={{ .Page.RelPermalink }} {{ .Page.Title }}
-              small (ca. {{ .Page.FuzzyWordCount }} ord)
+              a href={{ .Page.RelPermalink }} {{ .Page.Title }} <small>(ca. {{ .Page.FuzzyWordCount }} ord)</small>
             {{ end }}
+      = include partials/hello.html .
     = include partials/footer.html .
 
