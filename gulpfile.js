@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+var es   = require('event-stream');
 var fs = require('fs');
 var path = require('path');
 var parallelize = require("concurrent-transform");
@@ -48,11 +49,22 @@ gulp.task('build-static', ['clean-static', 'less', 'scripts', 'copy'], function 
         .pipe(gulp.dest('static'))
 });
 
-gulp.task('build', ['build-static', 'clean-dist'], function (cb) {
+gulp.task('build', ['gitinfo', 'build-static', 'clean-dist'], function (cb) {
     plugins.run('hugo --source=. --destination=dist').exec(cb);
 
 });
 
+gulp.task('gitinfo', function(cb) {
+    return plugins.gitinfo()
+        .pipe(es.map(function(data, cb) {
+            fs.writeFile('layouts/partials/gitinfo.html',
+                    'Den aller siste endringa var <a href="https://github.com/bjornerik/bepsays.com/commit/' + data['local.branch.current.shortSHA'] + '">'
+                        + data['local.branch.current.shortSHA'] +'</a>.');
+
+            cb();
+
+        }))
+});
 
 gulp.task('aws-publish', ['build'], function () {
 
@@ -109,7 +121,7 @@ gulp.task('deploy', ['aws-publish'], function () {
 });
 
 
-gulp.task('watch', ['copy', 'less', 'scripts'], function () {
+gulp.task('watch', ['copy', 'gitinfo', 'less', 'scripts'], function () {
     gulp.watch('assets/less/*.less', ['less']);
     gulp.watch('assets/js/**/*.js', ['scripts']);
 });
