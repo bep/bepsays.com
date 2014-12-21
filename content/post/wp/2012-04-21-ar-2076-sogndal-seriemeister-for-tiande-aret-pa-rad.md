@@ -3,7 +3,7 @@ date: 2012-04-21 18:03:51+00:00
 slug: ar-2076-sogndal-seriemeister-for-tiande-aret-pa-rad
 title: 'År 2076: Sogndal seriemeister for tiande året på rad!'
 categories:
-- Sogndal fotball
+- Fotball
 ---
 
 **Året er 2076: Det er 150 år etter klubbskipinga og 100 år sidan den fyrste cupfinalen, og spelarane i Sogndal jublar for sin tiande strake toppseriemeisterskap.**

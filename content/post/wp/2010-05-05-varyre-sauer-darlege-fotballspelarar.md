@@ -3,7 +3,7 @@ date: 2010-05-05 22:27:14+00:00
 slug: varyre-sauer-darlege-fotballspelarar
 title: Våryre sauer er dårlege fotballspelarar
 categories:
-- Sogndal fotball
+- Fotball
 ---
 
 **Eg var på Bislet her om dagen. Såg Lyn-Sogndal. 3-1-tap. Ikkje noko å seie på det resultatet, Lyn var unge, raske og villige - Sogndal var 11 våryre sauer som nett var sleppte på beite. Å treffe ballen var optimistisk. Å treffe mål: Utenkjeleg.**

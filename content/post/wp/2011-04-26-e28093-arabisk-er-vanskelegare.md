@@ -4,7 +4,6 @@ slug: '%e2%80%93-arabisk-er-vanskelegare'
 title: – Arabisk er vanskelegare!
 categories:
 - Spit
-- Spit
 ---
 
 **Eg skal ikkje seie så mykje om nybygget til Sogndal hotell, som er ein glasklump klemt oppi Trehestebakken.**

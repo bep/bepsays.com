@@ -4,7 +4,7 @@ slug: sogndal-banka-brann
 title: Sogndal banka Brann!
 gallery_id: 6077496399951268401
 categories:
-- Sogndal fotball
+- Fotball
 - Foto
 ---
 

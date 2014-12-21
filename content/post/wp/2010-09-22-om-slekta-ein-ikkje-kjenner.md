@@ -5,7 +5,7 @@ tags:
 - Asterisk
 title: Om slekta ein ikkje kjenner
 categories:
-- Slekt
+- Kultur
 ---
 
 **Dette fotografiet er det eg veit om oldeforeldergenerasjonen på farsida mi.**

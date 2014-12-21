@@ -3,7 +3,7 @@ date: 2010-10-20 20:34:42+00:00
 slug: tommy-10-ar-etter-jaaa
 title: Tommy, 10 år etter. Jaaaa!
 categories:
-- Sogndal fotball
+- Fotball
 ---
 
 **Eg [stilte spørsmålet](http://bepsays.com/2010/10/blir-det-reprise-i-kveld-tommy/) to timar før kampen, og fekk rett: Tommy Øren sikra opprykket til eliteserien for Sogndal med ei perle av ei scoring mot Fredrikstad. Nett slik han gjorde mot Vålerenga i 2000, for ti år sidan!**

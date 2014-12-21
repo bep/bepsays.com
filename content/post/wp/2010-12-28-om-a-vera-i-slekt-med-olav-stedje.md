@@ -4,7 +4,6 @@ slug: om-a-vera-i-slekt-med-olav-stedje
 title: Om å vera i slekt med Olav Stedje
 categories:
 - Kultur
-- Slekt
 ---
 
 **Eg helsa på ein kar frå Austlandet på pubben i Sogndal i julehelgi, han er visst gift eller sambuar med ei jente frå Sogndal. «Ho er i slekt med [Olav Stedje](http://nn.wikipedia.org/wiki/Olav_Stedje),» sa han. Olav Stedje var trubadur denne kvelden, slik han er kvar jul. «Det er eg òg,» sa eg. «Så då er dama di og eg i slekt. Tremenningar, trur eg.»**

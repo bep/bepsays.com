@@ -3,7 +3,7 @@ date: 2011-04-18 19:25:26+00:00
 slug: a-lage-ein-app-for-android
 title: Å lage ein app for Android
 categories:
-- Sogndal fotball
+- Fotball
 - Teknologi
 ---
 

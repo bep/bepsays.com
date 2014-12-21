@@ -3,7 +3,7 @@ date: 2012-03-24 01:14:02+00:00
 slug: ein-av-hundre-trur-sogndal-tek-gull
 title: Éin av hundre trur Sogndal tek gull
 categories:
-- Sogndal fotball
+- Fotball
 ---
 
 **I følgje ei lesarundersøkjing på nett gjort av den betrudde avisa [Bergens Tidende](http://fotball.bt.no/eliteserien/article229420.ece), trur éin prosent at Sogndal fotball tek gull i årets eliteserie i fotball.**

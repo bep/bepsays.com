@@ -5,7 +5,7 @@ title: Godt spel og spelarsal gir spalteplass
 tags: 
 - Asterisk
 categories:
-- Sogndal fotball
+- Fotball
 ---
 
 **{{< img src="/assets/img/wp/graf_sogndal_rikspresse_mai2010.png" class="alignnone" caption="Antal omtalar for Sogndal fotball i landsdekkande norske papiraviser 1981-2010. Kjelde: ATEKST. " >}}**

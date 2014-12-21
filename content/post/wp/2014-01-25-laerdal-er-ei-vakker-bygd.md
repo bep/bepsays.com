@@ -7,7 +7,7 @@ title: |
 tags: 
 - Asterisk
 categories:
-- Spit
+- Kultur
 ---
 
 **Lærdal er ei vakker bygd. Ho vil alltid vera vakker.**

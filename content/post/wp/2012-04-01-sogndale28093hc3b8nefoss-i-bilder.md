@@ -4,7 +4,7 @@ slug: sogndal%e2%80%93h%c3%b8nefoss-i-bilder
 title: Sogndal–Hønefoss i bilder
 gallery_id: 6077498589025156721
 categories:
-- Sogndal fotball
+- Fotball
 - Foto
 ---
 
