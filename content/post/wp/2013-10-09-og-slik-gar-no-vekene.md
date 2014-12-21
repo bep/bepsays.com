@@ -3,7 +3,7 @@ date: 2013-10-09 21:12:06+00:00
 slug: og-slik-gar-no-vekene
 title: Og slik går no vekene…
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Eli Grotle er redaksjonssjef i Sogn Avis. Der har ho ei spalte der ho skriv om det Jerry Seinfeld gjorde stor humor av: Ingenting!**

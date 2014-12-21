@@ -3,7 +3,7 @@ date: 2010-06-04 05:02:37+00:00
 slug: ei-dritveke-i-fylket
 title: Møkkasladd og brune kablar
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Nettavisene i Sogn og Fjordane har vore fulle av drit denne veka. No er  dei rett nok det kvar veke, men denne veka var dei det bokstavleg.**

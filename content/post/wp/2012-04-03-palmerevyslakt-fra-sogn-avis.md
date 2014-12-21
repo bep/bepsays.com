@@ -3,7 +3,7 @@ date: 2012-04-03 15:05:44+00:00
 slug: palmerevyslakt-fra-sogn-avis
 title: Palmerevyslakt frå Sogn Avis
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Gjennomgangstonen i Sogn Avis si omtale av Palmerevyen på Leikanger har dei siste 30 åra vore [«betre enn nokon sinne.»](http://bepsays.com/2011/04/palmerevyen-nar-snart-mount-everest/) I slikt perspektiv framstår årets [omtale](http://www.sognavis.no/lokale_nyhende/article5995514.ece) som eit slakt.**

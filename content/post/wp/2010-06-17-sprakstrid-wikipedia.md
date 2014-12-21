@@ -3,7 +3,7 @@ date: 2010-06-17 18:48:23+00:00
 slug: sprakstrid-wikipedia
 title: Språkstrid om portugisisk øygruppe
 categories:
-- Språk
+- Kultur
 ---
 
 **På Tinget på Wikipedia på bokmål og riksmål går det no ein debatt om ein skal skrive [Azorene eller Asorene](http://no.wikipedia.org/wiki/Wikipedia:Tinget#Azorene_vs_Asorene).**

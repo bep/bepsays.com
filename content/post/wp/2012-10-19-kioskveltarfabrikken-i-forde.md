@@ -5,7 +5,7 @@ title: Kioskveltarfabrikken i Førde
 tags: 
 - Asterisk
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **I går synte Facebook seg fram som ei glimrande kjelde for grundig og undersøkjande journalistikk: NRK Sogn og Fjordane hadde oppslaget om karen som hadde [kjøpt presang ](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.8363940)til kona.**

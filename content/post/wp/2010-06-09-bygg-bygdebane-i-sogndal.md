@@ -3,7 +3,7 @@ date: 2010-06-09 05:23:47+00:00
 slug: bygg-bygdebane-i-sogndal
 title: Bygg bygdebane i Sogndal!
 categories:
-- Fylkesarkitektur
+- Spit
 ---
 
 **Dei har fått [bybane i Bergen](http://www.bybanen.no/), så kvifor ikkje.**

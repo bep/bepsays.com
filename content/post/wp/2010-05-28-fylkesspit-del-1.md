@@ -3,7 +3,7 @@ date: 2010-05-28 16:00:42+00:00
 slug: fylkesspit-del-1
 title: Delta på steinras torsdag?
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Fylkesmannen i Sogn og Fjordane har kasta seg på Facebook, men dei er nok ikkje først ute med å legge ut varsel om moglege framtidige hendingar, slik Sogn Avis vil ha det til. Eg gjorde det seinast i går. Eg skal kanskje på ein konsert på [Herr Nilsen](http://herrnilsen.no/) neste veke.**

@@ -3,7 +3,7 @@ date: 2010-06-06 04:33:13+00:00
 slug: mokkamann-inneheld-eit-fugeformativ
 title: Møkkamann inneheld eit fugeformativ
 categories:
-- Språk
+- Kultur
 ---
 
 **Eg har lært meg eit nytt ord, fugeformativ.**

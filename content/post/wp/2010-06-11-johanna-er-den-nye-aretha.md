@@ -3,7 +3,7 @@ date: 2010-06-11 18:53:17+00:00
 slug: johanna-er-den-nye-aretha
 title: Johanna er den nye Aretha!
 categories:
-- Musikk
+- Kultur
 ---
 {{< img src="/assets/img/wp/soulfinger-konsert006.jpg" class="alignnone" caption="Soulfingers med Johanna. Foto: Siv Dolmen" >}}
 

@@ -3,7 +3,7 @@ date: 2010-07-16 16:22:11+00:00
 slug: hotelleigar-og-toalettvaskar
 title: Hotelleigar og toalettvaskar
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **«Ved fleire høve har heile turistbussar stoppa i Sogndalsfjøra på utkikk etter toalett. Tilboda i sentrum er få, og Erik Flåten har no sett seg lei av å vaska toalett seks timar dagleg,» melder [Sogn Avis](http://www.sognavis.no/lokale_nyhende/article5193280.ece) i ein artikkel som ikkje er illustrert med ein hotelleigar med moppen i handa.**

@@ -5,7 +5,7 @@ title: Oppdikta postmann kan stå bak tyleskapet
 tags: 
 - Asterisk
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Postmann Ove Ullkvam er lei av det rutineprega livet som postmann, og no turnerer han og kompisen Ragnar fylket rundt med teaterstykket _[Tyl](http://m.nrk.no/m/article.jsp?art_id=17420616)_.**

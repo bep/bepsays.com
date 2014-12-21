@@ -7,7 +7,7 @@ title: |
 tags: 
 - Asterisk
 categories:
-- Fylkesarkitektur
+- Spit
 ---
 
 **Lærdal er ei vakker bygd. Ho vil alltid vera vakker.**

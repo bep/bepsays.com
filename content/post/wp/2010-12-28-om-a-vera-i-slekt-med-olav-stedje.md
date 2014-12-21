@@ -3,7 +3,7 @@ date: 2010-12-28 21:55:13+00:00
 slug: om-a-vera-i-slekt-med-olav-stedje
 title: Om å vera i slekt med Olav Stedje
 categories:
-- Musikk
+- Kultur
 - Slekt
 ---
 

@@ -3,7 +3,7 @@ date: 2011-12-08 17:56:51+00:00
 slug: a-flytte-ein-trikkestopp
 title: Å flytte ein trikkestopp
 categories:
-- Kollektivtransport
+- Teknologi
 ---
 
 **Ruter eller Oslo sporveier (kva dei no enn heiter) har flytta trikkestoppen på Skøyen 100 meter mot sentrum. Dette er skilta og er sikkert gjort av ein god grunn.**

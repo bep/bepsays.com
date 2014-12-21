@@ -3,7 +3,7 @@ date: 2010-06-05 03:47:47+00:00
 slug: kvelden-eg-nesten-vart-gatemusikant
 title: Kvelden eg nesten vart gatemusikant
 categories:
-- Musikk
+- Kultur
 ---
 
 **[Bajazz Bigband](http://www.bajazz-bigband.com/) spelte på Kampendagane fredag kveld. Det var likaso meg og Bajazz og Johnny Knutsen på vokal. Ein real opptur! Masse folk, opne kranar og sol.**

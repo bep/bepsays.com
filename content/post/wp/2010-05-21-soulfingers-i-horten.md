@@ -3,7 +3,7 @@ date: 2010-05-21 16:33:55+00:00
 slug: soulfingers-i-horten
 title: Soulfingers i Horten
 categories:
-- Musikk
+- Kultur
 ---
 
 **Eg skal til Horten i morgon. Bluesbandet [Soulfingers](http://www.facebook.com/#!/group.php?gid=97983011221&ref=ts) held konsert på [Gamle Horten gård](http://www.gamlehortengard.no/index.php/konserter).**

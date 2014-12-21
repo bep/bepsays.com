@@ -5,7 +5,7 @@ tags:
 - Asterisk
 title: «I did not have SMS-relations with that man, Mr. Ingebrigtsen»
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **«Ein rasande statssekretær Roger Ingebrigtsen frå Arbeiderpartiet stadfestar SMS-kontakt med Clara Øberg,»  skriv [NRK Sogn og Fjordane](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7182836).  Clara Øberg nekta først for at dette hadde skjedd, men sa så at det berre var ein «klapp på skuldra»-SMS utan politisk baktanke.**

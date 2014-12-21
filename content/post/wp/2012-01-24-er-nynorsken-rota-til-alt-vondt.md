@@ -3,7 +3,7 @@ date: 2012-01-24 18:44:09+00:00
 slug: er-nynorsken-rota-til-alt-vondt
 title: Er nynorsken rota til alt vondt?
 categories:
-- Språk
+- Kultur
 ---
 
 **Dette innlegget er eit svar til systrendingen Øystein A. Vangsnes sin [kronikk](http://www.forskning.no/blog/vangsnes/303273) med motsett forteikn. Han samanstiller gode levekår med nynorsk språkføring. Dette er sjølvsagt rett, men av andre grunnar enn dei Vangsnes dreg fram.**

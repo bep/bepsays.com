@@ -5,7 +5,7 @@ title: Meteorologar er billegare i drift
 tags:
 - Wikipedia
 categories:
-- Språk
+- Kultur
 - Teknologi
 - Wikipedia
 ---

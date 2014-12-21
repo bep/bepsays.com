@@ -4,7 +4,7 @@ slug: forde-er-ein-vakker-by
 title: Førde er ein vakker by!
 gallery_id: 6077502353820783889
 categories:
-- Fylkesarkitektur
+- Spit
 - Foto
 ---
 

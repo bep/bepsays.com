@@ -1,6 +1,6 @@
 ---
 categories:
-- Framandfylkesspit
+- Spit
 date: 2014-11-26T13:12:03+01:00
 draft: false
 tags:

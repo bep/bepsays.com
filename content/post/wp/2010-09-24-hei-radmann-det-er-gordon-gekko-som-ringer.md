@@ -5,7 +5,7 @@ title: – Hei, rådmann! Det er Gordon Gekko som ringer!
 tags: 
 - Asterisk
 categories:
-- Fylkesspit
+- Spit
 ---
 
 **Denne veka har Bremanger kommune gått på ein [ny smell](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7307831) i pengemarknaden og Øystein Sunde har hatt premiere på førestillinga «[Men da må du ha](http://www.dagbladet.no/2010/09/23/kultur/oystein_sunde/show/dizzie_showteater/13509948/)».**

@@ -3,7 +3,7 @@ date: 2014-01-07 20:01:26+00:00
 slug: frogner-ingen-herrebukser
 title: 'Frogner: Ingen herrebukser'
 categories:
-- Mote
+- Kultur
 ---
 
 **Skal du ha deg ei bukse og du er mann må du finne andre plassar å handle enn på Frogner i Oslo.**
