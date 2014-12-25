@@ -92,6 +92,9 @@ gulp.task('aws-publish', ['build'], function () {
                     cacheTime: 630720000
                 },
 
+                "^.+\\.html": {
+                    gzip: true
+                },
 
                 "^README$": {
                     // specify extra headers

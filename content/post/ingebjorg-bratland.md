@@ -31,7 +31,7 @@ Om ein skal leita etter felles trekk mellom Alison Krauss og Ingebjørg Bratland
 
 Dei har begge popularisert sitt land sin folkemusikktradisjon. No kan det vel høyrast ut som at Bratland også har lete seg inspirera av musikken frå andre sida av Atlanteren, i videoen over tydeleg i arrangement og instrumentering.
 
-Krauss er ein strålande felespelar, og her kjem vel Bratland sine dugande gitarfingrar til kort. Men på den andre sida så er Bratland ein betre og ein meir variert songar. Dei kjem begge frå ein tilbakelent og flat vokaltradisjon. På _Klokkene kallar_ er det slik at ein meir _kjenner_ at dynamikken er der enn at ein høyrer han. Men Ingebjørg Bratland har kvedinga sine knekkar og krusedullar, og desse gjer det heile meir interessant. 
+Krauss er ein strålande felespelar, og her kjem vel Bratland sine dugande gitarfingrar til kort. Men på den andre sida så er Bratland ein betre og ein meir variert songar. Dei kjem begge frå ein tilbakelent og flat vokaltradisjon. På _Klokkene kallar_ er det slik at ein meir _kjenner_ at dynamikken er der enn at ein høyrer han. Og Ingebjørg Bratland har kvedinga sine knekkar og krusedullar, og desse gjer det heile meir interessant. 
 
 Om Bratland kjem til å følgja Krauss si rekkje av Grammyprisar er vel heller tvilsamt, til dét er ho nok for glad i det norske språket.
 
