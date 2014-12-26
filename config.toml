@@ -7,7 +7,8 @@ PygmentsStyle = "trac"
 CanonifyUrls = "true"
 PluralizeListTitles = "false"
 
-MarkdownAngledQuotes = true
+[blackfriday]
+angledQuotes = true
 
 [params]
     description = "bepsays.com sine tankar om dette og hint."

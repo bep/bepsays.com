@@ -7,7 +7,8 @@ categories:
 - English
 - Klokke
 - Foto
-MarkdownAngledQuotes: false
+blackfriday:
+  angledQuotes: false
 
 ---
 

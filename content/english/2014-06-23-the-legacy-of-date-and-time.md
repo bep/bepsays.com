@@ -5,7 +5,8 @@ title: The legacy of date and time
 categories:
 - English
 - Teknologi
-MarkdownAngledQuotes: false
+blackfriday:
+  angledQuotes: false
 
 ---
 

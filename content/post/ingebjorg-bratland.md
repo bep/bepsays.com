@@ -7,6 +7,7 @@ tags:
 - Musikk
 title: Ingebjørg Bratland er ei ung Alison Krauss
 slug: bratland-vs-krauss
+
 images:
 - /assets/img/2014/Alison_Krauss_MerleFest_2007.jpg
 ---

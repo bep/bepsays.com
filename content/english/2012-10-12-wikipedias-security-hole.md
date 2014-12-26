@@ -6,7 +6,8 @@ categories:
 - English
 - Teknologi
 - Wikipedia
-MarkdownAngledQuotes: false
+blackfriday:
+  angledQuotes: false
 
 ---
 

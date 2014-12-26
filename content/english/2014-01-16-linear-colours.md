@@ -5,8 +5,8 @@ title: Linear colour scheme with LESS
 categories:
 - English
 - Teknologi
-MarkdownAngledQuotes: false
-
+blackfriday:
+  angledQuotes: false
 ---
 
 **Make content boxes with a linear colour scheme using a LESS loop.**
