@@ -16,7 +16,6 @@
         {{ range $pag.Paginated }}
         <li {{ if eq . $pag }}class="active"{{ end }}><a href="{{ .Url }}">{{ .PageNumber }}</a></li>
         {{ end }}
-
         <li {{ if not $pag.HasNext }}class="disabled"{{ end }}>
         <a href="{{ if $pag.HasNext }}{{ $pag.Next.Url }}{{ end }}" aria-label="Next">
             <span aria-hidden="true">&raquo;</span>
