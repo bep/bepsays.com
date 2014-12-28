@@ -3,7 +3,7 @@
         {{ $pag := .Data.Paginator }}
         {{ with $pag.First }}
         <li>
-            <a href="{{ $pag.First.Url }}" aria-label="First">
+            <a href="{{ .Url }}" aria-label="First">
                 <span aria-hidden="true">&laquo;&laquo;</span>
              </a>
         </li>
@@ -24,7 +24,7 @@
         </li>
         {{ with $pag.Last }}
         <li>
-            <a href="{{ $pag.Last.Url }}" aria-label="Last">
+            <a href="{{ .Url }}" aria-label="Last">
                 <span aria-hidden="true">&raquo;&raquo;</span>
             </a>
         </li>
