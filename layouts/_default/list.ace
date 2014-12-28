@@ -2,6 +2,12 @@
 html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
   head
     = include partials/head.html .
+    {{ if .Data.Paginator.HasNext }}
+    link rel="next" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Next.Url }}"
+    {{ end }}
+    {{ if .Data.Paginator.HasPrev }}
+    link rel="prev" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Prev.Url }}"
+    {{ end }}
   body.layout-reverse
     = include partials/menu.html .
     .content.container
