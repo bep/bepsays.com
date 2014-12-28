@@ -3,29 +3,21 @@
         {{ $pag := .Data.Paginator }}
         {{ with $pag.First }}
         <li>
-            <a href="{{ .Url }}" aria-label="First">
-                <span aria-hidden="true">&laquo;&laquo;</span>
-             </a>
+            <a href="{{ .Url }}" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
         </li>
         {{ end }}
         <li {{ if not $pag.HasPrev }}class="disabled"{{ end }}>
-            <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.Url }}{{ end }}" aria-label="Previous">
-                <span aria-hidden="true">&laquo;</span>
-            </a>
+            <a href="{{ if $pag.HasPrev }}{{ $pag.Prev.Url }}{{ end }}" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
         </li>
         {{ range $pag.Paginated }}
         <li {{ if eq . $pag }}class="active"{{ end }}><a href="{{ .Url }}">{{ .PageNumber }}</a></li>
         {{ end }}
         <li {{ if not $pag.HasNext }}class="disabled"{{ end }}>
-        <a href="{{ if $pag.HasNext }}{{ $pag.Next.Url }}{{ end }}" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
-        </a>
+            <a href="{{ if $pag.HasNext }}{{ $pag.Next.Url }}{{ end }}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
         </li>
         {{ with $pag.Last }}
         <li>
-            <a href="{{ .Url }}" aria-label="Last">
-                <span aria-hidden="true">&raquo;&raquo;</span>
-            </a>
+            <a href="{{ .Url }}" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
         </li>
         {{ end }}
     </ul>
