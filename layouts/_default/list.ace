@@ -16,7 +16,7 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
         {{ range .Data.Paginator.Pages }}
         p
           a href={{.Permalink}} {{.LinkTitle}}
-          span.bs-date – {{.Date.Format "Jan 02, 2006"}}
+          span.bs-date &nbsp;– {{.Date.Format "Jan 02, 2006"}}
         {{ end }}
         = include partials/pagination.html .
       = include partials/hello-simple.html .
