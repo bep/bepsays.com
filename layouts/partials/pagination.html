@@ -1,6 +1,7 @@
+{{ $pag := .Data.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
 <nav class="pagination">
     <ul class="pagination">
-        {{ $pag := .Data.Paginator }}
         {{ with $pag.First }}
         <li>
             <a href="{{ .Url }}" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
@@ -25,3 +26,4 @@
         page {{ $pag.PageNumber }} of {{ $pag.TotalPages }} ({{ $pag.TotalNumberOfElements }} elements)
     </div>
 </nav>
+{{ end }}
