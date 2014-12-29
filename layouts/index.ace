@@ -22,6 +22,6 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
             li
               a href={{ .Page.RelPermalink }} {{ .Page.Title }} <small>(ca. {{ .Page.FuzzyWordCount }} ord)</small>
             {{ end }}
-      = include partials/hello.html .
+      = include partials/hello-simple.html .
     = include partials/footer.html .
 

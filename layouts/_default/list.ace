@@ -19,7 +19,7 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
           span.bs-date – {{.Date.Format "Jan 02, 2006"}}
         {{ end }}
         = include partials/pagination.html .
-      = include partials/hello.html .
+      = include partials/hello-simple.html .
     = include partials/footer.html .
 
 
