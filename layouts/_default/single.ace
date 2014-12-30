@@ -10,5 +10,5 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
         {{ .Content }}
         = include partials/gallery.html .
         = include partials/share.html .
-      = include partials/post-more.html .
+        = include partials/post-more.html .
     = include partials/footer.html .
