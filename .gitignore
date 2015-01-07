@@ -14,5 +14,6 @@ layouts/partials/head.html
 layouts/partials/gitinfo.html
 script/pickled_dict
 /static/**/.thumbnails
+pickled_dict
 
 .awspublish-bepsays.com
