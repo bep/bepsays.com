@@ -64,7 +64,7 @@ I got confused really fast shopping for Nikes online. So I measured my foot. It 
 
 {{< img src="/assets/img/2015/nike/mynikes-brand.jpg" class="small" caption="So my new Nikes is not 27.5 cm?">}}
 
-Marcus from Nike was spot on here. But how he decuced this answer is a puzzle, because nothing but the US size makes any sense.
+Marcus from Nike was spot on here. But how he deduced this answer is a puzzle, because nothing but the US size makes any sense.
  
  I eventually bought my 10.5 sized Nikes, and they fit like a glove.  But it does state in bold print that they are 28,5 centimeters. And that sounds fishy knowing what I now know.
 
