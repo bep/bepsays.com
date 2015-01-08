@@ -34,14 +34,40 @@ Well, they are comfy. But I did need something else. But going online for Nikes 
 ## The bay of confusion
 As soon as you type in "Nike" in the search engines of the ebay, you get confusing results of "Nike shoes is always a little small" and "the Nikes fits as advertised".
 
-The two sizin charts below is what Nike presents to the EU (first screen shot) and the US market.
+The three size charts below is, in that order, what Nike presents to the EU (first screen shot) and the US market and then the most common Nike size chart found on Ebay.
 
-{{< img src="/assets/img/2015/nike/nike-en-us.png" caption="Nike US size chart">}}
 {{< img src="/assets/img/2015/nike/nike-en-eu.png" caption="Nike EU size chart">}}
+{{< img src="/assets/img/2015/nike/nike-en-us.png" caption="Nike US size chart">}}
+{{< img src="/assets/img/2015/nike/nike-ebay.jpg" caption="Nike Ebay size chart">}}
 
-I do not live in neither, but Norway has agreed to the EØS agreement, so lets stick with EU, for this argument's sake.
+I do not live in the US or the EU, but Norway has agreed to the EØS agreement, so lets stick with EU, for this argument's sake.
 
-So, the leason learned for me is that I now know a lot about shoe sizes and a lot about my own shoe size. But I know nothing about how that knowledge compares to Nike's reality. So that brand will have to be off-line.
+## The facts
+
+{{< img src="/assets/img/2015/nike/myfoot.jpg" class="small" caption="My Foot: 27,5 cm">}}
+
+I got confused really fast shopping for Nikes online. So I measured my foot. It was, not surprisingly, 27,5 centimetres.
+
+
+>I would recommened for your feet length to order your shoes in.
+
+>EU 44.5
+>US 10.5
+ 
+>Please let me know if I can assist further.
+ 
+>Regards
+ 
+>Marcus
+>Nike.com Customer Service
+
+{{< img src="/assets/img/2015/nike/mynikes-brand.jpg" class="small" caption="So my new Nikes is not 27.5 cm?">}}
+
+Marcus from Nike was spot on here. But how he decuced this answer is a puzzle. I eventually bought my 10.5 sized Nikes, and they fit like a glove.  But it does state in bold print that they are 28,5 centimetres. And that sounds fishy knowing what I now know.
+
+>It's always more accurate to convert your size using the centimeters in the size chart. <cite>Some Ebay Nike seller</cite>
+
+So, the lesson learned for me is that I now know a lot about shoe sizes and a lot about my own shoe size. But I know nothing about how that knowledge compares to Nike's reality. So that brand will have to be off-line.
 
 So Nike, if you read this and want to respond: Please send me an email to bjorn.erik.pedersen at gmail.com. I'm intrigued by this puzzling stupidity.
 
