@@ -48,8 +48,7 @@ I do not live in the US or the EU, but Norway has agreed to the EØS agreement, 
 
 {{< img src="/assets/img/2015/nike/myfoot.jpg" class="small" caption="My Foot: 27,5 cm">}}
 
-I got confused really fast shopping for Nikes online. So I measured my foot. It is 27,5 centimetres.
-
+I got confused really fast shopping for Nikes online. So I measured my foot. It is 27,5 centimetres. And that tranlsates mostly into 10,5 US and 43,5 EU. Mostly. Not in the Nike world.
 
 >I would recommened for your feet length to order your shoes in.
 
