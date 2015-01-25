@@ -159,12 +159,24 @@ pre {
   figcaption {
     margin-top: 0rem;
   }
+}
 
+.bs-center-container(@width: 100%) {
+  width: @width;
+  display: block;
+  margin: 0 auto;
 }
 
 /* ==========================================================================
    Section / Element styles
    ========================================================================== */
+
+nav.pagination {
+  .bs-center-container();
+  .summary {
+    font-size: 0.8rem;
+  }
+}
 
 .main.posts {
 
@@ -186,7 +198,7 @@ pre {
   }
 
   figure {
-   // .bs-figure-small-right();
+    // .bs-figure-small-right();
   }
 
   .btn {
@@ -390,10 +402,8 @@ pre {
 }
 
 .post-more-container {
-  float: right;
-  padding-right: 1.4rem;
-  margin-top: @bs-margin-med;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
+  padding-top: @bs-margin-med;
   .post-more {
     
   }
@@ -491,15 +501,13 @@ pre {
 
 // Social ...
 
-.bs-share {
+#bs-share-container {
   margin-top: @bs-margin-large;
-  float: right;
-  //margin: 0 auto;
-
-  ul {
-    width: 100%;
-
+  width: 100%;
+  .bs-share {
+    .bs-center-container(370px);
   }
+
 
   .cf:after {
     visibility: hidden;

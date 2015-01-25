@@ -35,6 +35,11 @@ gulp.task('clean-dist', function () {
         .pipe(plugins.clean());
 });
 
+gulp.task('clean-dev', function () {
+    return gulp.src(["dist"], {read: false})
+        .pipe(plugins.clean());
+});
+
 /* There may be more elegant ways to do this, but we need to work with unversioned resources with Hugo's livereload running. */
 gulp.task('copy', [], function () {
     return copyPartials();
@@ -124,10 +129,12 @@ gulp.task('deploy', ['aws-publish'], function () {
 });
 
 
-gulp.task('watch', ['copy', 'gitinfo', 'less', 'scripts'], function () {
+gulp.task('watch', ['clean-dev', 'copy', 'gitinfo', 'less', 'scripts'], function () {
     gulp.watch('assets/less/*.less', ['less']);
     gulp.watch('assets/js/**/*.js', ['scripts']);
 });
 
+
+
 /* This is all we need for dev. */
-gulp.task('default', ['watch']);
+gulp.task('default', ['clean-dist', 'watch']);

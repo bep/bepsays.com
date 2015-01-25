@@ -2,17 +2,24 @@
 html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
   head
     = include partials/head.html .
+    {{ if .Data.Paginator.HasNext }}
+    link rel="next" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Next.Url }}"
+    {{ end }}
+    {{ if .Data.Paginator.HasPrev }}
+    link rel="prev" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Prev.Url }}"
+    {{ end }}
   body.layout-reverse
     = include partials/menu.html .
     .content.container
       .main.list
         h1.post-title {{ .Title  }}
-        {{ range .Data.Pages }}
+        {{ range .Data.Paginator.Pages }}
         p
           a href={{.Permalink}} {{.LinkTitle}}
-          span.bs-date – {{.Date.Format "Jan 02, 2006"}}
+          span.bs-date &nbsp;– {{.Date.Format "Jan 02, 2006"}}
         {{ end }}
-      = include partials/hello.html .
+        = include partials/pagination.html .
+      = include partials/hello-simple.html .
     = include partials/footer.html .
 
 
