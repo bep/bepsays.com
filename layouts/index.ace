@@ -18,10 +18,13 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
         .front-read-more
           h1 Sjå òg
           ul
-            {{ range .Site.Taxonomies.tags.asterisk }}
+            {{ $indexNode := . }}
+            {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+            {{/* range .Paginator.Pages */}}
             li
-              a href={{ .Page.RelPermalink }} {{ .Page.Title }} <small>(ca. {{ .Page.FuzzyWordCount }} ord)</small>
+              a href={{ .RelPermalink }} {{ .Title }} <small>(ca. {{ .FuzzyWordCount }} ord)</small>
             {{ end }}
+             = include partials/pagination.html .
       = include partials/hello-simple.html .
     = include partials/footer.html .
 

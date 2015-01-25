@@ -2,18 +2,18 @@
 html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
   head
     = include partials/head.html .
-    {{ if .Data.Paginator.HasNext }}
-    link rel="next" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Next.Url }}"
+    {{ if .Paginator.HasNext }}
+    link rel="next" href="{{ .Site.BaseUrl }}{{ .Paginator.Next.Url }}"
     {{ end }}
-    {{ if .Data.Paginator.HasPrev }}
-    link rel="prev" href="{{ .Site.BaseUrl }}{{ .Data.Paginator.Prev.Url }}"
+    {{ if .Paginator.HasPrev }}
+    link rel="prev" href="{{ .Site.BaseUrl }}{{ .Paginator.Prev.Url }}"
     {{ end }}
   body.layout-reverse
     = include partials/menu.html .
     .content.container
       .main.list
         h1.post-title {{ .Title  }}
-        {{ range .Data.Paginator.Pages }}
+        {{ range .Paginator.Pages }}
         p
           a href={{.Permalink}} {{.LinkTitle}}
           span.bs-date &nbsp;– {{.Date.Format "Jan 02, 2006"}}
