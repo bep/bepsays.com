@@ -18,8 +18,9 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
         .front-read-more
           h1 Sjå òg
           ul
-            {{ $indexNode := . }}
-            {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+            {{ $node := . }}
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+            {{ range $paginator.Pages }}
             {{/* range .Paginator.Pages */}}
             li
               a href={{ .RelPermalink }} {{ .Title }} <small>(ca. {{ .FuzzyWordCount }} ord)</small>

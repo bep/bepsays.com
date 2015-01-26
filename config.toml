@@ -6,7 +6,6 @@ NewContentEditor = "/opt/extras.ubuntu.com/uberwriter/bin/uberwriter"
 PygmentsStyle = "trac"
 CanonifyUrls = "true"
 PluralizeListTitles = "false"
-Paginate = 10
 PaginatePath = "side"
 
 [blackfriday]
