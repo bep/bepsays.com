@@ -11,20 +11,23 @@
 @bs-font-size-base: 17px;
 @bs-font-size-large: ceil((@bs-font-size-base * 1.25));
 @bs-font-size-small: ceil((@bs-font-size-base * 0.85));
-@bs-font-size-title: 3.6rem;
+@bs-font-size-title: 2.8rem;
 
 @bs-line-height-base: 1.5;
 
-@bs-font-family-serif: "ff-meta-serif-web-pro", Georgia, serif;
-@bs-font-family-sans: "ff-meta-web-pro-condensed", sans-serif;
+@bs-font-family-serif: "ff-tisa-web-pro", Georgia, serif;
+@bs-font-family-sans: "proxima-nova-alt-condensed", sans-serif;
 
 @bs-font-family-title: @bs-font-family-sans;
 @bs-font-family-quotes: @bs-font-family-serif;
 @bs-font-family-base: @bs-font-family-serif;
-@bs-font-weight-base: 500;
+
+@bs-font-weight-base: 400;
 @bs-font-weight-bold: 700;
-@bs-font-weight-title: 800;
-@bs-font-weight-light: 500;
+@bs-font-weight-title: 700;
+@bs-font-weight-light: 400;
+
+
 
 // margins
 @bs-margin-xlarge: 2.6rem;
@@ -41,7 +44,7 @@
 @brand-primary: lighten(@bs-color-text, 20%);
 
 // will be toggled by script
-@import "variants/bs-variant-one.less";
+@import "variants/bs-variant-two.less";
 
 /* ==========================================================================
    Base
@@ -379,7 +382,9 @@ nav.pagination {
 .masthead-title {
 
   font-size: 1.5rem;
-  font-family: @bs-font-family-title;
+  font-family: @bs-font-family-base;
+  font-weight: @bs-font-weight-bold;
+  letter-spacing: -2px;
   .first {
     color: lighten(black, 30%);
   }
@@ -420,8 +425,8 @@ nav.pagination {
 
 .btn {
   text-transform: uppercase;
-  font-weight: @bs-font-weight-bold;
-  font-family: @bs-font-family-base;
+  font-weight: @bs-font-weight-title;
+  font-family: @bs-font-family-title;
 }
 
 .bs-btn-variant(@color; @background) {

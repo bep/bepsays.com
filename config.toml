@@ -7,7 +7,7 @@ PygmentsStyle = "trac"
 CanonifyUrls = "true"
 PluralizeListTitles = "false"
 PaginatePath = "side"
-
+Paginate = 11
 [blackfriday]
 angledQuotes = true
 

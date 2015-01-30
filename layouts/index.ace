@@ -6,7 +6,7 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
     = include partials/menu.html .
     .content.container
       .main.posts
-        {{ range first 1 (where .Data.Pages "Type" "post") }}
+        {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
         .post
           h1.post-title
             a href={{ .RelPermalink }} {{ .Title }}
@@ -14,18 +14,7 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
           .read-more
             a.btn.btn-lg.bs-btn-info href={{ .RelPermalink }} Hald fram →
         {{ end }}
-        hr
-        .front-read-more
-          h1 Sjå òg
-          ul
-            {{ $node := . }}
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-            {{ range $paginator.Pages }}
-            {{/* range .Paginator.Pages */}}
-            li
-              a href={{ .RelPermalink }} {{ .Title }} <small>(ca. {{ .FuzzyWordCount }} ord)</small>
-            {{ end }}
-             = include partials/pagination.html .
+        = include partials/pagination.html .
       = include partials/hello-simple.html .
     = include partials/footer.html .
 
