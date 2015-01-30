@@ -6,6 +6,9 @@ draft: false
 tags:
 - Sogndal
 title: Drøft i veg, men bygg ei gangbru no!
+title_main: |
+            Drøft i veg, men  
+            bygg ei gangbru no!
 slug: bygg-gangbru
 images:
 - /assets/img/2014/pano-sogndal.jpg

@@ -7,6 +7,9 @@ tags:
 - Telenor
 - Asterisk
 title: "Telenor til dame (72): «Det er berre å trekke ut ein leidning»"
+title_main: |
+            Telenor til dame (72):  
+            «Det er berre å trekke ut ein leidning»
 slug: det-er-enkelt-seier-telenor
 ---
 **Telenor sel breidbandsoppgraderingar til eldre med lovnad om at "det installerer seg sjølv."**

@@ -2,6 +2,9 @@
 date: 2012-10-19 17:30:19+00:00
 slug: kioskveltarfabrikken-i-forde
 title: Kioskveltarfabrikken i Førde
+title_main: |
+            Kioskveltarfabrikken  
+            **i Førde**
 tags: 
 - Asterisk
 categories:

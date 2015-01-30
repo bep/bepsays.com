@@ -20,34 +20,13 @@ Men start likevel med den aller første: _The Color of Law_ er ein strålande li
 
 Romanane i kronologisk rekkefølgje:
 
-
-
-	
-  1. The Color of Law (2005)
-
-	
-  2. 
-
-
-The Abduction (eller Saving Grace) (2007)
-
-
-	
-  3. The Perk (2008)
-
-	
-  4. The Common Lawyer (2009)
-
-	
-  5. Accused (2010)
-
-	
-  6. Con Law: John Bookman 1 (2013)
-
-	
-  7. The Governor's Wife (2013)
-
-	
-  8. The case against William (2014)
+1. The Color of Law (2005)
+2. The Abduction (eller Saving Grace) (2007)
+3. The Perk (2008)
+4. The Common Lawyer (2009)
+5. Accused (2010)
+6. Con Law: John Bookman 1 (2013)
+7. The Governor's Wife (2013)
+8. The case against William (2014)
 
 

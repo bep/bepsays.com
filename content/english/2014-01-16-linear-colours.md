@@ -2,6 +2,9 @@
 date: 2014-01-16 13:11:45+00:00
 slug: linear-colours
 title: Linear colour scheme with LESS
+title_main: |
+            Linear colour scheme  
+            **with LESS**
 categories:
 - English
 - Teknologi

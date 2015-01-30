@@ -2,6 +2,9 @@
 date: 2014-08-29 16:52:25+00:00
 slug: the-shoe-shiners-of-open-source
 title: The shoeshiners of open source
+title_main: |
+            The shoeshiners  
+            of open source
 categories:
 - English
 - Teknologi

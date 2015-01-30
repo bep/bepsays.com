@@ -8,6 +8,10 @@ tags:
 - Olav Stedje
 - Ragnar Hovland
 title: Olav Stedje, Ragnar Hovland og meg
+title_main: |
+            Olav Stedje,  
+            Ragnar Hovland  
+            og meg
 slug: stedje-hovland-og-meg
 ---
 

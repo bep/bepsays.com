@@ -9,7 +9,7 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
         {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
         .post
           h1.post-title
-            a href={{ .RelPermalink }} {{ .Title }}
+            a href={{ .RelPermalink }} {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
           .post-summary {{ .Summary }}
           .read-more
             a.btn.btn-lg.bs-btn-info href={{ .RelPermalink }} Hald fram →
