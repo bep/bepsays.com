@@ -69,6 +69,7 @@ gulp.task('hugo', function (cb) {
 
 gulp.task('html-clean', function() {
     gulp.src('./dist/**/*.html')
+        .pipe(plugins.uglifyInline())
         .pipe(cleanhtml())
         .pipe(gulp.dest('./dist/'))
 });
