@@ -6,6 +6,7 @@
     "gulp-awspublish": "0.0.23",
     "gulp-awspublish-router": "^0.1.0",
     "gulp-clean": "^0.3.1",
+    "gulp-cleanhtml": "^0.1.0",
     "gulp-concat": "^2.4.1",
     "gulp-gitinfo": "0.0.5",
     "gulp-less": "^1.3.6",
@@ -14,6 +15,7 @@
     "gulp-rev-all": "^0.7.1",
     "gulp-run": "^1.6.4",
     "gulp-uglify": "^1.0.1",
-    "gulp-util": "^3.0.1"
+    "gulp-util": "^3.0.1",
+    "run-sequence": "^1.0.2"
   }
 }

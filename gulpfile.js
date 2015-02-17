@@ -3,6 +3,8 @@ var es   = require('event-stream');
 var fs = require('fs');
 var path = require('path');
 var parallelize = require("concurrent-transform");
+var runSequence = require('run-sequence');
+var cleanhtml = require('gulp-cleanhtml');
 var plugins = require('gulp-load-plugins')();
 
 function copyPartials() {
@@ -54,9 +56,21 @@ gulp.task('build-static', ['clean-static', 'less', 'scripts', 'copy'], function 
         .pipe(gulp.dest('static'))
 });
 
-gulp.task('build', ['gitinfo', 'build-static', 'clean-dist'], function (cb) {
+
+gulp.task('build', function (callback) {
+    runSequence( ['gitinfo', 'build-static', 'clean-dist'], 'hugo', 'html-clean', callback)
+});
+
+
+gulp.task('hugo', function (cb) {
     plugins.run('hugo --source=. --destination=dist').exec(cb);
 
+});
+
+gulp.task('html-clean', function() {
+    gulp.src('./dist/**/*.html')
+        .pipe(cleanhtml())
+        .pipe(gulp.dest('./dist/'))
 });
 
 gulp.task('gitinfo', function(cb) {
