@@ -64,7 +64,6 @@ gulp.task('build', function (callback) {
 
 gulp.task('hugo', function (cb) {
     plugins.run('hugo --source=. --destination=dist').exec(cb);
-
 });
 
 gulp.task('html-clean', function() {
