@@ -10,7 +10,7 @@ images:
 - /assets/img/2014/Golang.png
 ---
 
-**Go, også kjent som Golang, er eit programmeringsspråk laga for fart. Men av og til set det på bremsen, og då _kan_ du ta turen ut i usikkert terreng.**
+**Go, eller Golang, er programmeringsspråka sin Ferrari. Men også her finst det ein brems, og då _kan_ du ta turen ut i usikkert terreng.**
 
 Eg skriv _kan_ -- dette er ikkje eit råd. Dette er meir eit døme på dei mange fine krinkelkrokane som finst i _Go_-landskapet.
 
@@ -34,7 +34,7 @@ func UnsafeBytesToString(b []byte) string {
 }
 {{< / highlight >}}
 
-Begge to tek eit byte-array, `[]byte`, og gir ein `string` i retur. No gir eg ingen garanti for at den usikre varianten virkar i alle _Go_-kompilatorane -- og eg skal prøve å forklare skilnaden seinare, sjølv om det kjennest tungt på nynorsk. Men først det mest interessante; farten og minnebruken:
+Begge tek ein byte-tabell, `[]byte`, og gir ein `string` i retur. No gir eg ingen garanti for at den usikre varianten virkar i alle _Go_-kompilatorane -- og eg skal prøve å forklare skilnaden seinare, sjølv om det kjennest tungt å formulere på nynorsk. Men først det mest interessante; farten og minnebruken:
 
 _Go_ kjem med ei svært kraftig verktøykasse, som inneheld verktøy for profilering og måling av fart.
 
@@ -72,15 +72,15 @@ Om ein så køyrer desse:
 BenchmarkSafeBytesToString   175 ns/op	  48 B/op   1 allocs/op
 BenchmarkUnsafeBytesToString 1.70 ns/op	  0 B/op    0 allocs/op
 ```
-Den sikre varianten tek altså 175 nanosekund for kvar strengekonvertering, medan den usikre er knapt målbar med sine 1.70 nanosekund.
+Den sikre varianten tek 175 nanosekund for kvar strengekonvertering, medan den usikre er knapt målbar med sine 1.70 nanosekund.
 
-**Men det mest interessante her er kanskje at den usikre varianten ikkje har forbruk av minne.**
+**Men det mest interessante her er nullane i den usikre varianten. Null i minneforbruk.**
 
 ## Søppeltømming
 
-Dette er minne som må frigjerast etter bruk. _Go_ er -- slik til dømes også Java er det -- utstyrt med ein Garbage Collector (GC), eller søppeltømmar. Denne køyrer ved behov, og om det blir produsert nok søppel, kan det kjennast ut som om programmet stoggar opp ved kvar søppelhenting. 
+Dette er minne som må frigjerast etter bruk. _Go_ er -- slik til dømes også Java er det -- utstyrt med ein _Garbage Collector (GC)_, eller søppeltømmar. Denne køyrer ved behov, og om det blir produsert nok søppel, kan det kjennast ut som om programmet stoggar opp ved kvar søppelhenting. 
 
-Dette er sjølvsagt ikkje heldig, og er nok grunnen til at _Go_ ikkje har festa rot hjå spelutviklarane.
+Dette er nok grunnen til at _Go_ ikkje har slege rot hjå spelutviklarane. I dei fleste andre samanhengar er dette mest av det gode.
 
 Men det finst måtar å redusere behovet for søppelhenting. Ein kan la vere å produsere søppel, eller ein kan drive med gjenbruk.
 
@@ -90,9 +90,9 @@ Men om ein skal drive gjenbruk må ein anten vere heilt sikker på at det ein te
 
 Ein `string` i _Go_ er _immutable_, som er eit fint, engelsk ord for at han er uomskifteleg -- han kjem ikkje til å endre seg. Skal du endre ein `string` må du lage ein ny. Originalen er som før. 
 
-Om me vender attende til dei to funksjonane me starta med; kva skjer om det opphavlege byte-arrayet endrar seg _etter_ at me har gjort det om til ein `string`?
+Om me vender attende til dei to funksjonane me starta med; kva skjer om den opphavlege byte-tabellen endrar seg _etter_ at me har gjort han om til ein `string`?
 
-Gitt dei to testane under. Eg kan røpe at dei begge køyrer med grønt lys.
+Sjå på dei to testane under. Eg kan røpe at dei begge køyrer med grønt lys.
 
 {{< highlight go >}}
 var testString = "The quick brown fox jumps over the lazy dog."
@@ -129,7 +129,7 @@ func TestUnsafeBytesToString(t *testing.T) {
 }
 {{< / highlight >}}
 
-Dei ser nesten like ut, utanom det forventa resultatet mot slutten. I den usikre varianten så har har strengen endra seg i takt med det opphavlege byte-arrayet.
+Dei ser nesten like ut, utanom det forventa resultatet mot slutten. I den usikre varianten har har strengen endra seg i takt med den opphavlege byte-tabellen.
 
 Dette kan vere ønskjeleg, men om ein får desse strengane frå andre, t.d. som innargument i ein funksjon, er det lett for at greina blir saga i to under deg utan at du høyrer saga.
 
@@ -139,7 +139,7 @@ Dette kan vere ønskjeleg, men om ein får desse strengane frå andre, t.d. som 
 
 No er kanskje ikkje dette den mest matnyttige kunnskapen. Ein kjem ofte nok opp i situasjonar der ein har ein `[]byte` og treng ein `string`, men ein har det kanskje ikkje så travelt med å få det gjort, og minne er det nok av. Men ettersom `string` er ein slags berre-les-versjon av `[]byte`, kan ein jo spørje seg kvifor smartingane i Google ikkje valde i slå dei samen. `strings`- og `bytes`-pakken er full av funksjonar og metodar som ser nesten like ut, og utan generiske typar blir det mykje kodeduplisering.
 
-No har `strings`-pakken noko som ikkje finst i spegelpakken, som t.d. den lynraske `strings.Replacer`. Som namnet fortel, er denne til for å erstatte deltekstar i ein større tekst. I Google kan dei tekstsøk, og denne er rask. Eg har sjølv  [etterlyst](https://github.com/golang/go/issues/9905) ein `bytes`-versjon, men i mellomtida er det `strings`-pakken som er gjeldande.
+No har `strings`-pakken noko som ikkje finst i spegelpakken, som t.d. den lynraske `strings.Replacer`. Som namnet fortel, er denne til for å erstatte deltekstar i ein større tekst. I Google _kan_ dei tekstsøk, og denne er rask. Eg har sjølv  [etterlyst](https://github.com/golang/go/issues/9905) ein `bytes`-versjon, men i mellomtida er det `strings`-pakken som er gjeldande.
 
 Men om utgangspunktet er `[]byte` går vinninga lett opp i spinninga om du først må kopiere over i ein `string`:
 
@@ -205,7 +205,7 @@ Dømet over syner også fram to andre finurlege eigenskapar ved _Go_: Grensesnit
 * `replacer.WriteString` tek ein `io.Writer`, men internt blir det oppgradert til eit `stringWriterIface` om også  `WriteString(s string)` er implementert.
 * `appendSliceWriter.WriteString(s string)` utnyttar eit spesialtilfelle i _Go_:
 
-Gitt dei to referansemålingane under:
+For dei to referansemålingane under:
 
 {{< highlight go >}}
 func BenchmarkAppendString(b *testing.B) {
@@ -231,16 +231,16 @@ func BenchmarkAppendByteString(b *testing.B) {
 }
 {{< / highlight >}}
 
-Og her er kanskje resultatet overraskande:
+Her er kanskje resultatet overraskande:
 
 ```
 BenchmarkAppendString	  9.49 ns/op 0 B/op 0 allocs/op
 BenchmarkAppendByteString 107 ns/op  8 B/op 1 allocs/op
 ```
 
-Men denne konstruksjonen har folka bak _Go_ tenkt, at denne er så vanleg, at denne lagar me ekstra rask.
+Men denne konstruksjonen har folka bak _Go_ tenkt at denne, ja denne er så vanleg, at denne får spesialhandsaming.
 
-No finst både `bytes.Replace` og `strings.Replace`:
+No finst også både enkelterstatningsfunksjonane `bytes.Replace` og `strings.Replace`:
 
 {{< highlight go >}}
 func BenchmarkMultipleBytesReplace(b *testing.B) {
