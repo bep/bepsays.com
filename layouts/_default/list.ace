@@ -3,10 +3,10 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
   head
     = include partials/head.html .
     {{ if .Paginator.HasNext }}
-    link rel="next" href="{{ .Site.BaseUrl }}{{ .Paginator.Next.Url }}"
+    link rel="next" href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}"
     {{ end }}
     {{ if .Paginator.HasPrev }}
-    link rel="prev" href="{{ .Site.BaseUrl }}{{ .Paginator.Prev.Url }}"
+    link rel="prev" href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}"
     {{ end }}
   body.layout-reverse
     = include partials/menu.html .

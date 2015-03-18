@@ -11,12 +11,12 @@ input#sidebar-checkbox.sidebar-checkbox type="checkbox"
     nav.sidebar-nav
       a.sidebar-nav-item href=/ Heim
       {{ $currentNode := . }}
-      {{ $currentUrl := .Url }}
+      {{ $currentUrl := .URL }}
       {{ range .Site.Menus.main }}
-      a class="sidebar-nav-item{{if $currentNode.IsMenuCurrent "main" . }} active{{end}}" href={{.Url}} {{ .Name }}
+      a class="sidebar-nav-item{{if $currentNode.IsMenuCurrent "main" . }} active{{end}}" href={{.URL}} {{ .Name }}
       {{ end }}
 
-      {{ range $name, $taxonomy := .Site.Indexes.categories }}
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
       {{ $currentCategoryUrl := $name | printf "%s%s" "/categories/" | printf "%s/" }}
       a class="sidebar-nav-item{{if eq $currentUrl $currentCategoryUrl}} active{{end}}" href=/categories/{{ $name | lower | urlize }} {{ $name | lower }}
       {{ end }}
