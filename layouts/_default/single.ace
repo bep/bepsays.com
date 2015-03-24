@@ -1,14 +1,6 @@
-= doctype html
-html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
-  head
-    = include partials/head.html .
-  body.layout-reverse
-    = include partials/menu.html .
-    .content.container
-      .main.post
-        h1.post-title {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
-        {{ .Content }}
-        = include partials/gallery.html .
-        = include partials/share.html .
-        = include partials/post-more.html .
-    = include partials/footer.html .
+= content main
+  .main.post
+    h1.post-title {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
+    {{ .Content }}
+    = include partials/gallery.html .
+    = include partials/share.html .

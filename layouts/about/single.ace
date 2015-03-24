@@ -1,21 +1,15 @@
-= doctype html
-html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
-  head
-    = include partials/head.html .
-  body.layout-reverse
-    = include partials/menu.html .
-    .content.container
-      .main.post
-        {{ $lastPost := (index .Site.Pages 0) }}
-        {{ $firstPost := (index .Site.Pages (sub (len .Site.Pages) 1) ) }}
+= content main
+  .main.post
+    {{ $lastPost := (index .Site.Pages 0) }}
+    {{ $firstPost := (index .Site.Pages (sub (len .Site.Pages) 1) ) }}
 
-        h1.post-title {{ .Title  }}
-        {{ .Content }}
-        |
-          Nettstaden har no {{ len .Site.Pages }} sider i {{ len .Site.Taxonomies.categories }} kategoriar.
-          Den siste posten var <em><a href="{{ $lastPost.Permalink }}">{{$lastPost.Title }}</a></em> frå  {{ $lastPost.Date.Format "2.1.2006" }}, medan den aller fyrste
-          var <em><a href="{{ $firstPost.Permalink}}">{{$firstPost.Title }}</a></em> frå {{ $firstPost.Date.Format "2.1.2006" }}.
-          Innhaldet vart sist endra {{ .Site.LastChange.Format "2.1.2006 kl. 15:04" }}. Målforma er i all hovudsak nynorsk, med nokre <a href="/categories/english/">engelske innslag</a>. Om du leitar etter meir informasjonen om mannen bak, kan du gå til <a href="http://bep.is">bep.<em>is</em></a>.
-        = include partials/gitinfo.html .
-        = include partials/gallery.html .
-    = include partials/footer.html .
+    h1.post-title {{ .Title  }}
+    {{ .Content }}
+    |
+      Nettstaden har no {{ len .Site.Pages }} sider i {{ len .Site.Taxonomies.categories }} kategoriar.
+      Den siste posten var <em><a href="{{ $lastPost.Permalink }}">{{$lastPost.Title }}</a></em> frå  {{ $lastPost.Date.Format "2.1.2006" }}, medan den aller fyrste
+      var <em><a href="{{ $firstPost.Permalink}}">{{$firstPost.Title }}</a></em> frå {{ $firstPost.Date.Format "2.1.2006" }}.
+      Innhaldet vart sist endra {{ .Site.LastChange.Format "2.1.2006 kl. 15:04" }}. Målforma er i all hovudsak nynorsk, med nokre <a href="/categories/english/">engelske innslag</a>. Om du leitar etter meir informasjonen om mannen bak, kan du gå til <a href="http://bep.is">bep.<em>is</em></a>.
+    = include partials/gitinfo.html .
+    = include partials/gallery.html .
+

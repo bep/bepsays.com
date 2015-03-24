@@ -1,25 +1,11 @@
-= doctype html
-html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
-  head
-    = include partials/head.html .
-    {{ if .Paginator.HasNext }}
-    link rel="next" href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}"
+= content main
+  .main.list
+    h1.post-title {{ .Title  }}
+    {{ range .Paginator.Pages }}
+    p
+      a href={{.Permalink}} {{.LinkTitle}}
+      span.bs-date &nbsp;– {{.Date.Format "Jan 02, 2006"}}
     {{ end }}
-    {{ if .Paginator.HasPrev }}
-    link rel="prev" href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}"
-    {{ end }}
-  body.layout-reverse
-    = include partials/menu.html .
-    .content.container
-      .main.list
-        h1.post-title {{ .Title  }}
-        {{ range .Paginator.Pages }}
-        p
-          a href={{.Permalink}} {{.LinkTitle}}
-          span.bs-date &nbsp;– {{.Date.Format "Jan 02, 2006"}}
-        {{ end }}
-        = include partials/pagination.html .
-      = include partials/hello-simple.html .
-    = include partials/footer.html .
+  = include partials/pagination.html .
 
 

@@ -1,20 +1,12 @@
-= doctype html
-html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
-  head
-    = include partials/head.html .
-  body.layout-reverse
-    = include partials/menu.html .
-    .content.container
-      .main.posts
-        {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
-        .post
-          h1.post-title
-            a href={{ .RelPermalink }} {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
-          .post-summary {{ .Summary }}
-          .read-more
-            a.btn.btn-lg.bs-btn-info href={{ .RelPermalink }} Hald fram →
-        {{ end }}
-        = include partials/pagination.html .
-      = include partials/hello-simple.html .
-    = include partials/footer.html .
+= content main
+  .main.posts
+    {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
+    .post
+      h1.post-title
+        a href={{ .RelPermalink }} {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
+      .post-summary {{ .Summary }}
+      .read-more
+        a.btn.btn-lg.bs-btn-info href={{ .RelPermalink }} Hald fram →
+    {{ end }}
+    = include partials/pagination.html .
 
