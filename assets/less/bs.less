@@ -18,7 +18,6 @@
 @bs-font-family-serif: "ff-meta-serif-web-pro", Georgia, serif;
 @bs-font-family-sans: "jaf-bernina-sans-condensed", sans-serif;
 
-
 @bs-font-family-title: @bs-font-family-sans;
 @bs-font-family-quotes: @bs-font-family-serif;
 @bs-font-family-base: @bs-font-family-serif;
@@ -27,8 +26,6 @@
 @bs-font-weight-bold: 700;
 @bs-font-weight-title: 600;
 @bs-font-weight-light: 400;
-
-
 
 // margins
 @bs-margin-xlarge: 2.6rem;
@@ -100,10 +97,10 @@ h1 {
   text-align: center;
   line-height: 1;
   margin-bottom: @bs-margin-med;
-  
+
   strong {
     font-size: 3.5rem;
-    
+
   }
 }
 
@@ -470,11 +467,20 @@ nav.pagination {
   white-space: nowrap;
 }
 
-.dice {
-  .e5 {
-  background-color: #008000;
+.review {
+
+    .dice {
+      display: block;
+      position: relative;
+      width: 80px;
+      height: 80px;
+      background: url('/assets/img/dices.png') 0 0 no-repeat;
+    }
+    .e5 {
+      background-position: -330px 0;
+  }
 }
-}
+
 /* ==========================================================================
    Container
    ========================================================================== */
@@ -524,7 +530,6 @@ nav.pagination {
   .bs-share {
     .bs-center-container(370px);
   }
-
 
   .cf:after {
     visibility: hidden;

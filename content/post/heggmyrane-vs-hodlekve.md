@@ -14,11 +14,13 @@ slug: heggmyrane-best-i-sogn
 <!--more-->
 
 
-{{< dice eyes="5" >}}
+{{% dice title="Sogn skisenter, Hafslo" eyes="5" %}}
+* INN
+{{% /dice %}}
 
 Om du er ein hipster som leitar etter laussnøinformasjon bør du heller kjøpa det siste nummeret av "Fri flyt" eller "Pudder meg her, pudder meg der!" Dette er for dei som likar karvingsvingar i velpreparerte løyper.
 
-Og det var neppe tilfeldig at fjellsportgeneral Tor Yttri busette seg inne i Kvam i Sogndal, midt mellom to solide skisenter. "Ta til venstre, mot Heggmyrane? Eller til høgre mot Hodlekve?" er det evige dilemmaet han må ta stilling til der han står med bilnasen ut mot Riksveg 5 og peikefingeren på blinklysbrytaren.
+Og det var neppe tilfeldig at fjellsportgeneral Tor Yttri busette seg inne i Kvam i Sogndal, midt mellom to solide skisenter. "Ta til venstre, mot Heggmyrane? Eller til høgre mot Hodlekve?" Dette er det evige dilemmaet han må ta stilling til der han står med bilnasen ut mot Riksveg 5 og peikefingeren på blinklysbrytaren.
 
 Det valet er ikkje heilt enkelt, og svaret er vel at _det kjem litt an på kva du leitar etter._ Det beste svaret er vel, om du bur slik til, å ta éin dag der og éin dag her.
 
@@ -38,7 +40,7 @@ Men på Facebook annonserer Sogn skisenter med "køyr fredag til søndag, betal 
 
 Og det hadde dei. Men prisen var feil.
 
--- Eg skal ha eit weekendkort, sa eg til billettseljaren på Hafslo.
+-- Eg skal ha eit weekendkort, sa eg til billettseljaren på Hafslo. 
 
 -- Var det på Facebook du såg det? Prisen der var feil, det er endå billegare, 570 kroner.
 
@@ -51,6 +53,18 @@ Og det hadde dei. Men prisen var feil.
 ## Hodlekve, Sogndal
 
 ### Trekk og løyper
+
+Sogndal skisenter har fire heisar:
+
+Det er laurdag 21. mars. Det er blå himmel i Sogndalsdalen og tre-fire centimeter med nysnø. Dette bør vera gullnyhende for eit skisenter, det er nesten så ein høyrer bakkemannskapet:
+
+-- Øyh, nysnø no, tett oppunder april! Helge! Helge! Let's prepp and roll!
+
+Skjønt, ser ein på resultatet er vel denne meir realistisk:
+
+-- Nysnø! Hurkdl òg. Jaja. Helge? Åja, han Helge han har fri i dag. Me får ta det me rekk.
+
+
 
 ### Informasjon
 
