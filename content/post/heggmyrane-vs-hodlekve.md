@@ -24,9 +24,9 @@ Og det var neppe tilfeldig at fjellsportgeneral Tor Yttri busette seg inne i Kva
 
 Det valet er ikkje heilt enkelt, og svaret er vel at _det kjem litt an på kva du leitar etter._ Det beste svaret er vel, om du bur slik til, å ta éin dag der og éin dag her.
 
-## Heggmyrane, Hafslo
+## Heggmyrane, Hafslo {{< foo >}}
 
-### Trekk og løyper
+### Trekk og løyper {{% foo %}}
 
 
 >"Du har ikkje kjent på skapple' mjølkesyra før du har sigla ned Heggmyradn på nypreppa ski tolv gonger på éin time!"<cite>Høyrt av Hafslobygding</cite>
