@@ -8,4 +8,3 @@
     {{ end }}
   = include partials/pagination.html .
 
-
