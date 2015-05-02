@@ -34,7 +34,7 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}" />
 {{ with .Params.images }}{{ range first 6 . }}
-<meta property="og:image" content="http://bepsays.com{{ . }}" />
+<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}http://bepsays.com{{ . }}{{ end }}" />
 {{ end }}{{ end }}
 {{ if .IsPage }}
 <meta property="og:updated_time" content="{{ .Date }}"/>
@@ -42,7 +42,7 @@
 
 {{ with .Params.images }}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image:src" content="http://bepsays.com{{ index . 0 }}"/>
+<meta name="twitter:image:src" content="{{ if in . "http" }}{{ . }}{{ else }}http://bepsays.com{{ . }}{{ end }}"/>
 {{ else }}
 <meta name="twitter:card" content="summary"/>
 {{ end }}
