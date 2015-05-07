@@ -6,8 +6,8 @@
 /node_modules
 nohup.out
 *.iml
-/static/assets/css/bs.*
-/static/assets/js/bs.*
+/static/assets/css/main.*
+/static/assets/js/main.*
 
 layouts/partials/footer.html
 layouts/partials/head.html
