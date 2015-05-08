@@ -4,3 +4,4 @@
     {{ .Content }}
     = include partials/gallery.html .
     = include partials/share.html .
+    = include partials/post-more.html .
