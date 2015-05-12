@@ -4,6 +4,7 @@
 /dist
 /.idea
 /node_modules
+/bower_components
 nohup.out
 *.iml
 /static/assets/css/main.*

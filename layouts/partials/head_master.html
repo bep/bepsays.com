@@ -8,13 +8,14 @@
 
 <title> {{ .Title }} </title>
 
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css" data-instant-track>
 {{if isset .Params "gallery_id" }}
 <link href="/assets/css/nano/nanogallery.min.css" rel="stylesheet" type="text/css">
 {{ end }}
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 
-<script src="/assets/js/main.js"></script>
+<script src="/assets/js/main.js" data-instant-track></script>
+<script src="/assets/js/main-noinstant.js" data-no-instant></script>
 
 {{if isset .Params "gallery_id" }}
 <script src="/assets/js/vendor/jquery.nanogallery.min.js"></script>
