@@ -21,19 +21,20 @@
 
 {{ if not .Site.BuildDrafts }}
 <script>
-    $(function () {
-
+    InstantClick.on('receive', function() {
         Socialite.setup({
             facebook: {
                 lang: 'en_GB',
                 appId: 111055509053223
             }
         });
+
+        Socialite.process();
+        
         var el = $(".post p").slice(-3);
         if (!el.length) {
             el = $('#bs-share');
         }
-//        el.addClass("test");
         $(el).appear(function () {
             Socialite.load($('#bs-share'));
         });
