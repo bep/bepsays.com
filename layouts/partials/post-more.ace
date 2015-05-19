@@ -7,6 +7,6 @@ div.post-more-container
       a.btn.btn-lg.bs-btn-info href=/categories/{{ . | lower | urlize }} {{ . }}
       {{ end }}
   = include partials/series.html .
-  = include partials/hello.html .
+
 
 

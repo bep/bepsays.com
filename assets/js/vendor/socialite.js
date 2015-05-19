@@ -498,7 +498,7 @@ window.Socialite = (function(window, document, undefined)
 
     Socialite.network('facebook', {
         script: {
-            src : '//connect.facebook.net/{{language}}/all.js',
+            src : '//connect.facebook.net/{{language}}/sdk.js',
             id  : 'facebook-jssdk'
         },
         append: function(network)
@@ -512,7 +512,8 @@ window.Socialite = (function(window, document, undefined)
             window.fbAsyncInit = function() {
                 window.FB.init({
                       appId: settings.appId,
-                      xfbml: true
+                      xfbml: true,
+                      version: 'v2.2'
                 });
                 for (var e in events) {
                     if (typeof settings[e] === 'function') {
@@ -588,10 +589,11 @@ window.Socialite = (function(window, document, undefined)
         }
     };
 
-    Socialite.widget('twitter', 'share',   { init: twitterInit, activate: twitterActivate });
-    Socialite.widget('twitter', 'follow',  { init: twitterInit, activate: twitterActivate });
-    Socialite.widget('twitter', 'hashtag', { init: twitterInit, activate: twitterActivate });
-    Socialite.widget('twitter', 'mention', { init: twitterInit, activate: twitterActivate });
+    Socialite.widget('twitter', 'share',    { init: twitterInit, activate: twitterActivate });
+    Socialite.widget('twitter', 'follow',   { init: twitterInit, activate: twitterActivate });
+    Socialite.widget('twitter', 'hashtag',  { init: twitterInit, activate: twitterActivate });
+    Socialite.widget('twitter', 'mention',  { init: twitterInit, activate: twitterActivate });
+    Socialite.widget('twitter', 'timeline', { init: twitterInit, activate: twitterActivate });
 
     Socialite.widget('twitter', 'embed', {
         process: function(instance)
