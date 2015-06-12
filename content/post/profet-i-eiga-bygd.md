@@ -4,19 +4,20 @@ categories:
 date: 2015-05-30T17:17:16+02:00
 tags:
 - Eirik Bakke
+- Sogndal fotball
 title: Eirik er trygg i eiga bygd
 slug: eirik-profet-i-eiga-bygd
 images:
 - /assets/img/2015/BA_forsiden_Norling.jpg
 ---
 
-**Erik Bakke blir ikkje sendt heim på første fly heim frå trenarjobben i Sogndal.**
+**Eirik Bakke blir ikkje sendt heim på første fly frå trenarjobben i Sogndal.**
+
+No er det ikkje særleg praktisk å køyra fly frå Fosshaugane ned i Sogndalsfjøra, heller, men framsida i Bergensavisen med Rikard Norling sine rutetider til Stockholm er Brann og Bergen.
 
 <!--more-->
 
 {{< img src="/assets/img/2015/BA_forsiden_Norling.jpg" class="small" caption="Framsida til Bergensavisen, 28. mai 2015." >}}
-
-No er det ikkje særleg praktisk å køyra fly frå Fosshaugane ned i Sogndalsfjøra, heller, men framsida i Bergenavisen med Rikard Norling sine rutetider til Stockholm er Brann og Bergen.
 
 Eg intervjua Eirik etter siste bortekampen før han reiste til Leeds. Det var på Lerkendal, Sogndal tapte mot topplaget Rosenborg. Han tok seg god tid, svarte høfleg på den karakteristiske, smålåtne måten.
 
