@@ -23,4 +23,4 @@ Harald Aabrekk trente Sogndal i 1990-92. I 90 møtte dei Eik i cupen. Det vart 2
 
 Lars Arne Nilsen var ein bohemtype med langt, lyst hår på den tida. Han imponerte ikkje Aabrekk noko særleg i den kampen. Kanskje lærte han noko av denne opplevinga? Kanskje kjenner han på revansjesuget?
 
-**Sogndal møter Brann på Brann stadion 21. juni 2015. Møt opp og hei på Sogndal!**
+**Sogndal møter Brann på Brann stadion søndag 21. juni 2015. Møt opp og hei på Sogndal!**

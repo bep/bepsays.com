@@ -9,4 +9,5 @@ html xmlns=http://www.w3.org/1999/xhtml xml:lang=nn lang=nn
       = yield foo
       = include partials/hello-simple.html .
       = include partials/footer.html .
+	  
 

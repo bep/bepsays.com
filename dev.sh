@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Import my dev env
-. $HOME/dev_settings.sh
+	. $HOME/dev_settings.sh
 
 SOURCE="$( cd "$( dirname "$0" )" && pwd )"
 
 . $SOURCE/script/common.sh
 
-cd $HOME/dev/go/src/github.com/spf13/hugo
+cd $HOME/dev/hugo/hugo
 
 go build || die "Hugo build failed!"
 

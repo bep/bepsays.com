@@ -10,4 +10,3 @@ menu:
 ---
 
 Hei! Mitt namn er **Bjørn Erik Pedersen**, og dette er vevloggen min. Her er det eg som seier (_bepsays_) -- og det har eg gjort ei stund:
-
