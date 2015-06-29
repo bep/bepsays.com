@@ -7,7 +7,7 @@ SOURCE="$( cd "$( dirname "$0" )" && pwd )"
 
 . $SOURCE/script/common.sh
 
-cd $HOME/dev/hugo/hugo
+cd $HOME/go/src/github.com/spf13/hugo
 
 go build || die "Hugo build failed!"
 

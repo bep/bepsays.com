@@ -10,6 +10,7 @@ nohup.out
 /static/assets/css/main.*
 /static/assets/js/main.*
 
+
 layouts/partials/footer.html
 layouts/partials/head.html
 layouts/partials/gitinfo.html
@@ -19,3 +20,4 @@ pickled_dict
 
 .awspublish-bepsays.com
 *.prof
+.DS_Store
