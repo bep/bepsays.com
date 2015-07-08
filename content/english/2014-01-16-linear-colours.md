@@ -33,7 +33,7 @@ _The LESS snippet below explained:_
 	
   * The styling is performed in the mixin .bs-main-box-style(@index)    
 
-{{< highlight css >}}
+``` css
 
 .bs-main-box-style(@index) {
     @color: desaturate(spin(lighten(#CC66FF, 28%), @index * 40), (@index * 5));
@@ -59,7 +59,7 @@ _The LESS snippet below explained:_
   .loop (@no-main-boxes);
 
 
-{{< / highlight >}}
+```
 
 
 

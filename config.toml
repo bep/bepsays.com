@@ -6,6 +6,7 @@ NewContentEditor = "gedit"
 PygmentsStyle = "trac"
 CanonifyUrls = "true"
 PluralizeListTitles = "false"
+PygmentsCodeFences = "true"
 PaginatePath = "side"
 Paginate = 11
 [blackfriday]

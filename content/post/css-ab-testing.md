@@ -54,7 +54,7 @@ Medan du tenkjer litt på dette, så må eg skripte litt. Er attende om litt...
 
 Følgjande Ruby-skript gjer jobben for meg. Skriptet roterer importen i LESS-fila `/assets/less/bs.less` med filene `/assets/less/variants/bs-variant*.less`. 
 
-{{< highlight rb >}}
+``` rb
 #!/usr/bin/ruby
 
 #
@@ -90,7 +90,7 @@ File.open(LESS_FILE, 'r+') { |f|
   f.puts new_content
 }
 
-{{< / highlight >}}
+```
 
 No er filnamna og katalogane i skriptet over tilpassa min struktur, men det skulle la seg gjere å forstå.
 

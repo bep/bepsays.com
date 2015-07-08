@@ -24,7 +24,7 @@ Dette skal mellom anna handle om usikre peikarar, eller som det heiter på fint,
 
 Kva som gjer dei usikre skal me ta om litt, men først to døme, som, om ein berre ser på signaturen, ser ut til å gjere akkurat det same:
 
-{{< highlight go >}}
+``` go
 func SafeBytesToString(b []byte) string {
 	return string(b)
 }
@@ -32,7 +32,7 @@ func SafeBytesToString(b []byte) string {
 func UnsafeBytesToString(b []byte) string {
 	return *(*string)(unsafe.Pointer(&b))
 }
-{{< / highlight >}}
+```
 
 Begge tek ein byte-tabell, `[]byte`, og gir ein `string` i retur. No gir eg ingen garanti for at den usikre varianten virkar i alle _Go_-kompilatorane -- og eg skal prøve å forklare skilnaden seinare, sjølv om det kjennest tungt å formulere på nynorsk. Men først det mest interessante; farten og minnebruken:
 
@@ -40,7 +40,7 @@ _Go_ kjem med ei svært kraftig verktøykasse, som inneheld verktøy for profile
 
 Gitt desse to referansemålingane:
 
-{{< highlight go >}}
+``` go
 func BenchmarkSafeBytesToString(b *testing.B) {
 	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
 
@@ -62,7 +62,7 @@ func BenchmarkUnsafeBytesToString(b *testing.B) {
 	}
 	s = s[:]
 }
-{{< / highlight >}}
+```
 
 Om ein så køyrer desse:
 
@@ -94,7 +94,7 @@ Om me vender attende til dei to funksjonane me starta med; kva skjer om den opph
 
 Sjå på dei to testane under. Eg kan røpe at dei begge køyrer med grønt lys.
 
-{{< highlight go >}}
+``` go
 var testString = "The quick brown fox jumps over the lazy dog."
 
 func TestSafeBytesToString(t *testing.T) {
@@ -127,7 +127,7 @@ func TestUnsafeBytesToString(t *testing.T) {
 		t.Errorf("Expected '%s' was '%s'", testBytes, s)
 	}
 }
-{{< / highlight >}}
+```
 
 Dei ser nesten like ut, utanom det forventa resultatet mot slutten. I den usikre varianten har har strengen endra seg i takt med den opphavlege byte-tabellen.
 
@@ -143,7 +143,7 @@ No har `strings`-pakken noko som ikkje finst i spegelpakken, som t.d. den lynras
 
 Men om utgangspunktet er `[]byte` går vinninga lett opp i spinninga om du først må kopiere over i ein `string`:
 
-{{< highlight go >}}
+``` go
 type appendSliceWriter []byte
 
 func (w *appendSliceWriter) Write(p []byte) (int, error) {
@@ -191,7 +191,7 @@ func BenchmarkSafeStringsReplacer(b *testing.B) {
 		buf = buf[:0]
 	}
 }
-{{< / highlight >}}
+```
 
 No gir ikkje dette det heilt store utslaget, men dette er meir merkbart med større tekstmengder:
 
@@ -207,7 +207,7 @@ Dømet over syner også fram to andre finurlege eigenskapar ved _Go_: Grensesnit
 
 For dei to referansemålingane under:
 
-{{< highlight go >}}
+``` go
 func BenchmarkAppendString(b *testing.B) {
 	buf := make([]byte, 0, 100)
 	s := "bepsays"
@@ -229,7 +229,7 @@ func BenchmarkAppendByteString(b *testing.B) {
 	}
 	buf2 = buf2[:]
 }
-{{< / highlight >}}
+```
 
 Her er kanskje resultatet overraskande:
 
@@ -242,7 +242,7 @@ Men denne konstruksjonen har folka bak _Go_ tenkt at denne, ja denne er så vanl
 
 No finst også både enkelterstatningsfunksjonane `bytes.Replace` og `strings.Replace`:
 
-{{< highlight go >}}
+``` go
 func BenchmarkMultipleBytesReplace(b *testing.B) {
 	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
 
@@ -276,7 +276,7 @@ func BenchmarkMultiplesStringsReplace(b *testing.B) {
 		}
 	}
 }
-{{< / highlight >}}
+```
 
 Men desse er monaleg treigare enn `strings.Replacer`:
 

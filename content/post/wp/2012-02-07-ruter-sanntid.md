@@ -13,7 +13,7 @@ Pussig, tenkte eg. Så fekk eg tak i kjeldekoden (eller, det kan vel hende at sk
 <!--more-->
 
     
-{{< highlight java >}}     
+``` java     
 package no.ruter.sanntid;
 
 import java.util.Random;
@@ -56,7 +56,7 @@ public class RuterSannTid {
         return true;
     }
 }
-{{< / highlight >}}
+```
 
 
 

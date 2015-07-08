@@ -19,7 +19,7 @@ So the creators of the new API decided they needed to bridge the old and the new
 
 <!--more-->
 
-{{< highlight java >}}    
+``` java    
 @SuppressWarnings("deprecation")
 public static Timestamp valueOf(LocalDateTime dateTime) {
     return new Timestamp(dateTime.getYear() - 1900,
@@ -31,7 +31,7 @@ public static Timestamp valueOf(LocalDateTime dateTime) {
             dateTime.getNano());
 }
 
-{{< / highlight >}}
+```
 
 
 java.sql.Timestamp extends java.util.Date, but they are very different, a _Timestamp_ is **not** a _Date_. But then java.util.Date isn't really a date, either, but an instant in time ([Epoch time](http://en.wikipedia.org/wiki/Unix_time), number of milliseconds since Thursday, January 1 1970).
@@ -59,7 +59,7 @@ The JavaDoc of [java.time.LocalDateTime](http://docs.oracle.com/javase/8/docs/ap
 
 Offset is offset in (usually) whole hours from Greenwich/UTC. Different time-zones can share the same offset, but have different rules for daylight saving time. So if I create an instance of java.time.LocalDateTime on my computer, with it's default time-zone set at _Europe/Oslo_, it will print the same as it would when created on a computer in Beijing. But what do I get when converting it to a _Timestamp?_
 
-{{< highlight java >}}    
+``` java    
     
 ZoneId systemZone = ZoneId.systemDefault();
 out.println(systemZone);
@@ -81,7 +81,7 @@ Timestamp timestamp2 = Timestamp.from(zonedDateTime.toInstant());
 out.println(timestamp2.getTime());
 // ==> 0
 
-{{< / highlight >}}    
+```    
     
 
 
