@@ -11,6 +11,7 @@ PaginatePath = "side"
 Paginate = 11
 [blackfriday]
 angledQuotes = true
+hrefTargetBlank = true
 
 [params]
     description = "bepsays.com sine tankar om dette og hint."
