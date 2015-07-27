@@ -4,6 +4,8 @@ slug: er-nynorsken-rota-til-alt-vondt
 title: Er nynorsken rota til alt vondt?
 categories:
 - Kultur
+images:
+- /assets/img/wp/Ivar_Aasen.jpg 
 ---
 
 **Dette innlegget er eit svar til systrendingen Øystein A. Vangsnes sin [kronikk](http://www.forskning.no/blog/vangsnes/303273) med motsett forteikn. Han samanstiller gode levekår med nynorsk språkføring. Dette er sjølvsagt rett, men av andre grunnar enn dei Vangsnes dreg fram.**
@@ -12,7 +14,7 @@ categories:
 
 <!--more-->
 
-Klart det er betre å vekse opp med upasteurisert mjølk og sjølvslakta gris. Klart det er mindre konfliktfylt med eit rikt og variert talemål, der folk frå nabobygder ikkje forstår kvarandre. Kulturskilnadene er store mellom folk i Balders gate og på Grønland i Oslo. Men dei pratar same språket – ein_ idiot _er ein idiot. Ein _lakabodl_ derimot.
+Klart det er betre å vekse opp med upasteurisert mjølk og sjølvslakta gris. Klart det er mindre konfliktfylt med eit rikt og variert talemål, der folk frå nabobygder ikkje forstår kvarandre. Kulturskilnadene er store mellom folk i Balders gate og på Grønland i Oslo. Men dei pratar same språket – ein _idiot_ er ein idiot. Ein _lakabodl_ derimot.
 
 Slik har det då seg at det aldri er slåstkampar mellom hafslobygdingar og sogndøler, eller mindreverdskompleks hjå systrendingane overfor sogndølene. Dei forstår ikkje kvarandre; dette er solsida av grautmålet. Sunnfjordingane, derimot, har eit meir finslepe talemål, og der er konfliktane mange og tunge.
 

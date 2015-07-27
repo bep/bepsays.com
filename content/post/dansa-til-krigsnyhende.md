@@ -27,7 +27,7 @@ Men dette var ikkje i tankane til dei to trubadurane frå Sogndal då dei pakka 
 
 Men først måtte dei få seg litt dyrekjøpt lærdom.
 
-I avtalen står det at dei skal spela tre sett på 45 minuttar med 15 minuttar pause mellom. Musikarane frå Sogndal likar pausar. Dansegolvet er fullt, jostedølene swingar seg til Dire Strait sin "Walk of life". Karen bak synthesizeren klimprar den fengande melodien med høgrehanda,  men held samstundes eit auge på klokka på venstrehanda -- der visaren tikkar mot midnatt og kveldens siste pause.
+I avtalen står det at dei skal spela tre sett på 45 minuttar med 15 minuttar pause mellom. Musikarane frå Sogndal likar pausar. Dansegolvet er fullt, jostedølene swingar seg til Dire Straits sin "Walk of life". Karen bak synthesizeren klimprar den fengande melodien med høgrehanda,  men held samstundes eit auge på klokka på venstrehanda -- der visaren tikkar mot midnatt og kveldens siste pause.
 
 "Me droppar siste-verset, hæ?" seier han til kompanjongen -- som nikkar. Dei stoggar so brått at det skal ha gått med eit kragebein.  
 
