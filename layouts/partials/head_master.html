@@ -15,7 +15,7 @@
 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 
 <script src="/assets/js/main.js" data-instant-track></script>
-<script src="/assets/js/main-noinstant.js" data-no-instant></script>
+<!--script src="/assets/js/main-noinstant.js" data-no-instant></script-->
 
 {{if isset .Params "gallery_id" }}
 <script src="/assets/js/vendor/jquery.nanogallery.min.js"></script>
@@ -74,9 +74,9 @@
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    InstantClick.on('change', function() {
+   /* InstantClick.on('change', function() {
         ga('create', 'UA-52478213-1', 'auto');
         ga('send', 'pageview');
-    });
+    });*/
 </script>
 {{ end }}

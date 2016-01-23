@@ -21,7 +21,7 @@
 
 {{ if not .Site.BuildDrafts }}
 <script>
-    InstantClick.on('receive', function() {
+    //InstantClick.on('receive', function() {
         Socialite.setup({
             facebook: {
                 lang: 'en_GB',
@@ -38,7 +38,7 @@
         $(el).appear(function () {
             Socialite.load($('#bs-share'));
         });
-    });
+   // });
 </script>
 {{ end }}
 
