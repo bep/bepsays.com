@@ -62,7 +62,7 @@ class Base extends React.Component {
     }
 
     componentWillUnmount() {
-        if (this.doComponentDidMount !== undefined) {
+        if (this.doComponentWillUnmount !== undefined) {
               this.doComponentWillUnmount();
         }
     }
