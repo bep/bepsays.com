@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="nn">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body class="layout-reverse">
+    {{ partial "menu.html" . }}
+    <div class="content container">
+        {{block "main" .}}This is the main content.{{end}} {{ partial "hello-simple.html" . }} {{ partial "footer.html" . }}
+    </div>
+</body>
+
+</html>

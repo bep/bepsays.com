@@ -1,0 +1,16 @@
+{{define "main"}}
+<div class="main posts">
+    {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
+    <div class="post">
+        <h1 class="post-title">
+            <a href="{{ .RelPermalink }}">{{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}</a>
+        </h1>
+        <div class="post-summary">{{ .Summary }}</div>
+        <div class="read-more">
+            <a class="btn btn-lg bs-btn-info" href="{{ .RelPermalink }}">Hald fram →</a>
+        </div>
+    </div>
+    {{ end }} 
+    {{ partial "pagination.html" . }}
+</div>
+{{end}}
