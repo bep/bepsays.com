@@ -1,7 +1,0 @@
-= content main
-  .main.post
-    h1.post-title {{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}
-    {{ .Content }}
-    = include partials/gallery.html .
-    = include partials/share.html .
-    = include partials/post-more.html .
