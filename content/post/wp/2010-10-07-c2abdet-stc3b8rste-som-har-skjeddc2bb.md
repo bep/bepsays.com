@@ -39,9 +39,7 @@ For øvrig er det vel _soga_ som fortel at 2160 menn omkom. Ein skal ikkje tru a
 I Nordfjord set dei opp operaen «Norge Brasil, ein opera» med musikk av Helge Førde, tekst av Are Kalvø, som meiner sigeren over Brasil er noko av det største som har skjedd i nyare tid.
 
 
-<blockquote>Tore André (195 cm), Jostein (193 cm) og Håvard Flo (187 cm) er VMs lengste fotballfamilie. Sansynligvis er de den mest omgjengelige også. Og derfor ble bolig 132 i Chateau Drillos – heretter bare kalt Villa Flo – innvadert av norske og utenlandske mediefolk i går ettermiddag.
-
-_Dagbladet/Morten Pedersen 06.06.1998 side 26_</blockquote>
+>Tore André (195 cm), Jostein (193 cm) og Håvard Flo (187 cm) er VMs lengste fotballfamilie. Sansynligvis er de den mest omgjengelige også. Og derfor ble bolig 132 i Chateau Drillos – heretter bare kalt Villa Flo – innvadert av norske og utenlandske mediefolk i går ettermiddag. <cite>Dagbladet/Morten Pedersen 06.06.1998 side 26</cite>
 
 
 «Eg sat aleine og såg kampen. Det er som Are seier, det er noko av det største som har skjedd i Norge dei seinare åra. Når han kom med denne kampen, så tenkte eg: Yess! Kjempeidé,» [fortel Førde](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7300039) til NRK Sogn og Fjordane.
