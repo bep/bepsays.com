@@ -8,6 +8,7 @@ CanonifyUrls = "true"
 PluralizeListTitles = "false"
 PygmentsCodeFences = "true"
 PaginatePath = "side"
+EnableEmoji = true
 Paginate = 11
 [blackfriday]
 angledQuotes = true
