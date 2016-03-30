@@ -1,6 +1,6 @@
 {{define "main"}}
 <div class="main posts">
-    {{ range (.Paginate (where .Data.Pages "Section" "!=" "page")).Pages }}
+    {{ range (.Paginate (where .Data.Pages "Type" "not in" (slice "page" "json"))).Pages }}
     <div class="post">
         <h1 class="post-title">
             <a href="{{ .RelPermalink }}">{{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}</a>
