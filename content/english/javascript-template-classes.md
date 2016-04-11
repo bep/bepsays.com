@@ -2,7 +2,6 @@
 categories:
 - English
 date: 2016-01-23T11:40:13+01:00
-description: Abstract Javascript
 markdown:
   angledQuotes: false
 tags:

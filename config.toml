@@ -15,7 +15,7 @@ angledQuotes = true
 hrefTargetBlank = true
 
 [params]
-    description = "bepsays.com"
+    description = "bepsays.com sine tankar om dette og hint."
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
