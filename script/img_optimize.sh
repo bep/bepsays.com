@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE="$( cd "$( dirname "$0" )" && pwd )"
-IMG_PATH="$SOURCE/../static/img"
+IMG_PATH="$SOURCE/../static/assets/img"
 
 . $SOURCE/common.sh
 
