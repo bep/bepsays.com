@@ -2,20 +2,21 @@
 categories:
 - Fylkesspit
 date: 2016-06-07T15:13:06+02:00
+expiryDate: 2016-06-07T15:13:06+02:00
 tags:
 - Sogndal
-slug: kommuneleiing-i-vinden
-title: Rådmannn snudde saka på hovudet
+slug: komikommuneleiing
+title: Rådmannn ikkje rådlaus
 title_main: |
-                    Rådmannn snudde 
-                    <br/>**saka på hovudet**
+                    Rådmannn ikkje 
+                    <br/>**rådlaus**
 images:
-- /assets/img/2016/sognavis/faksimile-sogn-avis-070616.png
+- /assets/img/2016/sognavis/faksimile-av-sogn-avis-070616.png
 ---
 **Han sveitta godt, rådmannen i Sogndal då han henta Sogn Avis i postkassa laurdag.  Det var før First House slo på tråden.** 
 <!--more-->
 
-{{< img src="/assets/img/2016/sognavis/faksimile-sogn-avis-040616.png" caption="Faksimile Sogn Avis 4. juni 2016. Rådmannen hentar avisa i postkassa, og sveittar godt." class="small">}}
+{{< img src="/assets/img/2016/sognavis/faksimile-av-sogn-avis-040616.png" caption="Faksimile Sogn Avis 4. juni 2016. Rådmannen hentar avisa i postkassa, og sveittar godt." class="small">}}
 
 Ja, om dei verkeleg ringde er ikkje heilt sikkert. Telefonsamtalen under kan vera noko eg har dikta opp.
 
@@ -35,7 +36,7 @@ Ja, om dei verkeleg ringde er ikkje heilt sikkert. Telefonsamtalen under kan ver
 
 -- Angrep er det aller beste forsvar. Si at det var sterkt kritikkverdig av Sogn Avis å stille kommunalsjefen det samme spørsmålet fire ganger. Si at det var respektløst og svært uheldig, at kommuneledere også har følelser ...
 
-{{< img src="/assets/img/2016/sognavis/faksimile-sogn-avis-070616.png" caption="Faksimile Sogn Avis 47 juni 2016. Rådmannen har truleg fått medierådgjeving.." class="small">}}
+{{< img src="/assets/img/2016/sognavis/faksimile-av-sogn-avis-070616.png" caption="Faksimile Sogn Avis 7. juni 2016. Rådmannen har truleg fått medierådgjeving." class="small">}}
 
 -- Men det var jo hun som skrev referatet ... Vil det fungere, da? 
 
