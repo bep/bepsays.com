@@ -16,7 +16,7 @@ categories:
 
 >I did not have sexual relations with that woman, Miss Lewinsky.» ([Bill Clinton](http://en.wikipedia.org/wiki/Lewinsky_scandal#Denial_and_subsequent_admission))
 
-{{< img src="/assets/img/wp/459px-Bill_Clinton-bs400.jpg" class="alignright small" caption="Bill Clinton" >}}
+{{< img src="/assets/img/wp/459px-Bill_Clinton-bs400.jpg" class="alignright small" caption="Bill Clinton (US Gov/PD)" >}}
 
 Frå Claragate til andre viktige nyhende i veka som gjekk:
 

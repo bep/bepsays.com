@@ -18,7 +18,7 @@ Det er tjue år mellom dei i alder, men den rett fram klokkeklåre stemma er eit
 
 <!--more-->
 
-{{< img src="/assets/img/2014/Alison_Krauss_MerleFest_2007.jpg" caption="Alison Krauss (2007)"  class="small" >}}
+{{< img src="/assets/img/2014/Alison_Krauss_MerleFest_2007.jpg" caption="Alison Krauss (2007) (PD)"  class="small" >}}
 
 [Ingebjørg Harman Bratland](http://no.wikipedia.org/wiki/Ingebj%C3%B8rg_Harman_Bratland) (f. 1990) er ein norsk folkemusikar, kvedar og songar. 
 [Alison Krauss](http://nn.wikipedia.org/wiki/Alison_Krauss) (f. 1971) er ein amerikansk bluegrass-songar og -felespelar. Ho er kvinneleg rekordhaldar i talet på Grammyprisar.
