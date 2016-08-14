@@ -8,8 +8,11 @@ categories:
 menu:
   main:
     weight: 1
-    name: "Om2"
+    name: "About"
 ---
 Hi!
 
 My name is **Bjørn Erik Pedersen** -- aka *bep* -- and "this" is my blog.
+
+
+{{% mm %}}

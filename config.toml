@@ -39,4 +39,5 @@ weight = 2
 title = "Bepsays in English"
 [Languages.en.blackfriday]
 angledQuotes = false
+hrefTargetBlank = true
 
