@@ -10,6 +10,9 @@ PygmentsCodeFences = "true"
 PaginatePath = "side"
 EnableEmoji = true
 Paginate = 11
+DefaultContentLanguage = "nn"
+DefaultContentLanguageInSubdir = true
+
 [blackfriday]
 angledQuotes = true
 hrefTargetBlank = true
@@ -26,4 +29,14 @@ hrefTargetBlank = true
     category = "categories"
     series = "series"
 
+[Languages]
+[Languages.nn]
+weight = 1
+title = "Bepsays på norsk"
+
+[Languages.en]
+weight = 2
+title = "Bepsays in English"
+[Languages.en.blackfriday]
+angledQuotes = false
 
