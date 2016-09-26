@@ -4,7 +4,6 @@ draft: false
 title: "nn: Bjørn Erik Pedersen"
 type: about
 categories:
-- abc
 menu:
   main:
     weight: 1

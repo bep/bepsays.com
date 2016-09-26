@@ -4,7 +4,6 @@ draft: false
 title: "en: Bjørn Erik Pedersen"
 type: about
 categories:
-- abc
 menu:
   main:
     weight: 1
@@ -13,6 +12,3 @@ menu:
 Hi!
 
 My name is **Bjørn Erik Pedersen** -- aka *bep* -- and "this" is my blog.
-
-
-{{% mm %}}
