@@ -11,7 +11,7 @@ PaginatePath = "side"
 EnableEmoji = true
 Paginate = 11
 DefaultContentLanguage = "nn"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 
 [blackfriday]
 angledQuotes = true

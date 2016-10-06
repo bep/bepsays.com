@@ -46,12 +46,16 @@ I had a WX11 back in the 90s, played in combination with the [Yamaha VL-70m and 
 
 After some weeks with the EWI USB I can say this about the core differences:
 
-*  Yamaha's mouthpiece controller, with a reed controlling pitch bend, is superior, making it easy to get a natural sounding vibrato not really possible to get out of the EWI.
+*  Yamaha's mouthpiece controller, with a reed controlling pitch bend, is superior, making it easy to get a natural sounding vibrato that is harder to get out of the EWI.
 *  EWI's keys, and especially the octave mechanism, are way better. The Yamaha may be easier to get started with, but forget about doing the super-fast runs as heard by Michael Brecker in his rendition of [In a Sentimental Mood](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjj1ZWGwq3PAhUCCSwKHW1NDSIQtwIIJDAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqNhDWbhmQk4&usg=AFQjCNFJtdvVEJ71snAyTYRlcbR_DcWybw&sig2=TGhvR0PeigQTpAXyEBSCUQ). **An important note: The EWI USB has only four octaves, compared to the eight of the EWI 4000 and EWI 5000, and the uppermost and lowest octave can be a little clumsy to get to when going fast.**
 
+Roland recently released the [Aerophone AE 10](https://www.roland.com/global/products/aerophone_ae-10/). I haven't tried it, but there are some impressive demos online. It seems to have a mouthpiece similar to the Yamaha, but have opted for keys similar to the saxophone, which I think is a mistake on a digital instrument.
+
 ## Patches
+https://www.youtube.com/watch?v=nKvo1yZBkr0
 
 ## Setup
+
 
 
 https://bretpimentel.com/flexible-ewi-fingerings/
