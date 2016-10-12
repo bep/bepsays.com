@@ -13,6 +13,8 @@ paginate = 11
 defaultContentLanguage = "nn"
 defaultContentLanguageInSubdir = false
 
+disqusShortname = "bepsays"
+
 [blackfriday]
 angledQuotes = true
 hrefTargetBlank = true
