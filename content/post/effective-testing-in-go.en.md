@@ -1,8 +1,7 @@
 ---
 categories:
 - Technology
-date: 2016-08-14T12:50:48+02:00
-draft: true
+date: 2016-10-12T12:50:48+02:00
 tags:
 - Go
 - Hugo
@@ -87,7 +86,7 @@ You will get tests that overlap. But you will discover corner-cases you never wo
 
 ## Do not force-write unit tests 
 
-Testing things in isolation, proper unit tests, is a good thing when you can do so with ease, and you should build your code with that in mind. 
+Testing in isolation, proper unit tests, is a good thing when you can do so with ease, and you should build your code with that in mind. 
 
 But when the "unit of test" depends on a chain of preprocessing, going out of the way to run only that small part makes little sense. You'll end up with tests that depends on a not-so-realistic synthetic data set or tests that look like this:
 
@@ -106,7 +105,7 @@ And if you really need to limit what gets run, make it explicit in the productio
 ```go
 type BuildCfg struct {
 	//...
-	// Skip rendering. Useful for testing.
+	// Skip the rendering. Useful in tests.
 	SkipRender bool
 	//...
 }
