@@ -2,6 +2,7 @@
 <div class="content main">
     <div class="main post">
         <h1 class="post-title">{{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}</h1>
+         {{ partial "byline.html" . }}
         {{ .Content }}
         <div class="translations-bottom">
         {{ partial "translations.html" . }}

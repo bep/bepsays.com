@@ -4,7 +4,7 @@ div.post-more-container
       a class="btn btn-lg bs-btn-default{{if not .Next}} disabled{{end}}" href={{if .Next}}{{.Next.Permalink}}{{end}} {{ T "older" }}
       a class="btn btn-lg bs-btn-default{{if not .Prev}} disabled{{end}}" href={{if .Prev}}{{.Prev.Permalink}}{{end}} {{ T "newer" }}
       {{ range .Params.categories }}
-      a.btn.btn-lg.bs-btn-info href=/categories/{{ . | lower | urlize }} {{ . }}
+      a.btn.btn-lg.bs-btn-info href={{ printf "categories/%s" (lower .)  | relLangURL }} {{ . }}
       {{ end }}
   = include partials/series.html .
 

@@ -1,0 +1,11 @@
+<div class="byline">
+{{ T "bylineBy" }} <a href="{{ T "bep.is" }}" target="_blank">bep</a>
+{{ with .Params.tags }}
+{{ T "bylineAbout" }}
+<em>{{- range $i, $e := . -}}
+    {{- if $i -}}, {{ end -}} <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></a>
+{{- end -}}
+</em>
+{{ end}}
+<p class="reading-time">{{ T "wordCount" . }}, {{ T "readingTime" .ReadingTime }}</p>
+</div>

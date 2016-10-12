@@ -1,7 +1,13 @@
 - id: translations
   translation: "Alt. språk"
+
 - id: wordCount
   translation: "{{ .WordCount }} ord"
+  
+- id: readingTime
+  translation: 
+    one: "eitt minutt med lesing"
+    other: "{{ .Count }} minuttar lesing"
   
 # Nav buttons/links
 - id: continue
@@ -29,5 +35,11 @@
 - id: rss
   translation: "RSS-straum"
 
+- id: "bylineBy"
+  translation: "av"
+
+- id: "bylineAbout"
+  translation: "om"
+  
 - id: "bep.is"
-  translation: "http://bep.is"
+  translation: "http://bep.is/nn/"

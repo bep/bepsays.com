@@ -3,6 +3,11 @@
 - id: wordCount
   translation: "{{ .WordCount }} words"
 
+- id: readingTime
+  translation: 
+    one: "one minute read"
+    other: "{{.Count}} minutes read"
+  
 # Nav buttons/links
 - id: continue
   translation: "Continue"
@@ -29,5 +34,11 @@
 - id: rss
   translation: "RSS Feed"
 
+- id: "bylineBy"
+  translation: "by"
+
+- id: "bylineAbout"
+  translation: "about"
+
 - id: "bep.is"
-  translation: "http://bep.is/en"
+  translation: "http://bep.is"

@@ -6,7 +6,6 @@ draft: true
 tags:
 - Go
 - Hugo
-- Testing
 title: Pragmatic and Effective Testing in Go
 stub: pragmatic-and-effective-testing-in-go
 images:
