@@ -2,8 +2,9 @@
 categories:
 - Teknologi
 date: 2015-02-18T08:14:47+01:00
+lastmod: 2016-10-12T08:14:47+01:00
 tags:
-- Go, Golang
+- Go
 title: Usikre peikarar i Go
 slug: usikre-go-peikarar
 images:
@@ -34,7 +35,7 @@ func UnsafeBytesToString(b []byte) string {
 }
 ```
 
-Begge tek ein byte-tabell, `[]byte`, og gir ein `string` i retur. No gir eg ingen garanti for at den usikre varianten virkar i alle _Go_-kompilatorane -- og eg skal prøve å forklare skilnaden seinare, sjølv om det kjennest tungt å formulere på nynorsk. Men først det mest interessante; farten og minnebruken:
+Begge tek ein byte-slice, `[]byte`, og gir ein `string` i retur. No gir eg ingen garanti for at den usikre varianten virkar i alle _Go_-kompilatorane -- og eg skal prøve å forklare skilnaden seinare, sjølv om det kjennest tungt å formulere på nynorsk. Men først det mest interessante; farten og minnebruken:
 
 _Go_ kjem med ei svært kraftig verktøykasse, som inneheld verktøy for profilering og måling av fart.
 
@@ -52,14 +53,29 @@ func BenchmarkSafeBytesToString(b *testing.B) {
 	s = s[:]
 }
 
-func BenchmarkUnsafeBytesToString(b *testing.B) {
-	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
+func BenchmarkSafeBytesToString(b *testing.B) {
+	var (
+		bt = []byte("The quick brown fox jumps over the lazy dog.")
+		s  string
+	)
 
-	b.ResetTimer()
-	var s string
 	for i := 0; i < b.N; i++ {
-		s = UnsafeBytesToString(testBytes)
+		s = SafeBytesToString(bt)
 	}
+
+	s = s[:]
+}
+
+func BenchmarkUnsafeBytesToString(b *testing.B) {
+	var (
+		bt = []byte("The quick brown fox jumps over the lazy dog.")
+		s  string
+	)
+
+	for i := 0; i < b.N; i++ {
+		s = UnsafeBytesToString(bt)
+	}
+
 	s = s[:]
 }
 ```
@@ -68,11 +84,11 @@ Om ein så køyrer desse:
 
 `go test -test.run=NONE -bench=".*" -test.benchmem=true ./unsafestrings`
 
+```bash
+BenchmarkSafeBytesToString-4  30000000  47.7 ns/op  48 B/op	  1 allocs/op
+BenchmarkUnsafeBytesToString-4   2000000000  1.04 ns/op  0 B/op	  0 allocs/op
 ```
-BenchmarkSafeBytesToString   175 ns/op	  48 B/op   1 allocs/op
-BenchmarkUnsafeBytesToString 1.70 ns/op	  0 B/op    0 allocs/op
-```
-Den sikre varianten tek 175 nanosekund for kvar strengekonvertering, medan den usikre er knapt målbar med sine 1.70 nanosekund.
+Den sikre varianten tek 48 nanosekund for kvar strengekonvertering, medan den usikre er knapt målbar med sine 1 nanosekund.
 
 **Men det mest interessante her er nullane i den usikre varianten. Null i minneforbruk.**
 
@@ -90,7 +106,7 @@ Men om ein skal drive gjenbruk må ein anten vere heilt sikker på at det ein te
 
 Ein `string` i _Go_ er _immutable_, som er eit fint, engelsk ord for at han er uomskifteleg -- han kjem ikkje til å endre seg. Skal du endre ein `string` må du lage ein ny. Originalen er som før. 
 
-Om me vender attende til dei to funksjonane me starta med; kva skjer om den opphavlege byte-tabellen endrar seg _etter_ at me har gjort han om til ein `string`?
+Om me vender attende til dei to funksjonane me starta med; kva skjer om den opphavlege byte-slicen endrar seg _etter_ at me har gjort han om til ein `string`?
 
 Sjå på dei to testane under. Eg kan røpe at dei begge køyrer med grønt lys.
 
@@ -98,38 +114,42 @@ Sjå på dei to testane under. Eg kan røpe at dei begge køyrer med grønt lys.
 var testString = "The quick brown fox jumps over the lazy dog."
 
 func TestSafeBytesToString(t *testing.T) {
-	testBytes := []byte(testString)
-	s := SafeBytesToString(testBytes)
+	var (
+		b = []byte(testString)
+		s = SafeBytesToString(b)
+	)
 
 	if s != testString {
 		t.Errorf("Expected '%s' was '%s'", testString, s)
 	}
 
-	testBytes[0] = byte('S')
+	b[0] = byte('S')
 
-	if s == string(testBytes) {
-		t.Errorf("Expected '%s' was '%s'", testBytes, s)
+	if s == string(b) {
+		t.Errorf("Expected '%s' was '%s'", b, s)
 	}
-
 }
 
 func TestUnsafeBytesToString(t *testing.T) {
-	testBytes := []byte(testString)
-	s := UnsafeBytesToString(testBytes)
+	var (
+		b = []byte(testString)
+		s = UnsafeBytesToString(b)
+	)
 
 	if s != testString {
 		t.Errorf("Expected '%s' was '%s'", testString, s)
 	}
 
-	testBytes[0] = byte('S')
+	b[0] = byte('S')
 
-	if s != string(testBytes) {
-		t.Errorf("Expected '%s' was '%s'", testBytes, s)
+	if s != string(b) {
+		t.Errorf("Expected '%s' was '%s'", b, s)
+		t.Errorf("Expected '%s' was '%s'", b, s)
 	}
 }
 ```
 
-Dei ser nesten like ut, utanom det forventa resultatet mot slutten. I den usikre varianten har har strengen endra seg i takt med den opphavlege byte-tabellen.
+Dei ser nesten like ut, utanom det forventa resultatet mot slutten. I den usikre varianten har har strengen endra seg i takt med den opphavlege byte-slicen.
 
 Dette kan vere ønskjeleg, men om ein får desse strengane frå andre, t.d. som innargument i ein funksjon, er det lett for at greina blir saga i to under deg utan at du høyrer saga.
 
@@ -157,15 +177,15 @@ func (w *appendSliceWriter) WriteString(s string) (int, error) {
 }
 
 func BenchmarkUnsafeStringsReplacer(b *testing.B) {
-	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
-	replacer :=
-		strings.NewReplacer("quick", "slow", "brown", "blue", "lazy", "energetic")
-	
-	buf := make(appendSliceWriter, 0, len(testBytes))
+	var (
+		by = []byte("The quick brown fox jumps over the lazy dog.")
+		re = strings.NewReplacer("quick", "slow", "brown", "blue", "lazy", "energetic")
+	)
 
-	b.ResetTimer()
+	buf := make(appendSliceWriter, 0, len(by))
+
 	for i := 0; i < b.N; i++ {
-		replacer.WriteString(&buf, UnsafeBytesToString(testBytes))
+		re.WriteString(&buf, UnsafeBytesToString(by))
 		if UnsafeBytesToString(buf) !=
 			"The slow blue fox jumps over the energetic dog." {
 			b.Fatalf("Failed replacement")
@@ -175,15 +195,16 @@ func BenchmarkUnsafeStringsReplacer(b *testing.B) {
 }
 
 func BenchmarkSafeStringsReplacer(b *testing.B) {
-	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
-	replacer :=
-		strings.NewReplacer("quick", "slow", "brown", "blue", "lazy", "energetic")
+	var (
+		by = []byte("The quick brown fox jumps over the lazy dog.")
+		re = strings.NewReplacer("quick", "slow", "brown", "blue", "lazy", "energetic")
+	)
 
-	buf := make(appendSliceWriter, 0, len(testBytes))
-	
-	b.ResetTimer()
+	buf := make(appendSliceWriter, 0, len(by))
+
 	for i := 0; i < b.N; i++ {
-		replacer.WriteString(&buf, SafeBytesToString(testBytes))
+
+		re.WriteString(&buf, SafeBytesToString(by))
 		if UnsafeBytesToString(buf) !=
 			"The slow blue fox jumps over the energetic dog." {
 			b.Fatalf("Failed replacement")
@@ -191,13 +212,45 @@ func BenchmarkSafeStringsReplacer(b *testing.B) {
 		buf = buf[:0]
 	}
 }
+
+func BenchmarkMultipleBytesReplace(b *testing.B) {
+	by := []byte("The quick brown fox jumps over the lazy dog.")
+
+	for i := 0; i < b.N; i++ {
+		var replaced []byte
+
+		replaced = bytes.Replace(by, []byte("quick"), []byte("slow"), -1)
+		replaced = bytes.Replace(replaced, []byte("brown"), []byte("blue"), -1)
+		replaced = bytes.Replace(replaced, []byte("lazy"), []byte("energetic"), -1)
+
+		if UnsafeBytesToString(replaced) != "The slow blue fox jumps over the energetic dog." {
+			b.Fatalf("Failed replacement")
+		}
+	}
+}
+
+func BenchmarkMultiplesStringsReplace(b *testing.B) {
+	s := "The quick brown fox jumps over the lazy dog."
+
+	for i := 0; i < b.N; i++ {
+		var replaced string
+
+		replaced = strings.Replace(s, "quick", "slow", -1)
+		replaced = strings.Replace(replaced, "brown", "blue", -1)
+		replaced = strings.Replace(replaced, "lazy", "energetic", -1)
+
+		if replaced != "The slow blue fox jumps over the energetic dog." {
+			b.Fatalf("Failed replacement")
+		}
+	}
+}
 ```
 
 No gir ikkje dette det heilt store utslaget, men dette er meir merkbart med større tekstmengder:
 
-```
-BenchmarkUnsafeStringsReplacer 525 ns/op  0 B/op  0 allocs/op
-BenchmarkSafeStringsReplacer   776 ns/op  48 B/op 1 allocs/op
+```bash
+BenchmarkUnsafeStringsReplacer-4  5000000  247 ns/op  0 B/op  0 allocs/op
+BenchmarkSafeStringsReplacer-4   5000000  294 ns/op  48 B/op  1 allocs/op
 ```
 
 Dømet over syner også fram to andre finurlege eigenskapar ved _Go_: Grensesnitt-oppgradering og at `append(bytesBuff, aString...)` er "gratis" på minnefronten.
@@ -209,10 +262,12 @@ For dei to referansemålingane under:
 
 ``` go
 func BenchmarkAppendString(b *testing.B) {
-	buf := make([]byte, 0, 100)
-	s := "bepsays"
-	b.ResetTimer()
-	var buf2 []byte
+	var (
+		buf  = make([]byte, 0, 100)
+		buf2 []byte
+		s    = "bepsays"
+	)
+
 	for i := 0; i < b.N; i++ {
 		buf2 = append(buf, s...)
 	}
@@ -220,10 +275,12 @@ func BenchmarkAppendString(b *testing.B) {
 }
 
 func BenchmarkAppendByteString(b *testing.B) {
-	buf := make([]byte, 0, 100)
-	s := "bepsays"
-	b.ResetTimer()
-	var buf2 []byte
+	var (
+		buf  = make([]byte, 0, 100)
+		buf2 []byte
+		s    = "bepsays"
+	)
+
 	for i := 0; i < b.N; i++ {
 		buf2 = append(buf, []byte(s)...)
 	}
@@ -233,9 +290,9 @@ func BenchmarkAppendByteString(b *testing.B) {
 
 Her er kanskje resultatet overraskande:
 
-```
-BenchmarkAppendString	  9.49 ns/op 0 B/op 0 allocs/op
-BenchmarkAppendByteString 107 ns/op  8 B/op 1 allocs/op
+```bash
+BenchmarkAppendString-4  500000000  3.09 ns/op   0 B/op   0 allocs/op
+BenchmarkAppendByteString-4   100000000  13.0 ns/op  0 B/op  0 allocs/op
 ```
 
 Men denne konstruksjonen har folka bak _Go_ tenkt at denne, ja denne er så vanleg, at denne får spesialhandsaming.
@@ -244,34 +301,32 @@ No finst også både enkelterstatningsfunksjonane `bytes.Replace` og `strings.Re
 
 ``` go
 func BenchmarkMultipleBytesReplace(b *testing.B) {
-	testBytes := []byte("The quick brown fox jumps over the lazy dog.")
+	by := []byte("The quick brown fox jumps over the lazy dog.")
 
 	for i := 0; i < b.N; i++ {
 		var replaced []byte
 
-		replaced = bytes.Replace(testBytes, []byte("quick"), []byte("slow"), -1)
+		replaced = bytes.Replace(by, []byte("quick"), []byte("slow"), -1)
 		replaced = bytes.Replace(replaced, []byte("brown"), []byte("blue"), -1)
 		replaced = bytes.Replace(replaced, []byte("lazy"), []byte("energetic"), -1)
 
-		if UnsafeBytesToString(replaced) !=
-			"The slow blue fox jumps over the energetic dog." {
+		if UnsafeBytesToString(replaced) != "The slow blue fox jumps over the energetic dog." {
 			b.Fatalf("Failed replacement")
 		}
 	}
 }
 
 func BenchmarkMultiplesStringsReplace(b *testing.B) {
-	testString := "The quick brown fox jumps over the lazy dog."
+	s := "The quick brown fox jumps over the lazy dog."
 
 	for i := 0; i < b.N; i++ {
 		var replaced string
 
-		replaced = strings.Replace(testString, "quick", "slow", -1)
+		replaced = strings.Replace(s, "quick", "slow", -1)
 		replaced = strings.Replace(replaced, "brown", "blue", -1)
 		replaced = strings.Replace(replaced, "lazy", "energetic", -1)
 
-		if replaced !=
-			"The slow blue fox jumps over the energetic dog." {
+		if replaced != "The slow blue fox jumps over the energetic dog." {
 			b.Fatalf("Failed replacement")
 		}
 	}
@@ -280,11 +335,10 @@ func BenchmarkMultiplesStringsReplace(b *testing.B) {
 
 Men desse er monaleg treigare enn `strings.Replacer`:
 
+```bash
+BenchmarkUnsafeStringsReplacer-4  5000000  247 ns/op  0 B/op  0 allocs/op
+BenchmarkSafeStringsReplacer-4  5000000  294 ns/op  48 B/op  1 allocs/op
+BenchmarkMultipleBytesReplace-4  3000000  412 ns/op  144 B/op  3 allocs/op
+BenchmarkMultiplesStringsReplace-4  2000000  648 ns/op  288 B/op	       6 allocs/op
 ```
-BenchmarkUnsafeStringsReplacer   525 ns/op  0 B/op    0 allocs/op
-BenchmarkSafeStringsReplacer     776 ns/op  48 B/op   1 allocs/op
-BenchmarkMultipleBytesReplace    2563 ns/op 200 B/op  9 allocs/op
-BenchmarkMultiplesStringsReplace 2807 ns/op 288 B/op  6 allocs/op
-```
-
-*Køyrbare versjonar av kodedøma over finn du [her](https://github.com/bep/gosandbox/tree/master/unsafestrings).*
+*Alle testane over er køyrt på Go 1.7.1 på ein MacBook 2.7 i5 med to kjerner. Køyrbare versjonar av kodedøma over finn du [her](https://github.com/bep/gosandbox/tree/master/unsafestrings).*
