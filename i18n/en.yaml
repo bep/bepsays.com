@@ -1,4 +1,4 @@
 - id: translations
-  translation: "This page exists in other languages"
+  translation: "Alt language"
 - id: wordCount
   translation: "{{ .WordCount }} words"

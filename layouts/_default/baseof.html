@@ -7,6 +7,9 @@
 
 <body class="layout-reverse">
     {{ partial "menu.html" . }}
+    <div class="translations-base">
+        {{ partial "translations.html" . }}
+    </div>
     <div class="content container">
         {{block "main" .}}This is the main content.{{end}} {{ partial "hello-simple.html" . }} {{ partial "footer.html" . }}
     </div>

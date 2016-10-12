@@ -1,4 +1,4 @@
 - id: translations
-  translation: "Denne sida finst på fleire språk"
+  translation: "Alt. språk"
 - id: wordCount
   translation: "{{ .WordCount }} ord"

@@ -31,10 +31,12 @@ hrefTargetBlank = true
 
 [Languages]
 [Languages.nn]
+languageName = "Nynorsk"
 weight = 1
 title = "Bepsays på norsk"
 
 [Languages.en]
+languageName = "English"
 weight = 2
 title = "Bepsays in English"
 [Languages.en.blackfriday]
