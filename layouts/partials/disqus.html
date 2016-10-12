@@ -1,6 +1,11 @@
 <div class="cc-disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
+        window.disqus_title = '{{ .Title }}'
+        window.disqus_identifier = '{{ .Permalink }}'
+        window.disqus_url = '{{ .Permalink }}'
+        window.disqus_shortname = '{{ .Site.DisqusShortname }}'
+  
         $(function () {
 
             var el = $(".post p").slice(-3);
