@@ -3,6 +3,9 @@
     <div class="main post">
         <h1 class="post-title">{{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}</h1>
         {{ .Content }}
+        <div class="translations-bottom">
+        {{ partial "translations.html" . }}
+        </div>
         {{ partial "gallery.html" . }}
         {{ partial "share.html" . }}
         {{ partial "post-more.html" . }}

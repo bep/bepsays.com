@@ -6,7 +6,7 @@ input#sidebar-checkbox.sidebar-checkbox type="checkbox"
 / Toggleable sidebar
 #sidebar.sidebar
   .sidebar-item
-    p bepsays.com. Om dette og hint.
+    p {{ .Param "description" }}
 
     nav.sidebar-nav
       a.sidebar-nav-item href={{ relLangURL "/" }} Heim
@@ -21,11 +21,11 @@ input#sidebar-checkbox.sidebar-checkbox type="checkbox"
       a class="sidebar-nav-item{{if eq $currentUrl $currentCategoryUrl}} active{{end}}" href={{ $.Site.LanguagePrefix }}/categories/{{ $name | lower | urlize }}/ {{ $name | lower }}
       {{ end }}
     .sidebar-item
-      p &copy;  All rights reserved.
+      p &copy; {{ T "rightsReserved" }}
 .wrap
   .masthead
     .container
       h3.masthead-title
-        a href=/ title=Heim
+        a href={{ relLangURL "/" }} title={{ T "home" }}
           span.first bep
           span.second says

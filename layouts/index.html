@@ -7,10 +7,14 @@
         </h1>
         <div class="post-summary">{{ .Summary }}</div>
         <div class="read-more">
-            <a class="btn btn-lg bs-btn-info" href="{{ .RelPermalink }}">Hald fram →</a>
+            <a class="btn btn-lg bs-btn-info" href="{{ .RelPermalink }}">{{ T "continue" }} →</a>
         </div>
     </div>
     {{ end }}
-    {{ partial "pagination.html" . }}
+        {{ partial "pagination.html" . }}
+
+    <div class="translations-bottom">
+        {{ partial "translations.html" . }}
+    </div>
 </div>
 {{end}}

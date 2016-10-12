@@ -2,3 +2,32 @@
   translation: "Alt. språk"
 - id: wordCount
   translation: "{{ .WordCount }} ord"
+  
+# Nav buttons/links
+- id: continue
+  translation: "Hald fram"
+  
+- id: home
+  translation: "Heim"
+
+- id: older
+  translation: "Eldre"
+  
+- id: newer
+  translation: "Nyare"
+
+- id: paginatorSummary
+  translation: "side {{ .PageNumber }} av {{ .TotalPages }} ({{ .TotalNumberOfElements }} innslag)"
+
+- id: rightsReserved
+  translation: "Alle rettar reservert"
+  
+# Social
+- id: follow
+  translation: "Dilt etter"
+
+- id: rss
+  translation: "RSS-straum"
+
+- id: "bep.is"
+  translation: "http://bep.is"

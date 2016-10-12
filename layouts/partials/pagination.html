@@ -4,7 +4,7 @@
     {{ template "_internal/pagination.html" . }}
     {{ if gt .Paginator.TotalPages 1 }}
     <div class="summary">
-        side {{ .Paginator.PageNumber }} av {{ .Paginator.TotalPages }} ({{ .Paginator.TotalNumberOfElements }} innslag)
+       {{ T "paginatorSummary" .Paginator }}
     </div>
     {{ end }}
 </nav>

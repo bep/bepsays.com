@@ -16,4 +16,4 @@ cd $SOURCE
 nohup gulp &
 
 
-hugo version && echo "-----------------------------------------------------------------------------------" &&  hugo server --baseUrl=http://$DEV_DOMAIN/ --bind=$DEV_DOMAIN -D -w
+hugo version && echo "-----------------------------------------------------------------------------------" &&  hugo server --i18n-warnings --baseUrl=http://$DEV_DOMAIN/ --bind=$DEV_DOMAIN -D -w

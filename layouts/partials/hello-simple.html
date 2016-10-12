@@ -1,9 +1,13 @@
 <div id="hello" class="hello">
     <hr/>
-    <div class="follow"><a href="https://twitter.com/bepsays" class="socialite twitter-follow" data-show-count="true">Dilt etter @bepsays</a></div>
 
-    <p>Gjer vel og dilt etter meg på <a href="https://twitter.com/intent/user?screen_name=bepsays" target="_blank">Twitter</a> eller putt <a
-            href="http://feeds.feedburner.com/bepsays" target="_blank">straumen</a> inn i RSS-lesaren.</p>
+
+    <div class="follow">
+        <a href="https://twitter.com/bepsays" class="socialite twitter-follow" data-show-count="true">{{ T "follow" }} @bepsays</a>
+        | <a  href="http://feeds.feedburner.com/bepsays" target="_blank">{{ T "rss" }}</a>
+        | <a  href="{{ T "bep.is" }}" target="_blank">bep.is</a>
+        | <a  href=" https://github.com/bep/" target="_blank">github.com/bep</a>
+    </div>
 
 </div>
 {{ if not .Site.BuildDrafts }}

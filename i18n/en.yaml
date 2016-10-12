@@ -2,3 +2,32 @@
   translation: "Alt language"
 - id: wordCount
   translation: "{{ .WordCount }} words"
+
+# Nav buttons/links
+- id: continue
+  translation: "Continue"
+
+- id: home
+  translation: "Home"
+
+- id: older
+  translation: "Older"
+  
+- id: newer
+  translation: "Newer"
+  
+- id: paginatorSummary
+  translation: "page {{ .PageNumber }} of {{ .TotalPages }} ({{ .TotalNumberOfElements }} pages)"
+  
+- id: rightsReserved
+  translation: "All rights reserved"
+
+# Social
+- id: follow
+  translation: "Follow"
+
+- id: rss
+  translation: "RSS Feed"
+
+- id: "bep.is"
+  translation: "http://bep.is/en"

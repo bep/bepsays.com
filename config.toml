@@ -1,45 +1,47 @@
 baseurl = "http://bepsays.com/"
 title = "bepsays.com"
 languageCode = "no-nn"
-MetaDataFormat = "yaml"
-NewContentEditor = "gedit"
-PygmentsStyle = "trac"
-CanonifyUrls = "true"
-PluralizeListTitles = "false"
-PygmentsCodeFences = "true"
-PaginatePath = "side"
-EnableEmoji = true
-Paginate = 11
-DefaultContentLanguage = "nn"
-DefaultContentLanguageInSubdir = false
+metaDataFormat = "yaml"
+newContentEditor = "gedit"
+pygmentsStyle = "trac"
+canonifyUrls = "true"
+pluralizeListTitles = "false"
+pygmentsCodeFences = "true"
+paginatePath = "side"
+enableEmoji = true
+paginate = 11
+defaultContentLanguage = "nn"
+defaultContentLanguageInSubdir = false
 
 [blackfriday]
 angledQuotes = true
 hrefTargetBlank = true
 
-[params]
-    description = "bepsays.com sine tankar om dette og hint."
-
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   english = "/:year/:month/:day/:slug/"
 
-[Taxonomies]
+[taxonomies]
     tag = "tags"
     category = "categories"
     series = "series"
 
-[Languages]
-[Languages.nn]
+[params]
+description = "bepsays.com. Om dette og hint."
+
+[languages]
+[languages.nn]
 languageName = "Nynorsk"
 weight = 1
 title = "Bepsays på norsk"
 
-[Languages.en]
+[languages.en]
 languageName = "English"
 weight = 2
 title = "Bepsays in English"
-[Languages.en.blackfriday]
+paginatePath = "page"
+description = "bepsays.com. Abut this and that."
+[languages.en.blackfriday]
 angledQuotes = false
 hrefTargetBlank = true
 

@@ -5,8 +5,11 @@
         {{ range .Paginator.Pages }}
         <p><a href="{{.Permalink}}">{{.LinkTitle}} <span class="bs-date">&nbsp;– {{.Date.Format "Jan 02, 2006"}}</span> </a></p>
         {{ end }}
-         {{ partial "translations.html" . }}
+  
         {{ partial "pagination.html" . }}
+        <div class="translations-bottom">
+        {{ partial "translations.html" . }}
+        </div>
     </div>
 </div>
 {{end}}
