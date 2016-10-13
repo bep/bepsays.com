@@ -42,3 +42,13 @@
 
 - id: "bep.is"
   translation: "http://bep.is"
+  
+# Section mappings
+- id: sect_Fun
+  translation: "Fun Stuff"
+- id: sect_Art
+  translation: "Culture and Arts"
+- id: sect_Tec
+  translation: "Technology"
+- id: sect_Pol
+  translation: "Opinions"

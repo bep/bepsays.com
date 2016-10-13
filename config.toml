@@ -12,6 +12,7 @@ enableEmoji = true
 paginate = 11
 defaultContentLanguage = "nn"
 defaultContentLanguageInSubdir = false
+sectionPagesMenu = "sect"
 
 disqusShortname = "bepsays"
 
@@ -20,8 +21,10 @@ angledQuotes = true
 hrefTargetBlank = true
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
-  english = "/:year/:month/:day/:slug/"
+  pol = "/:year/:month/:day/:slug/"
+  fun = "/:year/:month/:day/:slug/"
+  art = "/:year/:month/:day/:slug/"
+  tec = "/:year/:month/:day/:slug/"
 
 [taxonomies]
     tag = "tags"

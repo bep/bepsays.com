@@ -1,0 +1,37 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-item">
+        <p>{{ .Param "description" }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.sect }}
+        {{ if ne .Name "Page" }}
+        <a class="sidebar-nav-item{{if or ($currentNode.IsMenuCurrent "sect" .) ($currentNode.HasMenuCurrent "sect" .) }} active{{end}}" href="{{.URL}}">
+            {{ T (printf "sect_%s" .Name) }}
+        </a>
+         {{ end }}
+        {{ end }}
+    </nav>
+
+    <div class="sidebar-item">
+        <p>
+            &copy;  {{ T "rightsReserved" }}
+        </p>
+    </div>
+</div>
+
+<div class="wrap">
+    <div class="masthead">
+        <div class="container">
+            <h3 class="masthead-title">
+                <a href="{{ relLangURL "/" }}" title="{{ T "home" }}"><span class="first">bep</span><span class="second">says</span></a>
+            </h3>
+        </div>
+    </div>
+</div>

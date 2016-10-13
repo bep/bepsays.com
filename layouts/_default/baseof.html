@@ -3,6 +3,11 @@
 
 <head>
     {{ partial "head.html" . }}
+    <title>
+        {{block "titleHead" .}}
+        {{ .Title }} 
+        {{ end }} 
+ </title>
 </head>
 
 <body class="layout-reverse">
@@ -11,6 +16,7 @@
         {{ partial "translations.html" . }}
     </div>
     <div class="content container">
+
         {{block "main" .}}This is the main content.{{end}} {{ partial "hello-simple.html" . }} {{ partial "footer.html" . }}
     </div>
 </body>

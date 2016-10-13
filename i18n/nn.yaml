@@ -43,3 +43,13 @@
   
 - id: "bep.is"
   translation: "http://bep.is/nn/"
+  
+# Section mappings
+- id: sect_Fun
+  translation: "Moro"
+- id: sect_Art
+  translation: "Kultur og kunst"
+- id: sect_Tec
+  translation: "Teknologi"
+- id: sect_Pol
+  translation: "Meiningar"
