@@ -1,7 +1,6 @@
 ---
 type: post
-categories:
-- English
+
 date: 2015-01-07T22:43:20+01:00
 draft: false
 title: Nike Refuses to Accept the International System of Units

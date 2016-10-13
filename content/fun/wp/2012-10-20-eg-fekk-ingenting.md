@@ -2,8 +2,7 @@
 date: 2012-10-20 17:47:42+00:00
 slug: eg-fekk-ingenting
 title: «Eg fekk ingenting!»
-categories:
-- Spit
+
 ---
 
 **– Eg fekk ingenting av mannen min på gebursdagen min tysdag, seier kvinna fortvila.**

@@ -2,8 +2,7 @@
 date: 2010-05-23 11:35:59+00:00
 slug: brecker-lever-pa-youtube
 title: Brecker lever på YouTube!
-categories:
-- Kultur
+
 ---
 
 **Den legendariske amerikanske saksofonisten [Michael Brecker](http://en.wikipedia.org/wiki/Michael_Brecker) døydde av [leukemi](http://nn.wikipedia.org/wiki/Leukemi) 13. januar 2007.**

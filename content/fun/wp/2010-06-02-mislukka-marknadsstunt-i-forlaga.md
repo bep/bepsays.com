@@ -2,8 +2,7 @@
 date: 2010-06-02 05:00:56+00:00
 slug: mislukka-marknadsstunt-i-forlaga
 title: Mislukka marknadsstunt frå forlaga
-categories:
-- Litteratur
+
 ---
 
 **Forlaga har som mål å selje bøker, mange bøker. Og for å gjere det driv dei marknadsføring. Ikkje alltid like vellukka.**

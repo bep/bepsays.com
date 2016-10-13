@@ -6,9 +6,6 @@ excerpt: I bought my Kindle DX two months ago and have read 20 books on it. Now 
   exists.
 slug: amazons-impressing-customer-service
 title: Amazon’s impressive customer service
-categories:
-- Litteratur
-- Teknologi
 ---
 
 **I bought my Kindle DX two months ago and have read 20 books on it. Now it has a broken screen – the upper right corner part of it is frozen – and a hairline crack in the plastic bezel surrounding it.**

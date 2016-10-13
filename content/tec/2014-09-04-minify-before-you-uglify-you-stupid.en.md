@@ -2,9 +2,6 @@
 date: 2014-09-04 16:47:37+00:00
 slug: minify-before-you-uglify-you-stupid
 title: Minify before you uglify, you stupid!
-categories:
-- English
-- Teknologi
 
 blackfriday:
   angledQuotes: false

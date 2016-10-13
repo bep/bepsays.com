@@ -4,8 +4,7 @@ slug: whitehouse
 title: Drøymer om ein jobb i det kvite huset
 tags: 
 - Asterisk
-categories:
-- Spit
+
 ---
 
 **Helse Førde er så langt ikkje nemnt med eitt ord i dokumenta som [Wikileaks](http://nn.wikipedia.org/wiki/Wikileaks) har lagt ut. Ei svært upåliteleg kjelde fortel at informasjonssjefen skal vere både skuffa og vonbroten over dette, men han augnar eit visst håp.**

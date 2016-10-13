@@ -2,8 +2,7 @@
 date: 2010-06-16 17:51:41+00:00
 slug: booby-til-budd
 title: Frå Booby Trap til Buddy Holly!
-categories:
-- Kultur
+
 ---
 
 **I går vart det kjent at sogndølen/balestrendingen/hafslobygdingen/engelskmannen (for å vere sikker på ikkje å trakke nokon på føtene) Roger Allan Ivin - også kjend som Rai eller Allen D. Rocker - har [fått rolla](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7169373) som bassisten i [Buddy Holly ](http://no.wikipedia.org/wiki/Buddy_Holly)sitt band i musikalen om rockelegenda. Dette er sjølvsagt stort, og dei største gratulasjonar til Roger!**

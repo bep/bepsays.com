@@ -2,8 +2,7 @@
 date: 2012-12-22 11:22:41+00:00
 slug: osebergskipet-overtek-ekspressbatruta
 title: «Osebergskipet» overtek ekspressbåtruta
-categories:
-- Spit
+
 ---
 
 **Norled har beslutta at «Osebergskipet» skal ta over for «MS Njord» på ekspressbåtruta frå Bergen til Sogndal frå vetle julaftan.**

@@ -2,8 +2,7 @@
 date: 2013-11-15 17:28:30+00:00
 slug: magnus-sjakkmeisteren
 title: Magnus sjakkmeister, Magnus konge
-categories:
-- Kultur
+
 ---
 
 **[Magnus](http://nn.wikipedia.org/wiki/Magnus) er meisteren av sjakkbrettet. _«Magnus»_ er også eit latinsk adjektiv for _«stor»_.**

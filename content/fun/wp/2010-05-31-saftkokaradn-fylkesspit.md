@@ -2,8 +2,7 @@
 date: 2010-05-31 16:30:08+00:00
 slug: saftkokaradn-fylkesspit
 title: Noko meir enn berre fargerike cowboyhattar!
-categories:
-- Spit
+
 ---
 
 **«– Og vikingar var ikkje berre fyll og valdtekt, her får me presentert vikingane på ein annan måte,» [avslører Sogn Avis ](http://www.sognavis.no/lokale_nyhende/article5138069.ece)og held fram: «– Me får synt at vikingane også er noko anna enn plyndring, plastikkhjelmar og ølmugger.»**

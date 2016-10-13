@@ -2,8 +2,7 @@
 date: 2011-01-17 11:05:24+00:00
 slug: facebook-er-ikkje-viktig
 title: Facebook er ikkje viktig
-categories:
-- Teknologi
+
 ---
 
 **Facebook har hatt tekniske problem denne veka. «Facebook bekrefter problemene,» [skriv](http://www.itavisen.no/860348/facebook-bekrefter-problemene) ITavisen og held fram:**

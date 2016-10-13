@@ -2,8 +2,7 @@
 date: 2011-05-15 21:12:18+00:00
 slug: sogndal-look-to-f%c3%b8rde
 title: 'Sogndal: Look to Førde!'
-categories:
-- Spit
+
 ---
 
 **«Reguleringsplan av 14. oktober 1981: Optimal bruk av attraktiv elvebredd i Førde sentrum» er interessant lesnad – og inneheld mange gode tankar om bygdearkitektur som sogndølene bør ta til seg i sine strandsoneplanar.**

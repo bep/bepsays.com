@@ -3,9 +3,7 @@ date: 2010-06-01 14:47:51+00:00
 slug: forde-er-ein-vakker-by
 title: Førde er ein vakker by!
 gallery_id: 6077502353820783889
-categories:
-- Spit
-- Foto
+
 ---
 
 **Tittelen er ironisk. Sjølvsagt er han det, om eg no tek for meg Førde sentrum.**

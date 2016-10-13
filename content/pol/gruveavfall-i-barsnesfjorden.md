@@ -1,6 +1,5 @@
 ---
-categories:
-- Spit
+
 date: 2015-04-19T17:18:33+02:00
 tags:
 - Fylkesspit

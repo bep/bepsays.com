@@ -2,8 +2,7 @@
 date: 2013-09-29 22:03:26+00:00
 slug: ei-bygde-it-bedrift-sitt-andlet-pa-nettet
 title: Ei bygde-IT-bedrift sitt andlet på nettet
-categories:
-- Teknologi
+
 ---
 
 **Dei fekk [gründerprisen](http://helenorge.nho.no/sognogfjordane/article.php?articleID=14702&categoryID=13) i 2012, men på verdsveven ser det stille ut for Yast, nLink og Rocketfarm.**

@@ -5,9 +5,6 @@ title: The shoeshiners of open source
 title_main: |
             The shoeshiners  
             of open source
-categories:
-- English
-- Teknologi
 
 blackfriday:
   angledQuotes: false

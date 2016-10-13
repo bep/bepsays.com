@@ -2,8 +2,7 @@
 date: 2010-10-08 19:21:57+00:00
 slug: giggen-hoppar-etter-wirkola
 title: Giggen hoppar etter Wirkola
-categories:
-- Kultur
+
 ---
 
 **Lærdølen, komponisten og saksofonisten [Geir Øystein «Giggen» Lysne](http://www.lysne.no/default.asp?fid=1000) er vikarstyrar for radiostorbandet i Danmark, [DR Big band](http://en.wikipedia.org/wiki/DR_Big_Band), eit storband som tidlegare vart leia av [Thad Jones](http://en.wikipedia.org/wiki/Thad_Jones) – av dei aller største storbandlegendene.**

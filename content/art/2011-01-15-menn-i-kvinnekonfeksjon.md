@@ -2,8 +2,7 @@
 date: 2011-01-15 20:30:23+00:00
 slug: menn-i-kvinnekonfeksjon
 title: ' Menn sel ikkje kvinnekonfeksjon'
-categories:
-- Kultur
+
 ---
 
 **– Det er ingen menn tilsett hjå oss. Me kunne nok ha tilsett ein gay ein (ein homofil mann, red. anm.), fortalde ei svensk jente meg her om dagen.**

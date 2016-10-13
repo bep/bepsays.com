@@ -5,9 +5,6 @@ title: Linear colour scheme with LESS
 title_main: |
             Linear colour scheme  
             **with LESS**
-categories:
-- English
-- Teknologi
 blackfriday:
   angledQuotes: false
 ---

@@ -1,6 +1,5 @@
 ---
-categories:
-- Fotball
+
 date: 2015-05-30T17:17:16+02:00
 tags:
 - Eirik Bakke

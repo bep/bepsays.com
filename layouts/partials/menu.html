@@ -13,7 +13,7 @@ styles, `#sidebar-checkbox` for behavior. -->
         {{ range .Site.Menus.sect }}
         {{ if ne .Name "Page" }}
         <a class="sidebar-nav-item{{if or ($currentNode.IsMenuCurrent "sect" .) ($currentNode.HasMenuCurrent "sect" .) }} active{{end}}" href="{{.URL}}">
-            {{ T (printf "sect_%s" .Name) }}
+            {{ T (printf "sect_%s" (.Name | lower )) }}
         </a>
          {{ end }}
         {{ end }}

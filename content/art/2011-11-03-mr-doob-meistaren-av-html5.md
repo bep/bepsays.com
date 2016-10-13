@@ -2,8 +2,7 @@
 date: 2011-11-03 22:53:33+00:00
 slug: mr-doob-meistaren-av-html5
 title: 'Mr Doob: Meistaren av HTML5'
-categories:
-- Teknologi
+
 ---
 
 **Det finst ein kar der ute som overgår det meste av det som finst av demonstrasjonar av dei nye sakene i HTML versjon 5. Eg mistenker han har Facebook, Google... på dørene dagleg.**

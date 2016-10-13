@@ -1,7 +1,4 @@
 ---
-categories:
-- Kultur
-- Reise
 date: 2014-11-17T14:34:18+01:00
 draft: false
 tags:

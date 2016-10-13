@@ -8,8 +8,7 @@ title_main: |
             for Krekar
 tags:
 - Jus
-categories:
-- Spit
+
 ---
 **Advokat Brynjar Meling (47) har jobba meir enn 1000 timar gratis i Mulla Krekar-saka.**
 

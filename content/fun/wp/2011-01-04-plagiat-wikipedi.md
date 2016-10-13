@@ -4,8 +4,7 @@ slug: plagiat-wikipedi
 title: Meteorologar er billegare i drift
 tags:
 - Wikipedia
-categories:
-- Kultur
+
 - Teknologi
 - Wikipedia
 ---

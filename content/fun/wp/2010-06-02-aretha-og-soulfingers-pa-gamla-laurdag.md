@@ -2,8 +2,7 @@
 date: 2010-06-02 16:37:28+00:00
 slug: aretha-og-soulfingers-pa-gamla-laurdag
 title: «Aretha» og Soulfingers på Gamla laurdag
-categories:
-- Kultur
+
 ---
 {{< img src="/assets/img/wp/676px-Aretha_Franklin_on_January_20_2009.jpg" class="alignright" caption="Aretha Franklin song for Obama i 2009. Foto: Cecilio Ricardo, U.S. Air Force" >}}
 

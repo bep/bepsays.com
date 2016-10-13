@@ -2,8 +2,7 @@
 date: 2010-06-03 05:30:30+00:00
 slug: a-vere-underfundig-for-ofte
 title: Å vere underfundig for ofte
-categories:
-- Kultur
+
 ---
 
 **[Twitter](https://twitter.com/). Skriv ei melding på maks 140 teikn. Eit konsept som passar meg svært dårleg. Eg er på Twitter, eg er det. Eg registrerte meg mest for å følgje nokre eg kjenner, no bruker eg det som rein reklame for denne vevloggen.**

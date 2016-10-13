@@ -2,8 +2,7 @@
 date: 2010-05-18 19:41:03+00:00
 slug: siste-innspurt-for-ein-taylor-til-ir
 title: Siste innspurt for ein Taylor til IR!
-categories:
-- Kultur
+
 ---
 
 **Oppdatert:  Inge Ronny vann,  sjølvsagt. Redaktøren i MusikkPraksis, Rolf Graf var full av lovord då [NRK Sogn og Fjordane](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7130205) prata med han tidlegare i dag:**

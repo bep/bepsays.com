@@ -1,6 +1,5 @@
 ---
-categories:
-- Technology
+
 date: 2016-10-12T12:50:48+02:00
 tags:
 - Go

@@ -3,7 +3,6 @@ date: 2012-12-17T18:37:49+01:00
 draft: false
 title: "nn: Bjørn Erik Pedersen"
 type: about
-categories:
 menu:
   main:
     weight: 1

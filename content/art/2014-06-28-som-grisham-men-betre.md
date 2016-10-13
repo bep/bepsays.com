@@ -2,8 +2,7 @@
 date: 2014-06-28 13:54:04+00:00
 slug: som-grisham-men-betre
 title: Som Grisham, men betre
-categories:
-- Litteratur
+
 ---
 
 **Jaktar du bassenglektyre til ferien? Prøv [Mark Gimenez](https://en.wikipedia.org/wiki/Mark_Gimenez). Han vert ofte samanlikna med [John Grisham,](https://no.wikipedia.org/wiki/John_Grisham) men Gimenez er endå betre.**

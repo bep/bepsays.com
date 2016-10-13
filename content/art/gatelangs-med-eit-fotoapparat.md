@@ -1,6 +1,5 @@
 ---
-categories:
-- Foto
+
 tags:
 - Asterisk
 date: 2014-11-03 22:27:14+00:00

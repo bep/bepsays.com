@@ -2,8 +2,7 @@
 date: 2011-02-23 17:00:51+00:00
 slug: les-denne-boka
 title: Les denne boka!
-categories:
-- Litteratur
+
 ---
 
 **[Robert Crais](http://en.wikipedia.org/wiki/Robert_Crais) sin «L. A. Requiem» er i tetgruppa av alle kriminalromanane eg har lese. David Baldacci, ein annan favoritt, seier det same på bokomslaget – og eg nikkar.**

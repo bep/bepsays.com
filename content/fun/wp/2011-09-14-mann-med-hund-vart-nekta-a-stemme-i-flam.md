@@ -2,8 +2,7 @@
 date: 2011-09-14 17:45:46+00:00
 slug: mann-med-hund-vart-nekta-a-stemme-i-flam
 title: Mann med hund vart nekta å stemme i Flåm
-categories:
-- Spit
+
 ---
 
 {{< img src="/assets/img/wp/mannmedhund.jpg" class="alignright" caption="Veljar med hund i Flåm. Foto: Elvert Xavier Barnes" >}}

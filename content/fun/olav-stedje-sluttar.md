@@ -1,6 +1,5 @@
 ---
-categories:
-- Spit
+
 date: 2015-05-29T17:34:59+02:00
 draft: truet 
 tags:

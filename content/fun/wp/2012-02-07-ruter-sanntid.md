@@ -2,8 +2,7 @@
 date: 2012-02-07 17:52:22+00:00
 slug: ruter-sanntid
 title: Implementasjonen av Ruter si sanntidsløysing
-categories:
-- Teknologi
+
 ---
 
 **Eg stod ein halv time og venta på trikken i ettermiddag, såg teljaren på Ruter si sanntidsløysing gå mot null tre gonger.**

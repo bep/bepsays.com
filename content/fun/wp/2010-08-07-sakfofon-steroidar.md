@@ -2,8 +2,7 @@
 date: 2010-08-07 19:19:05+00:00
 slug: sakfofon-steroidar
 title: Saksofonar på anabole stereoidar
-categories:
-- Kultur
+
 ---
 
 **Eg spelte ein konsert med [Soulfingers](http://soulfingers.no) i går kveld med to ulakka [Yamaha Custom 82Z](http://www.saxophoneman.com/index_files/YAS_82Z.htm)-saksofonar. Tenoren er min, alten var lånt.**

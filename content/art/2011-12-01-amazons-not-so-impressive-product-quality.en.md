@@ -2,9 +2,7 @@
 date: 2011-12-01 15:47:58+00:00
 slug: amazons-not-so-impressive-product-quality
 title: Amazon’s not so impressive product quality
-categories:
-- Litteratur
-- Teknologi
+
 ---
 
 **All physical items I have bought from Amazon has failed on me.  Since June: Three dead Kindles and one leather cover with a dead integrated light.**

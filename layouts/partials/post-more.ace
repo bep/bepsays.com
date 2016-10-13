@@ -1,11 +1,9 @@
 div.post-more-container
   div.post-more
     div.btn-group
-      a class="btn btn-lg bs-btn-default{{if not .Next}} disabled{{end}}" href={{if .Next}}{{.Next.Permalink}}{{end}} {{ T "older" }}
-      a class="btn btn-lg bs-btn-default{{if not .Prev}} disabled{{end}}" href={{if .Prev}}{{.Prev.Permalink}}{{end}} {{ T "newer" }}
-      {{ range .Params.categories }}
-      a.btn.btn-lg.bs-btn-info href={{ printf "categories/%s" (lower .)  | relLangURL }} {{ . }}
-      {{ end }}
+      a class="btn btn-lg bs-btn-default{{if not .PrevInSection}} disabled{{end}}" href={{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}} {{ T "older" }}
+      a class="btn btn-lg bs-btn-default{{if not .NextInSection}} disabled{{end}}" href={{if .NextInSection}}{{.NextInSection.Permalink}}{{end}} {{ T "newer" }}
+      a.btn.btn-lg.bs-btn-info href={{ .Section | lower | relLangURL }} {{ T (printf "sect_%s" .Section) }}
   = include partials/series.html .
 
 

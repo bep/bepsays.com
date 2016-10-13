@@ -2,8 +2,7 @@
 date: 2010-09-09 15:52:04+00:00
 slug: websocket-blir-den-neste-inettrevolusjonen
 title: WebSockets blir den neste nettrevolusjonen
-categories:
-- Teknologi
+
 ---
 **WebSockets blir den neste store nettrevolusjonen! Ein bråkjekk påstand, men eg vart overtydd av foredraget «HTML5 & WebSockets: Think BIG.  Really BIG!»  av [John Fallows](http://johnfallows.sys-con.com/) på [JavaZone](http://javazone.no) onsdag. Tenk stort! seier Fallows -- og han har rett.**
 

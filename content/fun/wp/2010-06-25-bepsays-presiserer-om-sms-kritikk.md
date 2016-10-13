@@ -2,8 +2,7 @@
 date: 2010-06-25 05:30:39+00:00
 slug: bepsays-presiserer-om-sms-kritikk
 title: bepsays presiserer om SMS-kritikk
-categories:
-- Spit
+
 ---
 
 **_bepsays_ kom i går i skade for å stole på NRK Sogn og Fjordane som kjelde for påstanden om at Clara Øberg hadde sagt at ho ikkje hadde fått ein SMS frå statssekretær Roger Ingebrigtsen.**

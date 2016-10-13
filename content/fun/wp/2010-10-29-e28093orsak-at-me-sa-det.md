@@ -4,8 +4,7 @@ slug: 'orsak-at-me-sa-det'
 title: – Orsak at me sa det me sa!
 tags: 
 - Asterisk
-categories:
-- Spit
+
 ---
 
 {{< img src="/assets/img/wp/800px-Jan_Erik_Vold2-bs400.jpg" class="alignright small" caption="Diktaren Jan Erik Vold er mannen bak mellom anna diktet Kulturuke. Foto: Jarle Vines (Wikimedia Commons)" >}}

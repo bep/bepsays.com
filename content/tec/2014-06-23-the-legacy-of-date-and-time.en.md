@@ -5,9 +5,7 @@ title: The legacy of date and time
 title_main: |
             The legacy of  
             date and time
-categories:
-- English
-- Teknologi
+
 blackfriday:
   angledQuotes: false
 

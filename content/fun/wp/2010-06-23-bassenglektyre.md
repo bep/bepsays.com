@@ -2,8 +2,7 @@
 date: 2010-06-23 17:44:52+00:00
 slug: bassenglektyre
 title: Bassenglektyren er sikra!
-categories:
-- Litteratur
+
 ---
 {{< img src="/assets/img/wp/800px-Old_book_bindings.jpg" class="alignright" caption="Gamle bøker. Foto: Tom Murphy VII (Wikimedia commons)" >}}
 

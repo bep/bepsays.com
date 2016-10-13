@@ -2,8 +2,7 @@
 date: 2010-10-20 14:06:04+00:00
 slug: blir-det-reprise-i-kveld-tommy
 title: Blir det reprise i kveld, Tommy?
-categories:
-- Fotball
+
 ---
 
 **Det er ti år sidan den kalde og våte haustkvelden på Ullevaal stadion. Verdens Gang skildra sluttminuttane slik:**

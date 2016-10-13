@@ -3,8 +3,7 @@ draft: true
 tags:
 - EWI
 title: "To EWI or Not to EWI"
-categories:
-- Music
+
 date: "2016-09-07T23:33:43+03:00"
 images:
 - /assets/img/2016/ewi/akai-ewi-ipad-setup.jpg

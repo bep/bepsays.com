@@ -2,8 +2,7 @@
 date: 2014-04-26 19:04:15+00:00
 slug: lee-childs-topp-40
 title: Lee Childs topp 40
-categories:
-- Litteratur
+
 ---
 
 **Om [Lee Child](http://en.wikipedia.org/wiki/Lee_Child) seier ei bok er god, les eg ho. Difor les eg no [Alistair MacLean](http://www.goodreads.com/author/show/26970.Alistair_MacLean), favoritten min frå då eg var litt yngre.**

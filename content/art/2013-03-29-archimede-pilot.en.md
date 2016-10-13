@@ -3,10 +3,7 @@ date: 2013-03-29 16:46:21+00:00
 slug: archimede-pilot
 title: Archimede pilot
 gallery_id: 6077470076387535745
-categories:
-- English
-- Klokke
-- Foto
+
 blackfriday:
   angledQuotes: false
 

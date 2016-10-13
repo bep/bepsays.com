@@ -6,10 +6,7 @@ title_main: |
             My beautiful  
             German automatic
 gallery_id: 6077466576636585809
-categories:
-- English
-- Klokke
-- Foto
+
 blackfriday:
   angledQuotes: false
 

@@ -1,6 +1,5 @@
 ---
-categories:
-- Kultur
+
 date: 2015-05-08T15:33:42+02:00
 tags:
 - Musikk

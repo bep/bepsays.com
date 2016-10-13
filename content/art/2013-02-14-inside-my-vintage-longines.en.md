@@ -3,10 +3,7 @@ date: 2013-02-14 12:07:03+00:00
 slug: inside-my-vintage-longines
 title: Inside my vintage Longines
 gallery_id: 6077464374624361441
-categories:
-- English
-- Klokke
-- Foto
+
 blackfriday:
   angledQuotes: false
 

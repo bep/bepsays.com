@@ -44,11 +44,15 @@
   translation: "http://bep.is"
   
 # Section mappings
-- id: sect_Fun
+- id: sect_fun
   translation: "Fun Stuff"
-- id: sect_Art
+- id: sect_art
   translation: "Culture and Arts"
-- id: sect_Tec
+- id: sect_tec
   translation: "Technology"
-- id: sect_Pol
+- id: sect_pol
   translation: "Opinions"
+- id: sect_page
+  translation: "Page"
+- id: sect_
+  translation: "-"

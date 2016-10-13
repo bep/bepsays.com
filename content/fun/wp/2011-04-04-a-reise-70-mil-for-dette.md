@@ -2,8 +2,7 @@
 date: 2011-04-04 19:02:56+00:00
 slug: a-reise-70-mil-for-dette
 title: Å reise 70 mil for dette!
-categories:
-- Fotball
+
 ---
 
 **Eg var i Sogndal i helgi, mykje for å sjå heimestarten i tippeligaen, Sogndal skulle møte Odd-Grenland. Eg tok fly, og det er eg glad for. Det kosta, men ettersom ein kjøpmann frå Sogndal ordna ein gratisbillett til kampen (takkar, kjøpmann!), så vart det ikkje ille.**

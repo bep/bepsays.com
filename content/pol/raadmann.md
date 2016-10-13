@@ -1,6 +1,5 @@
 ---
-categories:
-- Fylkesspit
+
 date: 2016-06-07T15:13:06+02:00
 expiryDate: 2016-06-07T15:13:06+02:00
 tags:

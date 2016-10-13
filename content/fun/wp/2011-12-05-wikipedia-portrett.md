@@ -2,9 +2,7 @@
 date: 2011-12-05 17:21:56+00:00
 slug: wikipedia-portrett
 title: Optimal plassering av eit portrett
-categories:
-- Kultur
-- Teknologi
+
 ---
 
 **WikiMedia samlar inn pengar, og har valgt å venstrejustere kampanjeportretta rett over artikkeltittelen i Wikipedia.**

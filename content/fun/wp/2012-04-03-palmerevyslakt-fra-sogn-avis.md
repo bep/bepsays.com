@@ -5,8 +5,7 @@ title: Palmerevyslakt frå Sogn Avis
 title_main: |
             Palmerevyslakt  
             frå Sogn Avis
-categories:
-- Spit
+
 ---
 
 **Gjennomgangstonen i Sogn Avis si omtale av Palmerevyen på Leikanger har dei siste 30 åra vore [«betre enn nokon sinne.»](http://bepsays.com/2011/04/palmerevyen-nar-snart-mount-everest/) I slikt perspektiv framstår årets [omtale](http://www.sognavis.no/lokale_nyhende/article5995514.ece) som eit slakt.**

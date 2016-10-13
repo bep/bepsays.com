@@ -2,8 +2,7 @@
 date: 2012-10-12 17:12:12+00:00
 slug: hsf-verdsleiande-noregstoar
 title: Verdsleiande noregstoar
-categories:
-- Spit
+
 ---
 
 **Høgskulen i Sogn og Fjordane er ikkje inne [på listene](http://www.aftenposten.no/jobb/Norske-universiteter-ligger-langt-bak-eliten-6999890.html) over verdas beste universitet. Men det kan det bli ei endring på.**

@@ -45,11 +45,15 @@
   translation: "http://bep.is/nn/"
   
 # Section mappings
-- id: sect_Fun
+- id: sect_fun
   translation: "Moro"
-- id: sect_Art
+- id: sect_art
   translation: "Kultur og kunst"
-- id: sect_Tec
+- id: sect_tec
   translation: "Teknologi"
-- id: sect_Pol
+- id: sect_pol
   translation: "Meiningar"
+- id: sect_page
+  translation: "Side"
+- id: sect_
+  translation: "-"

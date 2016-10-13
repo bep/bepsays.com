@@ -2,9 +2,7 @@
 date: 2011-04-18 19:25:26+00:00
 slug: a-lage-ein-app-for-android
 title: Å lage ein app for Android
-categories:
-- Fotball
-- Teknologi
+
 ---
 
 **Eg beit i det sure eller søte eplet her om dagen, og kjøpte meg ein [Samsung Nexus S Android](http://www.amobil.no/artikler/samsung_nexus_s/81508/konklusjon)-telefon, og måtte teste ut kor lett/vanskeleg det var å lage min første app.**

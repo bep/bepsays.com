@@ -1,6 +1,5 @@
 ---
-categories:
-- Kultur
+
 date: 2014-12-24T12:24:58+01:00
 draft: false
 tags:

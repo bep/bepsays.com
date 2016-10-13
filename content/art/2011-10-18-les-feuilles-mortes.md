@@ -5,8 +5,7 @@ title: Les Feuilles mortes
 gallery_id: 6077467265578334625
 tags: 
 - Asterisk
-categories:
-- Foto
+
 ---
 
 **Les Feuilles mortes, autumn leaves, døyande blad. Det er haust i Oslo. Dette er Uranienborgparken:**

@@ -4,8 +4,7 @@ slug: palmerevyen-nar-snart-mount-everest
 title: Palmerevyen når snart Mount Everest
 tags: 
 - Asterisk
-categories:
-- Spit
+
 ---
 
 **«Palmerevyen til nye høgder,» melder Sogn Avis på framsida av papirutgåva, og då veit ein at det er påske.**

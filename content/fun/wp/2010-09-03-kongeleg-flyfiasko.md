@@ -2,8 +2,7 @@
 date: 2010-09-03 16:00:44+00:00
 slug: kongeleg-flyfiasko
 title: Kongeleg flyfiaskofølgjetong!
-categories:
-- Spit
+
 ---
 
 **Lokalpressa har prøvd seg på hoffrapportering denne veka. Dronning Sonja har floge med [Widerøe ](http://nn.wikipedia.org/wiki/Wider%C3%B8es_Flyveselskap_ASA)– og kom to timar for seint, sjølvsagt. Ho rakk å plante plometre og helse på ungar i Luster, skriv [Sogn Avis]( http://www.sognavis.no/lokale_nyhende/article5275099.ece).  «Beklaga at ho kom for seint,» [avslører](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7275194) NRK Sogn og Fjordane. Det er ikkje mykje spenst i denne journalistikken, og eg trur kioskveltarane er der om ein leitar:**

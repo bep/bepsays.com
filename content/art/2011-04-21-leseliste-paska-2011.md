@@ -2,8 +2,7 @@
 date: 2011-04-21 13:48:37+00:00
 slug: leseliste-paska-2011
 title: Leseliste påska 2011
-categories:
-- Litteratur
+
 ---
 **Påske = krimlitteratur. For meg er vel denne likninga sann med alle høgtider og årstider på venstresida, men eg har handla inn nokre knakande gode bøker som eg skal sluke under påskesoli:**
 

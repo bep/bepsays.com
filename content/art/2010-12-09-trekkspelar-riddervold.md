@@ -2,8 +2,7 @@
 date: 2010-12-09 15:27:47+00:00
 slug: trekkspelar-riddervold
 title: Trekkspelaren på Riddervolds plass
-categories:
-- Kultur
+
 ---
 
 **I Riddervoldsgate i Oslo står to klesbutikkar:  [H. M. Ramstad](http://www.bruunsbazaar.com/) og [Bruuns Bazaar Copenhagen](http://www.bruunsbazaar.com/). Eg står ofte med ryggen til dei, ventande på ein trikk. Det hender eg snur meg, litt kaldgufsen, og ser inn på kleda gjennom vindaugene.**

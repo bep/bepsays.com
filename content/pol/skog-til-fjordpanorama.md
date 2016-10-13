@@ -1,6 +1,5 @@
 ---
-categories:
-- Spit
+
 date: 2016-03-17T16:50:50+01:00
 tags:
 - Spit

@@ -2,8 +2,7 @@
 date: 2010-12-11 22:11:26+00:00
 slug: staffan-kan-framleis-spele-gitar
 title: Staffan kan framleis spele gitar
-categories:
-- Kultur
+
 ---
 
 **Eg snubla innom [Herr Nilsen](http://herrnilsen.no/H111210e.html) i ettermiddag, der Staffan William-Olsson og Einar «pastoren» Iversen heldt konsert.**

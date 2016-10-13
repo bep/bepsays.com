@@ -1,6 +1,5 @@
 ---
-categories:
-- Kultur
+
 date: 2015-03-09T13:59:44+01:00
 tags:
 - Sogndal storband

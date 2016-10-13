@@ -1,6 +1,5 @@
 ---
-categories:
-- Teknologi
+
 date: 2016-10-12T12:14:47+01:00
 lastmod: 2016-10-12T12:14:47+01:00
 draft: true

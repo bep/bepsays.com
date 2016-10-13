@@ -2,8 +2,7 @@
 date: 2010-09-01 18:01:26+00:00
 slug: ubuntu-vs-os-x-vs-windows-7
 title: Ubuntu vs OSX vs Windows 7
-categories:
-- Teknologi
+
 ---
 {{< img src="/assets/img/wp/screenshot-1-1024x819.png" class="alignright" caption="Ubuntu slik det KAN sjå ut." >}}
 

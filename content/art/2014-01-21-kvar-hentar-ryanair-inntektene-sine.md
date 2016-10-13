@@ -2,8 +2,7 @@
 date: 2014-01-21 21:37:02+00:00
 slug: kvar-hentar-ryanair-inntektene-sine
 title: Kvar hentar Ryanair inntektene sine?
-categories:
-- Reise
+
 ---
 
 **Jomfruturen min med flyselskapet Ryanair fekk ein kronglete start, men enda vel ikkje så aller verst.**

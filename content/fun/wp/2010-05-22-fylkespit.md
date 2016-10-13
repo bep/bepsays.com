@@ -2,8 +2,7 @@
 date: 2010-05-22 12:00:49+00:00
 slug: fylkespit
 title: Fylkesspit
-categories:
-- Spit
+
 ---
 
 **Eg tenkte eg skulle starte ei ny vevlogg-spalte med namnet Fylkesspit, der eg ser på ufrivillig morosame tekstar i lokal- og regionpressa i Sogn og Sunnfjord.**

@@ -1,6 +1,5 @@
 ---
-categories:
-- Fotball
+
 date: 2015-06-12T23:48:13+02:00
 draft: true
 tags:

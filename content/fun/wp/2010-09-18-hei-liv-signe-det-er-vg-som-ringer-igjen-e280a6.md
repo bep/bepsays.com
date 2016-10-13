@@ -2,8 +2,7 @@
 date: 2010-09-18 15:59:09+00:00
 slug: hei-liv-signe-det-er-vg-som-ringer-igjen-%e2%80%a6
 title: – Hei, Liv Signe; det er VG som ringer, igjen …
-categories:
-- Spit
+
 ---
 
 **[Liv Signe Navarsete](http://nn.wikipedia.org/wiki/Liv_Signe_Navarsete), ein sambygding av meg frå gamalt av, må svare for seg i avisene om dagen om kva ho og/eller partiet hennar har fått og kva dei ikkje har fått, om det dei har fått, men ikkje sagt at dei har fått og så bortetter.**

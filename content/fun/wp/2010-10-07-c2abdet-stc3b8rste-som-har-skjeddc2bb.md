@@ -4,8 +4,7 @@ slug: '%c2%abdet-st%c3%b8rste-som-har-skjedd%c2%bb'
 tags: 
 - Asterisk
 title: «Det største som har skjedd!»
-categories:
-- Spit
+
 ---
 
 **«2160 menn omkom. Vi snakkar altså om det største slaget i norsk historie. Det er ei skam at Sogn ikkje har fått til kulturnæring av Slaget ved Fimreite,»  fortel lokalhistorikar Johs B. Thue til [NRK Sogn og Fjordane](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7323241).**

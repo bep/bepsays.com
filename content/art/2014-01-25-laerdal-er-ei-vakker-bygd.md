@@ -6,8 +6,7 @@ title: |
     ei vakker bygd!
 tags: 
 - Asterisk
-categories:
-- Kultur
+
 ---
 
 **Lærdal er ei vakker bygd. Ho vil alltid vera vakker.**

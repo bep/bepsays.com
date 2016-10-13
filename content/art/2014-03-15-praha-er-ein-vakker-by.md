@@ -5,8 +5,7 @@ title: Praha er ein vakker by
 gallery_id: 5985188713929977457
 tags: 
 - Asterisk
-categories:
-- Foto
+
 - Reise
 ---
 

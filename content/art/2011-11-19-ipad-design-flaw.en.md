@@ -3,9 +3,7 @@ date: 2011-11-19 18:03:59+00:00
 slug: ipad-design-flaw
 title: iPad’s design flaw
 gallery_id: 6077500320827051569
-categories:
-- Teknologi
-- Foto
+
 ---
 
 **Steve Jobs was all about details, but he missed one with the iPad 2-design: It looks less than perfect from behind when connected to power.**

@@ -2,8 +2,7 @@
 date: 2010-12-13 21:07:51+00:00
 slug: ja-dei-er-verkeleg-sa-gode
 title: Ja, dei er verkeleg så gode!
-categories:
-- Teknologi
+
 ---
 
 **Nettet treng kanskje ikkje endå eit innlegg som påstår at [Bose QC 15](BOSE QuietComfort 15 ) er den største oppfinninga sidan skjerpa brød.**

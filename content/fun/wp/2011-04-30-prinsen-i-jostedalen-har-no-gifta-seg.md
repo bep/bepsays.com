@@ -2,8 +2,7 @@
 date: 2011-04-30 20:53:24+00:00
 slug: prinsen-i-jostedalen-har-no-gifta-seg
 title: Prinsen i Jostedalen har gifta seg
-categories:
-- Spit
+
 ---
 
 **Prins William av Wales gifta seg denne veka. I 2004 var han i Jostedalen, [på same hotellet](http://nrk.no/nyheter/distrikt/nrk_sogn_og_fjordane/1.7611756) som ei mengd NRK-journalistar.**

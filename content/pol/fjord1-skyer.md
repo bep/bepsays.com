@@ -1,6 +1,5 @@
 ---
-categories:
-- Fylkesspit
+
 date: 2016-06-12T20:53:02+02:00
 tags:
 - Sogn Avis

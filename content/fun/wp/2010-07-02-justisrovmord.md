@@ -2,8 +2,7 @@
 date: 2010-07-02 16:04:08+00:00
 slug: justisrovmord
 title: Justismord av rovdyr?
-categories:
-- Spit
+
 ---
 
 **Kven drap eigentleg [sauene i Lærdalsfjella](http://sognavismeiner.origo.no/-/bulletin/show/581270_kjapp-visitt)? Dette og andre interessante spørsmål blir stilte i leiaren i Sogn Avis, no som redaktøren er på ferie.**

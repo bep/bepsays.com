@@ -4,8 +4,7 @@ slug: om-slekta-ein-ikkje-kjenner
 tags: 
 - Asterisk
 title: Om slekta ein ikkje kjenner
-categories:
-- Kultur
+
 ---
 
 **Dette fotografiet er det eg veit om oldeforeldergenerasjonen på farsida mi.**

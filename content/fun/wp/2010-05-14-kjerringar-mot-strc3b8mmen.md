@@ -2,8 +2,7 @@
 date: 2010-05-14 14:12:42+00:00
 slug: kjerringar-mot-str%c3%b8mmen
 title: Kjerringar mot Strømmen
-categories:
-- Fotball
+
 ---
 
 **Eg veit det ikkje er særleg politisk korrekt å bruke "kjerring" som bilete på ein halvdårleg fotballspelar. Men i morgon møter Sogndal, kjerringane, Strømmen på bortebane, og eg kjenner meg som ein halvdårleg VG-journalist på leit etter plumpe overskrifter.**

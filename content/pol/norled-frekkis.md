@@ -1,6 +1,5 @@
 ---
-categories:
-- Kultur
+
 date: 2015-07-12T15:30:39+02:00
 tags:
 - Sogndal

@@ -2,8 +2,7 @@
 date: 2012-11-24 15:16:47+00:00
 slug: julie-si-storbandjul
 title: Julie si storbandjul
-categories:
-- Kultur
+
 ---
 
 **Trykk på [denne](http://www.bajazz-bigband.com/storbandjul-julie-2012/) for informasjon om ein konsert som eg ikkje ville gått glipp av, om eg var i Oslo fredag 14. desember 2012.**

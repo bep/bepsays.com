@@ -1,6 +1,5 @@
 ---
-categories:
-- Teknologi
+
 date: 2014-11-08T09:57:44+01:00
 draft: false
 tags:

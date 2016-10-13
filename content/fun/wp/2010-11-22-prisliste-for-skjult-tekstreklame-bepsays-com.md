@@ -2,8 +2,7 @@
 date: 2010-11-22 05:53:01+00:00
 slug: prisliste-for-skjult-tekstreklame-bepsays-com
 title: Prisliste for dårleg skjult tekstreklame på bepsays.com
-categories:
-- Spit
+
 ---
 
 **Caroline Berg er gift med ein fotballspelar og ho skriv på bloggen sin fotballfrue.no.  Ho har fått [hard medfart](http://e24.no/media/article3911767.ece) i den kritiske nettpresa etter at det kom for ein dag  at ho krev pengar for å skrive bokmeldingar og liknande.**

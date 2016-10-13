@@ -1,6 +1,5 @@
 ---
-categories:
-- Kultur
+
 date: 2015-03-03T16:27:49+01:00
 tags:
 - Fylkesspit

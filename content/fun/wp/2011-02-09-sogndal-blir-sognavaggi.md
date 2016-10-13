@@ -2,8 +2,7 @@
 date: 2011-02-09 19:08:06+00:00
 slug: sogndal-blir-sognavaggi
 title: Sogndal blir Sognavággi
-categories:
-- Spit
+
 ---
 
 **I alle fall blir Sognavággi sidestilt med Sogndal på vegskilta ved kommunegrensene. – Det har flytta inn eit samisk ektepar i den gamle disponentbustaden i Øyane, og då er det berre rett og rimeleg at dei to språka blir jamstilte, seier ordførar Jarle Aarvoll til _bepsays_.**
