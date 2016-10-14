@@ -1,4 +1,7 @@
 
+{{define "titleHead"}}
+{{ T (printf "sect_%s" (.Title|lower)) }}
+{{end}}
 
 {{define "main"}}
 <div class="content main">

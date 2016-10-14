@@ -4,7 +4,9 @@
 <head>
     {{ partial "head.html" . }}
     <title>
-            {{ .Title }} 
+        {{block "titleHead" .}}
+        {{ .Title }}
+        {{end}}
  </title>
 </head>
 
