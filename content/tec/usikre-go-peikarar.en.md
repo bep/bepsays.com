@@ -1,7 +1,7 @@
 ---
 
-date: 2016-10-12T12:14:47+01:00
-lastmod: 2016-10-12T12:14:47+01:00
+date: 2016-10-14T12:14:47+01:00
+lastmod: 2016-10-14T12:14:47+01:00
 draft: true
 tags:
 - Go
@@ -15,7 +15,7 @@ images:
 
 <!--more-->
 
-With emphasis on *may*. This is not an advice, but more a demonstration of some of the interesting dark alleys in Go.
+With emphasis on *may*. This is not an advice, but more a demonstration of some of the interesting dark alleys in Go City.
 
 
 {{< img src="/assets/img/2014/Golang.png" class="small" caption="The Go Gopher. Design: Renée French" >}}
@@ -73,17 +73,17 @@ And run these with:
 BenchmarkSafeBytesToString-4  30000000  47.7 ns/op  48 B/op	  1 allocs/op
 BenchmarkUnsafeBytesToString-4   2000000000  1.04 ns/op  0 B/op	  0 allocs/op
 ```
-The unsafe variant is blistering fast -- and no memory allocation!
+The unsafe variant is fast as lightning -- and no memory allocation!
 
 ## Bytes are Changing
 
-`unsafe.Pointer` lives in the package with a name that smells danger. You are on your own and without seat belts: Behaviour may change from Go version to the next and there are no guarantees that it behaves the same on the different platform.
+`unsafe.Pointer` lives in the package that spells danger. You are on your own without seat belts: Behaviour may change from Go version to the next and there are no guarantees that it behaves the same on different platforms.
 
 But it is tempting in some rare cases to get rid of those memory allocations and reduce garbage collection.
 
-A regular `string` (`s := "Hello World!"`) in Go is immutable -- it will never change. If we revisit to the two functions that started this: What happens if the original byte slice changes after it is converted to a string?
+A regular `string` (`s := "Hello World!"`) in Go is immutable -- it will never change. If we revisit the two functions earlier: What happens if the original byte slice changes?
 
-Look at the two tests below. Both of them runs without error.
+Both tests run without error:
 
 ``` go
 var testString = "The quick brown fox jumps over the lazy dog."
@@ -125,17 +125,23 @@ func TestUnsafeBytesToString(t *testing.T) {
 
 The *unsafe string* has changed in line with the byte slice.
 
-This is fine if that is what you want and you know about it, but it can be a major surprise if you don't.
+This is fine if this is what you want and expect, but it can be a major surprise if you don't.
 
 **Mutable objects are a big contributor in the bug department.**
 
 ## Search and Replace
 
-No er kanskje ikkje dette den mest matnyttige kunnskapen. Ein kjem ofte nok opp i situasjonar der ein har ein `[]byte` og treng ein `string`, men ein har det kanskje ikkje så travelt med å få det gjort, og minne er det nok av. Men ettersom `string` er ein slags berre-les-versjon av `[]byte`, kan ein jo spørje seg kvifor smartingane i Google ikkje valde i slå dei samen. `strings`- og `bytes`-pakken er full av funksjonar og metodar som ser nesten like ut, og utan generiske typar blir det mykje kodeduplisering.
+I will leave it up to the reader to find practical use cases for this, but I will spend some time investigating *text search and replace*, a common problem.
 
-No har `strings`-pakken noko som ikkje finst i spegelpakken, som t.d. den lynraske `strings.Replacer`. Som namnet fortel, er denne til for å erstatte deltekstar i ein større tekst. I Google _kan_ dei tekstsøk, og denne er rask. Eg har sjølv  [etterlyst](https://github.com/golang/go/issues/9905) ein `bytes`-versjon, men i mellomtida er det `strings`-pakken som er gjeldande.
+In the Go stdlib there are both a `strings` and a `bytes` package. That there is two packages that seems to be mostly duplicates was probably a mistake by the Go language designers, but that is another and bigger dicsussion. 
 
-Men om utgangspunktet er `[]byte` går vinninga lett opp i spinninga om du først må kopiere over i ein `string`:
+There is, however, one nice feature in `strings` that does not exist in the `bytes` mirror: The `strings.Replacer`. 
+
+I created the GitHub issue [bytes: add Replacer](https://github.com/golang/go/issues/9905) last winter, and while it got several "I want this" and "we should do this" from core Go people, it eventually got rejected -- because doing it the effective way, by changing the input byte slice, would make it different from the `strings` alternative.
+
+That is a petty, because `strings.Replacer` is really fast and really useful.
+
+And when using the `strings` version for `byte` slices, the win and loss evens out:
 
 ``` go
 type appendSliceWriter []byte
@@ -220,14 +226,20 @@ func BenchmarkMultiplesStringsReplace(b *testing.B) {
 }
 ```
 
-No gir ikkje dette det heilt store utslaget, men dette er meir merkbart med større tekstmengder:
+Running the benchmarks above:
 
 ```bash
-BenchmarkUnsafeStringsReplacer-4  5000000  247 ns/op  0 B/op  0 allocs/op
-BenchmarkSafeStringsReplacer-4   5000000  294 ns/op  48 B/op  1 allocs/op
+BenchmarkUnsafeStringsReplacer-4  5000000  254 ns/op  0 B/op  0 allocs/op
+BenchmarkSafeStringsReplacer-4  5000000  290 ns/op  48 B/op  1 allocs/op
+BenchmarkMultipleBytesReplace-4  3000000  407 ns/op  144 B/op  3 allocs/op
+BenchmarkMultiplesStringsReplace-4  2000000  637 ns/op  288 B/op  6 allocs/op
 ```
 
-Dømet over syner også fram to andre finurlege eigenskapar ved _Go_: Grensesnitt-oppgradering og at `append(bytesBuff, aString...)` er "gratis" på minnefronten.
+The above tries to demonstrate using the `strings.Replace` for `byte` slices both in a safe and unsafe way, and then doing the same replacements with the `bytes.Replace` and `strings.Replace` functions.
+
+The numbers speak for themselves, but `strings.Replace` is very effective when you have a fixed set of replacements and If you really care about memory allocations, using it for `byte` slices may be an option.
+
+The example above also show two peculiar features in Go: interface-upgrades and the fact that `append(bytesBuff, aString...)` is "free" in the memory department:
 
 * `replacer.WriteString` tek ein `io.Writer`, men internt blir det oppgradert til eit `stringWriterIface` om også  `WriteString(s string)` er implementert.
 * `appendSliceWriter.WriteString(s string)` utnyttar eit spesialtilfelle i _Go_:
