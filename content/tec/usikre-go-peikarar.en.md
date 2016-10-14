@@ -7,7 +7,7 @@ tags:
 title: Unsafe Go Strings
 slug: unsafe-go-strings
 images:
-- /assets/img/2014/Golang.png
+- /assets/img/2016/wires-bangkok-photo_by_Robert_Tiefenbach.jpg
 ---
 
 **Go is the Ferrari of programming languages. But there are occasional friction that may lure you into unsafe terrain.**
@@ -73,7 +73,7 @@ BenchmarkUnsafeBytesToString-4   2000000000  1.04 ns/op  0 B/op	  0 allocs/op
 ```
 The unsafe variant is fast as lightning -- and no memory allocation! 
 
-And I think it is safe to say that it's not unsafe as in *it will suddenly stop working* in a future Go version. It is in heavy use on GitHub, as shown in this query in Google's smaller sample data set:[^github-bigdata]
+And I think it is safe to say that it's not unsafe as in *it will suddenly stop working* in a future Go version. It is in heavy use on GitHub, as shown in this query against Google's smaller sample data set:[^github-bigdata]
 
 ```sql
 SELECT
