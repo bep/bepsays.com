@@ -1,5 +1,5 @@
 {{ if .IsTranslated }}
     {{ range $i, $e := .Translations }}
-        {{ if $i }}, {{ end }}<a href="{{ .Permalink }}"><< {{ $e.Language.LanguageName }}{{ if .IsPage }} ({{ i18n "wordCount" . }}){{ end }}</a>
+        {{ if $i }}, {{ end }}<a href="{{ .Permalink }}">{{ $e.Language.LanguageName }}</a>
     {{ end}}
 {{ end }}

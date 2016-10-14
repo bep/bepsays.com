@@ -1,5 +1,7 @@
 - id: translations
-  translation: "Alt. språk"
+  translation: 
+    one: "Omsetjing"
+    other: "Omsetjingar"
 
 - id: wordCount
   translation: "{{ .WordCount }} ord"

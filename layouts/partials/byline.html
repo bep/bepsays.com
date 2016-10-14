@@ -7,5 +7,6 @@
 {{- end -}}
 </em>
 {{ end}}
-<p class="reading-time">{{ T "wordCount" . }}, {{ T "readingTime" .ReadingTime }}</p>
+<p class="reading-time">{{ T "wordCount" . }}, {{ T "readingTime" .ReadingTime }}.
+{{ if .IsTranslated }}{{ T "translations" (len .Translations ) }}:{{ partial "translations.html" . }}{{ end }}</p>
 </div>

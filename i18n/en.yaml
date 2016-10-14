@@ -1,5 +1,9 @@
+
 - id: translations
-  translation: "Alt language"
+  translation: 
+    one: "Translation"
+    other: "Translations"
+ 
 - id: wordCount
   translation: "{{ .WordCount }} words"
 
