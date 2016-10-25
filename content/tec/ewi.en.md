@@ -2,19 +2,19 @@
 draft: true
 tags:
 - EWI
-title: "To EWI or Not to EWI"
-
-date: "2016-09-07T23:33:43+03:00"
+title: "To EWI or Not to EWI?"
+slug: to-ewi-or-not-to-ewi
+date: "2016-10-16T23:33:43+03:00"
 images:
 - /assets/img/2016/ewi/akai-ewi-ipad-setup.jpg
 ---
-**The Akai EWI wind controller is a frequent sell on eBay, as people don't realize it is not a toy -- it is a real instrument.**
+**The Akai EWI wind controller is a frequent sell on eBay, as people don't realize it is not a toy -- it is a real music instrument.**
 
 <!--more-->
 
 And as with all real instruments, you have to invest some practice until it gets fun.
 
-I have had my EWI USB for three weeks now. Read on to see how it stacks up with the Yamaha WX11 I had back in the 90s.
+I have had my EWI USB for a month or so now. Read on to see how it stacks up with the Yamaha WX11 I had back in the 90s.
 
 ## My Setup
 
@@ -32,7 +32,7 @@ A couple of notes on the above:
 
 * You need an USB HUB to get rid of the error message on the iPad saying "attached accessory uses too much power." Any USB HUB should work fine, powered or not.
 * The free Magellan synth combined with the free patches is the best 15 USD I ever spent. The patches may be a little limited in choice, but they sound smashing.
-* 
+
 
 ### Settings
 
@@ -51,7 +51,11 @@ After some weeks with the EWI USB I can say this about the core differences:
 Roland recently released the [Aerophone AE 10](https://www.roland.com/global/products/aerophone_ae-10/). I haven't tried it, but there are some impressive demos online. It seems to have a mouthpiece similar to the Yamaha, but have opted for keys similar to the saxophone, which I think is a mistake on a digital instrument.
 
 ## Patches
-https://www.youtube.com/watch?v=nKvo1yZBkr0
+
+The "Truth?" patch on Magellan -- on a humble attempt from me to do some Breckerish *In a sentimental mood*.
+
+{{< youtube T68Sani9vd0 >}}
+
 
 ## Setup
 
