@@ -5,9 +5,8 @@ title_main: |
    Hugo 0.18 Released:
    **Everything Now a Page, and Twice as Fast!**
 slug: hugo-018
-url: hugo018
 images:
-- /assets/img/hugo.png
+- /assets/img/hugo-logo.png
 ---
 **A nice Christmas present: We released Hugo  0.18 today -- the very popular   static website generator written in Go! Loaded with new and exiting features --  and with dramatically improved performance!**
 <!--more-->
