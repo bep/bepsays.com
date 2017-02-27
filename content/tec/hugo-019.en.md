@@ -6,7 +6,7 @@ title_main: |
    **Native Emacs Org-mode Support and Lots of Improvement!**
 slug: hugo-019
 images:
-- /assets/img/hugo-logo.png
+- /assets/img/hugo.png
 ---
 **More than 180 contributions by 50 contributors in two months is impressive. The new Hugo 0.19 has plenty of fixes, enhancements and new features.**
 
@@ -17,6 +17,8 @@ Grab the binary of your choice [here](https://github.com/spf13/hugo/releases/tag
 
 
 ## Release Notes
+
+{{< img src="/assets/img/hugo.png" class="small" >}}
 
 We're happy to announce the first release of Hugo in 2017.
 

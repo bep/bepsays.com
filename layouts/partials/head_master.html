@@ -48,23 +48,15 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}" />
-{{ with .Params.images }}{{ range first 6 . }}
-<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}http://bepsays.com{{ . }}{{ end }}" />
-{{ end }}{{ end }}
+{{ with .Params.images }}
+<meta property="og:image" content="{{ index . 0 | absURL }}" />
+{{ end }}
 {{ if .IsPage }}
 <meta property="og:updated_time" content="{{ .Date }}"/>
 {{ end }}
 
-{{ with .Params.images }}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image:src" content="{{ if in . "http" }}{{ . }}{{ else }}http://bepsays.com{{ . }}{{ end }}"/>
-{{ else }}
-<meta name="twitter:card" content="summary"/>
-{{ end }}
-<meta name="twitter:site" content="@bepsays">
-<meta name="twitter:url" content="{{ .Permalink }}">
-<meta property="twitter:title" content="{{ .Title }}" />
-<meta property="twitter:description" content="{{if .IsPage}}{{ .Summary }}{{else}}{{.Site.Params.description}}{{end}}" />
+ {{ template "_internal/twitter_cards.html" . }}
+
 {{ if not .Site.BuildDrafts }}
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
