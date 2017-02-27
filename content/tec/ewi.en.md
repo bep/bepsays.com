@@ -18,21 +18,32 @@ I have had my EWI USB for a month or so now. Read on to see how it stacks up wit
 
 ## My Setup
 
-{{< img src="/assets/img/2016/ewi/akai-ewi-ipad-setup.jpg" caption="My EWI with iPad setup." >}}
+
 
 ### Hardware and Software
 
 * iPad Air 2 16GB WIFI
-* Logik 4 ports USB HUB
-* [Apple Lightning to USB Camera Adapter](http://www.apple.com/shop/product/MD821AM/A/lightning-to-usb-camera-adapter)
 * [Magellan](http://www.yonac.com/magellan/) synth with [mkirino01's](https://www.youtube.com/watch?v=nKvo1yZBkr0) great, free patches (as shown in the picture above).
 * [Thor synth with Patchman patches](http://www.patchmanmusic.com/PropellerheadThor.html)
 
-A couple of notes on the above:
+The free Magellan synth combined with the free patches is the best 15 USD I ever spent. The patches may be a little limited in choice, but they sound smashing.
 
-* You need an USB HUB to get rid of the error message on the iPad saying "attached accessory uses too much power." Any USB HUB should work fine, powered or not.
-* The free Magellan synth combined with the free patches is the best 15 USD I ever spent. The patches may be a little limited in choice, but they sound smashing.
 
+**For wireless/bluetooth connection:**
+
+* [UD-BT01 bluetooth dongle](http://usa.yamaha.com/products/music-production/accessories/usb-midi/ud-bt01/)
+* An USB battery/powerbank, use [this](http://www.clasohlson.com/no/Clas-Ohlson,-Powerbank-2600-mAh-/Pr386941000)
+* A way to set the IOS bluetooth midi device. I use  see [Yamaha support](http://faq.yamaha.com/us/en/article/music-production/accessories/usb-midi/ud-bt01/11021/9065). I use the [Visual performer app](https://itunes.apple.com/us/app/visual-performer-us/id548859733?mt=8).
+* UD-BT01 utility to set bluetooth device name and update firmware: https://itunes.apple.com/us/app/md-bt01-ud-bt01-utility-us/id1106859013?mt=8
+* 
+**For wired connection:**
+
+{{< img src="/assets/img/2016/ewi/akai-ewi-ipad-setup.jpg" caption="My wired EWI with iPad setup." class="small" >}}
+
+* Logik 4 ports USB HUB
+* * [Apple Lightning to USB Camera Adapter](http://www.apple.com/shop/product/MD821AM/A/lightning-to-usb-camera-adapter)
+
+ You need an USB HUB to get rid of the error message on the iPad saying _"attached accessory uses too much power."_ Any USB HUB should work fine, powered or not.
 
 ### Settings
 
@@ -57,8 +68,18 @@ The "Truth?" patch on Magellan -- on a humble attempt from me to do some Brecker
 {{< youtube T68Sani9vd0 >}}
 
 
-## Setup
+
+## Improvements to my setup
+
+The big plus about the EWI USB is that it is so easy to just grab and start playing, either solo or with some accompagnement from the iPad or iPhone, so compact that you can even bring it with you on trips.
+
+I really wish Akai would release a new version of the EWI USB with:
+
+* Built-in battery and Bluetooth midi support.
+* A full set of octave rollers, similar to EWI 4000/5000.
+
+The EWI 5000 comes with battery wireless SOUND transmission, but that is a design mistake, I think.
+
+I'm having so much fun with this thing, that I will probably eventually replace my Android phone with an iPhone, and pair it with some nice bluetooth headphones, to get an even more compact setup ...
 
 
-
-https://bretpimentel.com/flexible-ewi-fingerings/
