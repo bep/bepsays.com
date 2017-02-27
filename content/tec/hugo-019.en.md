@@ -1,15 +1,14 @@
 ---
-date: 2017-02-28T10:45:38+01:00
-title: "Hugo 0.19 Released: TODO!"
+date: 2017-02-27T14:19:38+01:00
+title: "Hugo 0.19 Released: Native Emacs Org-mode Support and Lots of Improvement!"
 title_main: |
    Hugo 0.19 Released:
-   **TODO!**
+   **Native Emacs Org-mode Support and Lots of Improvement!**
 slug: hugo-019
-draft: true
 images:
 - /assets/img/hugo-logo.png
 ---
-**TODO**
+**More than 180 contributions by 50 contributors in two months is impressive. The new Hugo 0.19 has plenty of fixes, enhancements and new features.**
 
 <!--more-->
 
@@ -17,7 +16,7 @@ Grab the binary of your choice [here](https://github.com/spf13/hugo/releases/tag
 
 
 
-# Release Notes
+## Release Notes
 
 We're happy to announce the first release of Hugo in 2017.
 
@@ -31,10 +30,10 @@ Hugo now has:
 
 Furthermore, Hugo has its own Twitter account ([@gohugoio](https://twitter.com/gohugoio)) where we share bite-sized news and themes from the Hugo community.
 
-{{< gh "@bep" >}} leads the Hugo development and once again contributed a significant amount of additions. Also a big shoutout to  {{< gh "chaseadamsio" >}} for the Emacs Org-mode support, {{< gh "@digitalcraftsman" >}} for his relentless work on keeping the documentation and the themes site in pristine condition, {{< "@fj" >}}  for his work on revising the `params` handling in Hugo, and {{< gh "@moorereason" >}} and {{< gh "@bogem" >}} for their ongoing contributions. 
+{{< gh "@bep" >}} leads the Hugo development and once again contributed a significant amount of additions. Also a big shoutout to  {{< gh "@chaseadamsio" >}} for the Emacs Org-mode support, {{< gh "@digitalcraftsman" >}} for his relentless work on keeping the documentation and the themes site in pristine condition, {{< gh "@fj" >}}for his work on revising the `params` handling in Hugo, and {{< gh "@moorereason" >}} and {{< gh "@bogem" >}} for their ongoing contributions. 
 
 ## Highlights
-Hugo `0.19` brings native Emacs Org-mode content support ({{<gh 1483>}}), big thanks to {{< gh "chaseadamsio" >}}.
+Hugo `0.19` brings native Emacs Org-mode content support ({{<gh 1483>}}), big thanks to {{< gh "@chaseadamsio" >}}.
 
 Also, a considerably amount of work have been put into cleaning up the Hugo source code, in an issue titled [Refactor the globals out of site build](https://github.com/spf13/hugo/issues/2701). This is not immediately visible to the Hugo end user, but will speed up future development.
 
