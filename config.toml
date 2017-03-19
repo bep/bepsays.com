@@ -16,6 +16,13 @@ sectionPagesMenu = "sect"
 
 disqusShortname = "bepsays"
 
+# Note: This can also be set per language.
+# Every Page Kind without a definition here will be assigned the HTML output format.
+# Also note that the outputs section in Page front matter will override any setting in here.
+[outputs]
+home = [ "HTML", "AMP", "RSS"]
+page = [ "HTML"]
+
 [blackfriday]
 angledQuotes = true
 hrefTargetBlank = true

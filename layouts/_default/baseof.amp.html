@@ -1,0 +1,31 @@
+<!doctype html>
+<html ⚡>
+<head>
+  <meta charset="utf-8">
+  <title>bep's AMP</title>
+  {{ range .AlternativeOutputFormats -}}
+ <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}">
+  {{ end -}}
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans|Roboto' rel='stylesheet' type='text/css'>
+  <script custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" async></script>
+  <script async custom-element="amp-live-list" src="https://cdn.ampproject.org/v0/amp-live-list-0.1.js"></script>
+   {{ partial "amp/styles.html" . }}
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+</head>
+<body>
+  <header>
+    <div class="brand-logo">
+      bepsays
+    </div>
+  </header>
+
+  <main role="main">
+      {{block "main" .}}This is the main AMP content.{{end}}
+  </main>
+
+  <footer>
+    <div class="brand-logo">bepsays</div>
+  </footer>
+</body>
+</html>

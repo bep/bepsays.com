@@ -1,0 +1,7 @@
+<div class="social-box">
+	<amp-social-share type="facebook"
+		data-param-text="{{ with .Params.title_main}}{{ . | markdownify }}{{ else }}{{ .Title  }}{{end}}"
+		data-param-href="{{ .Permalink }}"
+	data-param-app_id="111055509053223"></amp-social-share>
+	<amp-social-share type="twitter"></amp-social-share>
+</div>
