@@ -1,0 +1,59 @@
+[translations]
+one =  "Omsetjing"
+other ="Omsetjingar"
+
+[wordCount]
+other = "{{ .WordCount }} ord"
+  
+[readingTime]
+one =  "eitt minutt med lesing"
+other = "{{ .Count }} minuttar lesing"
+  
+# Nav buttons/links
+[continue]
+other = "Hald fram"
+  
+[home]
+other = "Heim"
+
+[older]
+other = "Eldre"
+  
+[newer]
+other = "Nyare"
+
+[paginatorSummary]
+other = "side {{ .PageNumber }} av {{ .TotalPages }} ({{ .TotalNumberOfElements }} innslag)"
+
+[rightsReserved]
+other = "Alle rettar reservert"
+  
+# Social
+[follow]
+other = "Dilt etter"
+
+[rss]
+other = "RSS-straum"
+
+["bylineBy"]
+other = "av"
+
+["bylineAbout"]
+other = "om"
+  
+["bep.is"]
+other = "http://bep.is/nn/"
+  
+# Section mappings
+[sect_fun]
+other = "Moro"
+[sect_art]
+other = "Kultur og kunst"
+[sect_tec]
+other = "Teknologi"
+[sect_pol]
+other = "Meiningar"
+[sect_page]
+other = "Side"
+[sect_]
+other = "-"

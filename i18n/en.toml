@@ -1,0 +1,59 @@
+[translations]
+one ="Translation"
+other = "Translations"
+ 
+[wordCount]
+other = "{{ .WordCount }} words"
+
+[readingTime]
+one ="one minute read"
+other = "{{.Count}} minutes read"
+  
+# Nav buttons/links
+[continue]
+other = "Continue"
+
+[home]
+other = "Home"
+
+[older]
+other = "Older"
+
+[newer]
+other = "Newer"
+  
+[paginatorSummary]
+other = "page {{ .PageNumber }} of {{ .TotalPages }} ({{ .TotalNumberOfElements }} pages)"
+  
+[rightsReserved]
+other = "All rights reserved"
+
+# Social
+[follow]
+other = "Follow"
+
+[rss]
+other = "RSS Feed"
+
+[bylineBy]
+other = "by"
+
+[bylineAbout]
+other = "about"
+
+["bep.is"]
+other = "http://bep.is"
+  
+# Section mappings
+[sect_fun]
+other = "Fun Stuff"
+[sect_art]
+other = "Culture and Arts"
+[sect_tec]
+other = "Technology"
+[sect_pol]
+other = "Opinions"
+[sect_page]
+other = "Page"
+[sect_]
+other = "-"
