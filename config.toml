@@ -19,7 +19,8 @@ disqusShortname = "bepsays"
 # Note: This can also be set per language.
 # Every Page Kind without a definition here will be assigned the HTML output format.
 # Also note that the outputs section in Page front matter will override any setting in here.
-#[outputs]
+[outputs]
+home = [ "HTML", "CSS" ]
 # home = [ "HTML", "AMP", "RSS", "JSON", "MyEnrichedFormat"]
 # page = [ "HTML"]
 
@@ -39,7 +40,8 @@ hrefTargetBlank = true
 
 [params]
 description = "bepsays.com. Om dette og hint."
-
+[params.colors]
+main = "green"
 
 # The media types and output format definitions below are just for testing/demo purpose.
 [mediaTypes]
