@@ -2,9 +2,10 @@
 
 <nav class="pagination">
     {{ template "_internal/pagination.html" . }}
+
     {{ if gt .Paginator.TotalPages 1 }}
     <div class="summary">
-       {{ T "paginatorSummary" .Paginator }}
+       {{/* T "paginatorSummary" .Paginator */}}
     </div>
     {{ end }}
 </nav>
