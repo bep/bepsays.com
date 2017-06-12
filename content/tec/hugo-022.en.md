@@ -14,9 +14,9 @@ images:
 
 Grab the binary of your choice [here](https://github.com/spf13/hugo/releases/tag/v0.22).
 
-{{< img src="/assets/img/hugotree.jpg" >}}
-
 ## Release Notes
+
+{{< img src="/assets/img/hugotree.jpg" class="small" >}}
 
 
 Hugo `0.22` brings **nested sections**, by popular demand and a long sought after feature ([#465](https://github.com/spf13/hugo/issues/465)).  We are still low on documentation for this great feature, but [@bep](https://github.com/bep)  has been kind enough to accompany his implementation with a [demo site](http://hugotest.bep.is/).
