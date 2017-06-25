@@ -9,7 +9,7 @@ SOURCE="$( cd "$( dirname "$0" )" && pwd )"
 
 cd $HOME/go/src/github.com/gohugoio/hugo
 
-go build || die "Hugo build failed!"
+go install || die "Hugo build failed!"
 
 cd $SOURCE
 
