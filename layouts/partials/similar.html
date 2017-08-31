@@ -1,0 +1,9 @@
+{{ $similar := .Site.RegularPages.Similar . | first 5 }}
+{{ with $similar }}
+<h3>See Also</h3>
+<ol>
+{{ range . }}
+<li>{{ .Title }}</li>
+{{ end }}
+</ol>
+{{ end }}
