@@ -1,11 +1,8 @@
 #!/bin/bash
 
-# Import my dev env
-	. $HOME/dev_settings.sh
-
 SOURCE="$( cd "$( dirname "$0" )" && pwd )"
 
-. $SOURCE/script/common.sh
+DEV_DOMAIN="bep.local"
 
 cd $HOME/go/src/github.com/gohugoio/hugo
 
