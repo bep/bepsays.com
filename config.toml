@@ -1,6 +1,6 @@
 baseurl = "http://bepsays.com/"
 title = "bepsays.com"
-languageCode = "no-nn"
+languageCode = "no-nns"
 metaDataFormat = "yaml"
 newContentEditor = "mate"
 pygmentsStyle = "trac"
@@ -14,9 +14,14 @@ defaultContentLanguage = "nn"
 defaultContentLanguageInSubdir = false
 sectionPagesMenu = "sect"
 
+staticDir = ["static"]
+
+
+googleAnalytics = "UA-52478213-1"
+
 disqusShortname = "bepsays"
 
-# Note: This can also be set per language.
+# Note: This can also be set per language...
 # Every Page Kind without a definition here will be assigned the HTML output format.
 # Also note that the outputs section in Page front matter will override any setting in here.
 [outputs]
@@ -39,11 +44,11 @@ hrefTargetBlank = true
     series = "series"
 
 [params]
-description = "bepsays.com. Om dette og hint."
+description = "bepsays.com. Om dette og hint..."
 [params.colors]
 main = "green"
 
-# The media types and output format definitions below are just for testing/demo purpose.
+# The media types and output format definitions below are just for testing/demo purpose....
 [mediaTypes]
 [mediaTypes."text/enriched"]
 suffix = "enr"
@@ -56,6 +61,7 @@ baseName = "myindex"
 isPlainText = true
 protocol = "bep://"
 
+
 [languages]
 [languages.nn]
 languageName = "Nynorsk"
@@ -67,11 +73,29 @@ languageName = "English"
 weight = 2
 title = "Bepsays in English"
 paginatePath = "page"
-description = "bepsays.com. Abut this and that."
+description = "bepsays.com. About this and that."
 [languages.en.blackfriday]
 angledQuotes = false
 hrefTargetBlank = true
 [languages.en.mediaTypes]
 [languages.en.mediaTypes."application/xhtml"]
 suffix = "xml"
+
+
+[privacy]
+[privacy.disqus]
+disable = true
+[privacy.googleAnalytics]
+respectDoNotTrack = true
+anonymizeIP = true
+[privacy.instagram]
+simple = true
+[privacy.speakerDeck]
+disable = true
+[privacy.twitter]
+enableDNT = true
+[privacy.vimeo]
+disable = true
+[privacy.youtube]
+privacyEnhanced = true
 
