@@ -1,4 +1,4 @@
-baseurl = "http://bepsays.com/"
+baseurl = "https://bepsays.com/"
 title = "bepsays.com"
 languageCode = "no-nns"
 metaDataFormat = "yaml"
