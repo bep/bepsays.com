@@ -1,5 +1,6 @@
 ---
 title: "2018 på 60 sekundar"
+slug: 2018-in-60-seconds
 date: 2019-01-10T12:47:02+01:00
 ---
 
