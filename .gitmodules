@@ -1,6 +1,0 @@
-[submodule "assets/vendor/bootstrap"]
-	path = assets/vendor/bootstrap
-	url = git@github.com:twbs/bootstrap.git
-[submodule "gulp"]
-	path = gulp
-	url = git@github.com:bep/hugo-gulp.git
