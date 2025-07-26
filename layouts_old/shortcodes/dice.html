@@ -1,0 +1,5 @@
+<div class="review well">
+    {{ with .Get "title"}}<h3>{{ .  }}</h3>{{ end }}
+    {{ with .Get "eyes"}}<span class="dice e{{ . }}"></span>{{ end }}
+    {{ .Inner }}
+</div>

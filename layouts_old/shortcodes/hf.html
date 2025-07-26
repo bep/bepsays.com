@@ -1,0 +1,7 @@
+<div class="list-checkboxes">
+{{ $all := (slice "JSON" "YAML" "TOML" "Blackfriday" "Asciidoctor" "reStructuredText" "HTML" "Ace" "Go" "Amber" )}}
+{{ range $all }}
+    {{ $current := . }}
+    {{ if in $.Params $current }}<input type="checkbox" checked="" disabled="" class="task-list-item">{{else}}<input type="checkbox" disabled="" class="task-list-item">{{end}}&nbsp;{{ $current }}
+{{ end }}
+</div>

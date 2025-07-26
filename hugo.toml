@@ -1,0 +1,87 @@
+baseurl                        = "https://bepsays.com/"
+disableKinds                   = ["taxonomy", "term", "rss", "sitemap"]
+title                          = "bepsays.com"
+languageCode                   = "no-nns"
+metaDataFormat                 = "yaml"
+newContentEditor               = "mate"
+pygmentsStyle                  = "trac"
+canonifyUrls                   = "true"
+pygmentsCodeFences             = "true"
+enableEmoji                    = true
+defaultContentLanguage         = "nn"
+defaultContentLanguageInSubdir = false
+sectionPagesMenu               = "sect"
+
+staticDir = ["static"]
+
+googleAnalytics = "UA-52478213-1"
+
+disqusShortname = "bepsays"
+
+# Note: This can also be set per language...
+# Every Page Kind without a definition here will be assigned the HTML output format.
+# Also note that the outputs section in Page front matter will override any setting in here.
+[outputs]
+  home = ["HTML"]
+  # home = [ "HTML", "AMP", "RSS", "JSON", "MyEnrichedFormat"]
+  # page = [ "HTML"]
+
+[permalinks]
+  pol = "/:year/:month/:day/:slug/"
+  fun = "/:year/:month/:day/:slug/"
+  art = "/:year/:month/:day/:slug/"
+  tec = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+  tag    = "tags"
+  series = "series"
+
+[params]
+  description = "bepsays.com. Om dette og hint..."
+  [params.colors]
+    main = "green"
+
+# The media types and output format definitions below are just for testing/demo purpose....
+[mediaTypes]
+  [mediaTypes."text/enriched"]
+    suffixes = ["enr"]
+
+[outputFormats]
+  # Not sure what the Enriched format is, but this will produce a plain text Home page with URL bep://bepsays.com/myindex.enr
+  [outputFormats.MyEnrichedFormat]
+    mediaType   = "text/enriched" # Matched by Type in the mediaTypes set.
+    baseName    = "myindex"
+    isPlainText = true
+    protocol    = "bep://"
+
+[languages]
+  [languages.nn]
+    languageName = "Nynorsk"
+    weight       = 1
+    title        = "Bepsays på norsk"
+
+  [languages.en]
+    languageName = "English"
+    weight       = 2
+    title        = "Bepsays in English"
+    description  = "bepsays.com. About this and that."
+    [languages.en.mediaTypes]
+      [languages.en.mediaTypes."application/xhtml"]
+        suffixes = ["xml"]
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
+    anonymizeIP       = true
+    useSessionStorage = true
+  [privacy.instagram]
+    simple = true
+  [privacy.speakerDeck]
+    disable = true
+
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    privacyEnhanced = true
