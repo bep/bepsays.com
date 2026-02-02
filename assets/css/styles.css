@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@variant dark (&:where(.dark, .dark *));
+
+@import "components/all.css";
+
+/* TailwindCSS ignores files in .gitignore, so make it explicit. */
+@source "hugo_stats.json";
+
+@theme {
+  /* Fonts. */
+  --font-sans:
+    acumin-pro, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  /* Breakpoints. */
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 48rem;
+  --breakpoint-lg: 68rem; /* Default 64rem; */
+  --breakpoint-xl: 80rem;
+  --breakpoint-2xl: 96rem;
+
+  /* Colors. */
+  --color-primary: var(--color-blue-600);
+  --color-dark: #000;
+  --color-light: var(--color-gray-50);
+  --color-accent: var(--color-orange-500);
+  --color-accent-light: var(--color-pink-500);
+  --color-accent-dark: var(--color-green-500);
+}
+
+body {
+  @apply antialiased font-sans text-black dark:text-gray-100;
+}

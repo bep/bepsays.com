@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h2 class="text-6xl tracking-tight mb-2">{{ .Title }}</h2>
+  <section class="content">
+    {{ with .Summary }}
+      <div class="lead">
+        {{ . }}
+      </div>
+    {{ end }}
+    {{ .ContentWithoutSummary }}
+  </section>
+{{ end }}

@@ -1,0 +1,8 @@
+{{ $img := "" }}
+{{ range .Resources }}
+  {{ if reflect.IsImageResource . }}
+    {{ $img = . }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+{{ return $img }}

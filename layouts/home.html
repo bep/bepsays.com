@@ -1,0 +1,30 @@
+{{ define "main" }}
+  {{ $writing := site.GetPage "writing" }}
+
+
+  <div class="grid-col-1">
+    {{ $featureWriting := $writing.RegularPages | first 1 }}
+    {{ range $featureWriting }}
+      {{/* Render it in the scope of the home page to get rid of any Markdown image. */}}
+      {{ $content := (.Markup $.Kind).Render }}
+      <a class="flex flex-col mb-10" href="{{ .RelPermalink }}">
+        <div class="mb-4">
+          <h2 class="text-4xl font-bold">{{ .LinkTitle }}</h2>
+          {{ with .PublishDate }}
+            <time
+              datetime="{{ .Format site.Params.time_format_RFC3339 }}"
+              class="text-xs text-gray-400"
+              >{{ .Format site.Params.time_format_default }}</time
+            >
+          {{ end }}
+        </div>
+        {{ with partial "helpers/first-image.html" . }}
+          {{ partial "helpers/picture.html" (dict "image" . ) }}
+        {{ end }}
+        <div class="py-4 prose">
+          {{ $content.Summary }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}

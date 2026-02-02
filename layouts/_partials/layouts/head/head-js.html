@@ -1,0 +1,4 @@
+{{ $opts := dict "minify" true }}
+{{ with resources.Get "js/main.js" | js.Build $opts }}
+  {{ partial "helpers/linkjs.html" (dict "r" . "attributes" (dict "defer" "")) }}
+{{ end }}

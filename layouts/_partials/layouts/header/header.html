@@ -1,0 +1,15 @@
+{{ with site.Home }}
+  <div class="flex justify-between px-4 py-2">
+    <div>
+      {{/* Left side. */}} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </div>
+    {{/* Right side. */}}
+    <ul class="flex space-x-2">
+      {{ range .Sections }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}

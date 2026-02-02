@@ -1,0 +1,21 @@
+{{ if not page.IsHome }}
+  {{- $u := urls.Parse .Destination -}}
+  {{- $src := $u.String -}}
+  {{- if not $u.IsAbs -}}
+    {{- $path := strings.TrimPrefix "./" $u.Path -}}
+    {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+      {{ partial "helpers/picture.html" (dict "image" . ) }}
+    {{- end -}}
+  {{ else }}
+    <img
+      src="{{ $src }}"
+      alt="{{ .PlainText }}"
+      {{- with .Title }}title="{{ . }}"{{- end -}}
+      {{- range $k, $v := .Attributes -}}
+        {{- if $v -}}
+          {{- printf " %s=%q" $k ($v | transform.HTMLEscape) | safeHTMLAttr -}}
+        {{- end -}}
+      {{- end -}}>
+  {{- end -}}
+{{ end }}
+{{- /**/ -}}

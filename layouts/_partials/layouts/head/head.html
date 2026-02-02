@@ -1,0 +1,34 @@
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, viewport-fit=cover" />
+{{ hugo.Generator }}
+
+{{ if hugo.IsProduction }}
+  <meta name="robots" content="index, follow" />
+{{ else }}
+  <meta name="robots" content="noindex, nofollow" />
+{{ end }}
+
+
+<title>
+  {{ with .Title }}{{ . }} |{{ end }}
+  {{ .Site.Title }}
+</title>
+
+<meta name="turbo-prefetch" content="true" />
+
+{{ range .AlternativeOutputFormats -}}
+  <link
+    rel="{{ .Rel }}"
+    type="{{ .MediaType.Type }}"
+    href="{{ .RelPermalink | safeURL }}" />
+{{ end -}}
+
+
+<meta
+  name="description"
+  content="{{ or .Description site.Params.description }}" />
+
+{{ partial "opengraph" . }}
+{{ partial "schema.html" . }}
+{{ partial "twitter_cards.html" . }}
