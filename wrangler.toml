@@ -1,0 +1,9 @@
+name               = 'bepsays'
+compatibility_date = '2025-07-31'
+
+[build]
+	command = './build.sh'
+
+[assets]
+	directory          = './public'
+	not_found_handling = '404-page'
